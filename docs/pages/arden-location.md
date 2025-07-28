@@ -1,8 +1,5 @@
-Perfect — here comes the **📍 Location** category in Arden\!
 
----
-
-### **📍 Category: Location (Arden translations)**
+### **📍 Location**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Notes |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -38,10 +35,6 @@ Perfect — here comes the **📍 Location** category in Arden\!
 | space (outer) | **vaelx** | vaelxa | vaelxam | vaelxum | Vast and alien, "x" gives mystery |
 | bank | **gelt** | gelta | geltam | geltum | Money-rooted |
 | location | **punt** | punta | puntam | puntum | From “point” or “place” |
-
----
-
-Each of these terms keeps your language’s phonetic rules and grammatical structure intact while evoking the essence of its English meaning.
-
-Want me to move on to the next group (**👕 Clothing**) or pause for tweaks?
-
+| area | **sorn** | sorna | sornam | sornum | General space, soft and open |
+| region | **florn** | florna | flornam | flornum | From “flora,” natural area |
+| continent | **landr** | landra | landram | landrum | From “land,” large landmass |

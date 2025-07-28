@@ -1,4 +1,4 @@
-Here’s the **Math & Measurements category** in Arden, with all columns included:
+**Math & Measurements category**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -16,6 +16,4 @@ Here’s the **Math & Measurements category** in Arden, with all columns include
 | weight | **morven** | morvena | morvenam | morvenum | morvenel | morven | From *mass* \+ *burden* tone |
 | edge | **brinek** | brineka | brinekam | brinekum | brinekel | brinek | From *blade* and *break*; hard boundary |
 | corner | **kerel** | kerela | kerelam | kerelum | kerelel | kerel | Compact, angled root with clean geometry |
-
-Let me know if you’d like to continue with **Miscellaneous Nouns** next\!
-
+| volume | **sorven** | sorvena | sorvenam | sorvenum | sorvenel | sorven | From *sorb* (to absorb) \+ *volume*; fluid capacity |

@@ -1,4 +1,4 @@
-Let’s move on to the **🧍 People** category in Arden\!
+**🧍 People** 
 
 ---
 
@@ -36,8 +36,4 @@ Let’s move on to the **🧍 People** category in Arden\!
 | fan | **frond** | fronda | frondam | frondum | Supporter vibe, inspired by “frond” like following |
 | crowd | **mull** | mulla | mullam | mullum | Dense, collective feel |
 | person | **pers** | persa | persam | persum | Generic term, like "individual" |
-
----
-
-You’ve now got a fully Arden-ified family and social set. Would you like to go to the next category — **👩‍⚕️ Jobs** — or make any tweaks first?
-
+| people | **pepl** | pepla | peplam | peplum | Plural form, community feel |
