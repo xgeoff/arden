@@ -1,4 +1,4 @@
-Excellent\! Here's the start of the **Verbs category** in Arden — focused on action, rhythm, and conceptual clarity. Verbs follow your rule:
+**Verbs category**
 
 **Infinitive ends in \-e**  
  **Past tense: \-o**, **Future: \-bo**  
@@ -49,11 +49,7 @@ Here are the **first 40 verbs** with root forms and etymology:
 | stand | **stalne** | stalne | me stalno | me stalnbo | From *stand*, firm and solid |
 | love | **amare** | amare | me amaro | me amarbo | Already canonized in earlier examples |
 
-Would you like me to continue with more verbs in the same table, or stop here to let you review and convert to CSV?
 
-Awesome — here is the **rest of the Verbs category** in Arden, completing the full set. These follow your language rules (infinitive ends in **\-e**, past in **\-o**, future in **\-bo**) and maintain poetic, meaningful roots.
-
----
 
 ### **🔧 Remaining Verbs in Arden**
 
@@ -101,8 +97,4 @@ Awesome — here is the **rest of the Verbs category** in Arden, completing the 
 | sign | **signae** | signae | me signao | me signabo | From *signal*, *signum* |
 | beat | **pulsae** | pulsae | me pulsao | me pulsabo | From *pulse* |
 | lift | **tolrae** | tolrae | me tolrao | me tolrabo | From *tollere*, to raise |
-
----
-
-That's the **full 90+ core verbs** in Arden, each with thoughtful etymology and aligned with your language rules. Would you like me to consolidate them all into a single table for export or reference next?
 

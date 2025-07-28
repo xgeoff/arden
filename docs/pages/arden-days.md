@@ -1,4 +1,4 @@
-Here’s the **Days of the Week** category in Arden — each name evokes the **natural rhythm**, **celestial influences**, and **emotional tone** of that day's archetype, while fitting the phonological style of Arden.
+**Days of the Week** 
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -9,8 +9,4 @@ Here’s the **Days of the Week** category in Arden — each name evokes the **n
 | Friday | **solenya** | solenyaa | solenyam | solenyum | solenyel | solenya | From *sol* (sun) \+ *enya* (celebration); warmth and joy |
 | Saturday | **toravel** | toravela | toravelam | toravelum | toravelel | toravel | From *toran* (body) \+ *veil*; rest and renewal |
 | Sunday | **aureneth** | aurenetha | aurenetham | aurenethum | aurenethel | aureneth | From *aura* \+ *ethereal*; spiritual day, day of light |
-
-These names aim to be **lyrical, atmospheric, and mythic**, reflecting each day’s role in the cultural and natural rhythm of time in Arden.
-
-Would you like to move on to the **Time** category next (year, day, minute, etc.)?
-
+| Holiday | **festan** | festana | festanam | festanum | festanel | festan | From *festival* \+ *day*; general term for celebrations |

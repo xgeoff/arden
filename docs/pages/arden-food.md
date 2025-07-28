@@ -1,4 +1,4 @@
-Got it — here’s the full **Food category** table with **all columns**, including the notes/etymology:
+**Food** 
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -30,6 +30,3 @@ Got it — here’s the full **Food category** table with **all columns**, inclu
 | salt | kravin | kravina | kravinam | kravinum | kravinel | kravin | Crystalline, punchy; mineral inspiration |
 | bottle | vaskor | vaskora | vaskoram | vaskorum | vaskorel | vaskor | Durable container; “vas” (vessel) \+ hard suffix |
 | food | dalen | dalena | dalenam | dalenum | dalenel | dalen | Root of sustenance, nourishment, and life itself |
-
-Let me know when you're ready for the **Home** category next\!
-

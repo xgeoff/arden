@@ -1,4 +1,4 @@
-Great — here’s the **Home category** in Arden, complete with all columns:
+**Home category** 
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -38,6 +38,8 @@ Great — here’s the **Home category** in Arden, complete with all columns:
 | card | **plaset** | plaseta | plasetam | plasetum | plasetel | plaset | Flat, versatile, communicative |
 | ring | **coran** | corana | coranam | coranum | coranel | coran | From *circle* \+ *ornament* blend |
 | tool | **franv** | franva | franvam | franvum | franvel | franv | Practical root with strong consonants |
-
-Let me know if you'd like to move on to **Electronics** next\!
-
+| home | **toran** | torana | toranam | toranum | toranel | toran | Full physical form; solid, simple root |
+| house | **dromel** | dromela | dromelam | dromelum | dromelel | dromel | From *drum* and *mound*; carries burden |
+| apartment | **selven** | selvena | selvenam | selvenum | selvenel | selven | From *sel* (room) \+ *haven* (home) |
+| room | **narsel** | narsela | narselam | narselum | narselal | narsel | From *nareth* (bed) and *sel* (room) |
+| space | **floren** | florena | florendam | florenum | florinel | floren | Open area, airy and expansive |

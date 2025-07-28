@@ -1,5 +1,4 @@
-Absolutely\! Here’s your **Compact Guide to Number Formation in Arden** — designed to be logical, expressive, and true to the language’s structure.
-
+**Compact Guide to Number Formation in Arden**
 ---
 
 ## **🧮 Arden Number Formation Guide**
@@ -78,14 +77,4 @@ Absolutely\! Here’s your **Compact Guide to Number Formation in Arden** — de
 | 3rd | **trenaneth** |
 | 10th | **dekrenaneth** |
 | 100th | **centoraneth** |
-
----
-
-Would you like me to:
-
-* Create a printable version (Markdown or PDF)?
-
-* Build a table of 1–100 in this system?
-
-* Or move on to the next category (Months)?
-
+| 1,000th | **milaraneth** |

@@ -1,4 +1,4 @@
-Here’s the **Electronics category** in Arden with all columns included:
+**Electronics**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -14,6 +14,4 @@ Here’s the **Electronics category** in Arden with all columns included:
 | camera | **tramel** | tramela | tramelam | tramelum | tramelel | tramel | From *capture* \+ *frame*; smooth and compact |
 | television | **valdra** | valdrana | valdranam | valdranum | valdrael | valdra | *Vision* \+ *distance*; rooted in “far-seeing” |
 | radio | **sonir** | sonora | soniram | sonirum | sonirel | sonir | From *sonus* \+ *air*; broadcasting concept |
-
-Let me know when you're ready to continue — next up is **Body** unless you’d like to jump to another category\!
 

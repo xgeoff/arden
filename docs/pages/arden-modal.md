@@ -1,6 +1,3 @@
-Perfect — let’s round out Arden’s expressive toolkit with **particles and modal words**. These are small but powerful words that help convey **certainty, doubt, emotion, emphasis**, and **subtle meaning shifts**.
-
----
 
 ## **🌗 Particles & Modal Words in Arden**
 
@@ -61,14 +58,4 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 * **Modal \+ verb** creates tone:  
    “Me **morai** vare.” → “I will definitely go.”  
    “Me **meliv** vare.” → “I might go.”
-
----
-
-Would you like to:
-
-* Try sample sentences using these?
-
-* Move on to syntax rules?
-
-* Begin packaging the full Arden language kit?
 

@@ -1,4 +1,4 @@
-Here’s the **Nature category** in Arden with all columns:
+**Nature category**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -35,6 +35,6 @@ Here’s the **Nature category** in Arden with all columns:
 | hill | **tarven** | tarvena | tarvenam | tarvenum | tarvenel | tarven | Small mountain; smoother tone |
 | heat | **selvar** | selvana | selvam | selvum | selvarel | selvar | Radiating warmth; from *sear* |
 | nature | **veril** | verila | verilam | verilum | verilel | veril | Vital, whole; from *vita* \+ *real* |
-
-Let me know when you're ready for **Materials** next\!
-
+| animal | **dralen** | dralena | dralenam | dralenum | dranel | dralen | From *drama* \+ *animal*; lively and dynamic |
+| insect | **narel** | narela | narelam | narelum | narelel | narel | Small, buzzing; shared with “inch” (can revise) |
+| nature | **veril** | verila | verilam | verilum | verilel | veril | Vital, whole; from *vita* \+ *real* |

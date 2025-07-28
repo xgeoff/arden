@@ -1,8 +1,5 @@
-Awesome — here's the **🎨 Color** category in Arden:
 
----
-
-### **🎨 Category: Color (Adjective-based in Arden)**
+### **🎨 Color**
 
 Since colors are adjectives in Arden, they all follow the **\-el** suffix rule and come **after the noun**. I'll also include **plural (-ee)** forms for use with plural nouns.
 
@@ -27,6 +24,4 @@ Since colors are adjectives in Arden, they all follow the **\-el** suffix rule a
 
 * *duran garnel* \= the red mountain  
 * *duranee garnelee* \= the red mountains
-
-Want to roll ahead to the next category: **🧍 People**?
-
+* *solinor celenel* \= today’s light blue sky

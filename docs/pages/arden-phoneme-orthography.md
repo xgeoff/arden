@@ -1,4 +1,4 @@
-Here is the **fully updated and accurate Arden Phoneme-to-Orthography Chart**, reflecting all your latest changes — including the removal of **ao** and reassignment of **o** to the /ɑ/ sound (as in *father*, *pot*).
+**Arden Phoneme-to-Orthography Chart**
 
 ---
 

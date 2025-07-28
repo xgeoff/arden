@@ -1,4 +1,4 @@
-Here’s the **Seasons category** in Arden, fully formed:
+**Seasons category** 
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -7,6 +7,3 @@ Here’s the **Seasons category** in Arden, fully formed:
 | winter | **harneth** | harnetha | harnetham | harnethum | harnethel | harneth | Harsh and cold; from *hard* \+ *breath* |
 | autumn | **umbril** | umbrila | umbrilam | umbrilum | umbrilel | umbril | From *umbra* (shadow); fading season |
 | season | **terval** | tervala | tervalam | tervalum | tervalel | terval | Root from *turn* \+ *cycle*; rotation of the year |
-
-Let me know when you’re ready to move on to **Numbers** — that one’s a fun and structured set\!
-

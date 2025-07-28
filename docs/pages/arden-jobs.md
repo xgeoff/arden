@@ -1,8 +1,5 @@
-Onward to the **👩‍⚕️ Jobs** category in Arden\!
 
----
-
-### **👩‍⚕️ Category: Job (Arden translations)**
+### **👩‍⚕️ Jobs**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Notes |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -23,8 +20,4 @@ Onward to the **👩‍⚕️ Jobs** category in Arden\!
 | reporter | **notin** | notina | notinam | notinum | From *note*, tied to news |
 | actor | **dramell** | dramella | dramellam | dramellum | Theatrical root, matches *dramm* (theater) |
 | job | **tarnv** | tarnva | tarnvam | tarnvum | Generic word for occupation or task |
-
----
-
-Would you like to roll forward to the next group — **🏛 Society** — or pause to refine anything?
-
+| career | **karnel** | karnela | karnelam | karnelum | From *career*, professional path |

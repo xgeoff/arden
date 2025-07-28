@@ -1,4 +1,4 @@
-Here’s the **Months category** in Arden, carefully crafted with all columns included. These roots aim to evoke **seasonal tone, celestial imagery, and poetic clarity**, rather than being strict calendar clones.
+**Months category**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -14,8 +14,3 @@ Here’s the **Months category** in Arden, carefully crafted with all columns in
 | October | **drevarn** | drevarna | drevarnam | drevarnum | drevarnel | drevarn | *Drift* \+ *earth*; falling leaves, twilight |
 | November | **moriven** | morivena | morivenam | morivenum | morivenel | moriven | *Mourn* \+ *evening*; solemn and fading |
 | December | **lunareth** | lunaretha | lunaretham | lunarethum | lunarethel | lunareth | *Luna* \+ *rest*; quiet, cold, and reflective |
-
-These names are meant to feel **seasonal, mythic, and intuitive** — not directly mapped to Latin months, but inspired by what each month represents.
-
-Would you like to do **Days of the Week** next, or something else?
-

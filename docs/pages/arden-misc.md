@@ -1,4 +1,4 @@
-Here’s the **Miscellaneous Nouns** category in Arden, complete with all columns:
+**Miscellaneous Nouns**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -19,6 +19,3 @@ Here’s the **Miscellaneous Nouns** category in Arden, complete with all column
 | noun | **namor** | namora | namoram | namorum | namorel | namor | From *name* \+ *form*; grammatical root |
 | verb | **durel** | durela | durelam | durelum | durelel | durel | From *do* \+ *rule*; implies action |
 | adjective | **qualin** | qualina | qualinam | qualinum | qualinel | qualin | From *quality*; descriptive root |
-
-Let me know if you're ready to continue with **Directions** next\!
-

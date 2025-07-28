@@ -1,4 +1,4 @@
-Here’s the **Directions category** in Arden, with all columns included:
+**Directions** 
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -19,6 +19,4 @@ Here’s the **Directions category** in Arden, with all columns included:
 | east | **aureth** | auretha | auretham | aurethum | aurethel | aureth | From *aurora*; sunrise and dawn |
 | west | **velnor** | velnora | velnoram | velnorum | velnorel | velnor | From *veil* \+ *northern* dusk |
 | direction | **naveth** | navetha | navetham | navethum | navethel | naveth | Root of *navigate*; guiding term |
-
-Let me know if you're ready to continue with **Seasons** next\!
 

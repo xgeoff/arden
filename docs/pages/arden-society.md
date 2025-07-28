@@ -1,4 +1,4 @@
-Great\! Let’s dive into the **🏛 Society** category in Arden.
+**🏛 Society** 
 
 ---
 
@@ -44,10 +44,4 @@ Great\! Let’s dive into the **🏛 Society** category in Arden.
 | sign | **merk** | merka | merkam | merkum | Symbol or signal |
 | science | **logen** | logena | logenam | logenum | From “logos,” knowledge |
 | God | **Ilun** | Iluna | Ilunam | Ilunum | Core divine being, capitalized always |
-
----
-
-These words carry a mix of emotional weight, political relevance, and cultural influence — and your Arden versions reflect that tone.
-
-Shall we roll into **🎵 Art** next?
 

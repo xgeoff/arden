@@ -1,4 +1,4 @@
-Here’s the **Materials category** in Arden, with all columns included:
+**Materials category** 
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -14,6 +14,4 @@ Here’s the **Materials category** in Arden, with all columns included:
 | copper | **kuven** | kuvina | kuvenam | kuvenum | kuvenel | kuven | Warm, red-brown tone; altered from *cuprum* |
 | silver | **silerth** | silertha | silertham | silerthum | silerthel | silerth | Elegant and bright; blends *silver* and *earth* |
 | material | **tarnel** | tarnela | tarnelam | tarnelum | tarnelel | tarnel | General root; reflects “substance” or “stuff” |
-
-Let me know when you’re ready for the next category: **Math & Measurements**.
 

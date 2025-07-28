@@ -1,4 +1,4 @@
-Great — let’s build out **pronouns**, **prepositions**, and **conjunctions** in Arden. These are essential to fluent expression and will help you write full sentences with clarity and elegance.
+**pronouns**, **prepositions**, and **conjunctions** 
 
 ---
 
@@ -107,14 +107,4 @@ Built for flow and tone, these glue ideas together:
 | while | **theran** | Simultaneous action |
 | when | **loren** | Temporal connector |
 | that (conj.) | **del** | Subordinate clause |
-
----
-
-Would you like to:
-
-* Move on to **common expressions** (hello, thank you, etc.)
-
-* Build example sentences?
-
-* Begin exporting/compiling these into a full language kit?
 

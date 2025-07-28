@@ -1,10 +1,6 @@
-Awesome\! On to the next category: **🚗 Transportation**.
-
-Here are Arden versions of the words, fully declined where needed:
-
+**🚗 Transportation**
 ---
 
-### **🚗 Category: Transportation (Arden translations)**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Notes |
 | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -21,14 +17,4 @@ Here are Arden versions of the words, fully declined where needed:
 | engine | **torb** | torba | torbam | torbum | Central, mechanical |
 | ticket | **senv** | senva | senvam | senvum | A pass or token |
 | transportation | **mural** | murala | muralam | muralum | Derived from "move" \+ "travel" blended feel |
-
----
-
-### **✅ Patterns Maintained:**
-
-* All noun roots end in a consonant  
-* All inflections consistent with your case system  
-* Roots sound distinct but cohesive within your phonology
-
-Would you like to keep going to the next section (**📍 Location**) or adjust any of these?
 
