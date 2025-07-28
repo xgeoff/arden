@@ -1,6 +1,3 @@
-Perfect\! Let's build out a set of **core adverbs** in Arden — words that modify verbs (how, when, how often, etc.).
-
----
 
 ### **📘 Arden Adverb Formation Principles**
 
@@ -88,14 +85,4 @@ In Arden:
 | nowhere | **nulvenor** | nulvenor | *No* \+ *location* |
 | inside | **invaren** | invaren | From location root |
 | outside | **esvaren** | esvaren | From *eskren* root |
-
----
-
-Would you like me to:
-
-* Expand this list further?
-
-* Consolidate into a table format with pronoun examples?
-
-* Move on to **prepositions**, **conjunctions**, or **common expressions** next?
 

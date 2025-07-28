@@ -1,4 +1,3 @@
-Perfect — that will make things faster and smoother.
 
 Here’s the **Art category** in Arden displayed as a table:
 
@@ -10,6 +9,4 @@ Here’s the **Art category** in Arden displayed as a table:
 | music | **sona** | sonara | sonaram | sonarum | sonarel | sona | From Latin 'sonus'; denotes sound and emotional tone |
 | movie | **virel** | virela | virelam | virelum | virelel | virel | Rooted in 'vision' and 'reel'; modern and flowing |
 | art | **aelis** | aelisa | aelisam | aelisum | aelisel | aelis | Evokes elegance and creativity; inspired by 'aether' and 'elis' (grace) |
-
-Let me know when you're ready for the next category — **Beverages**, or something else.
 

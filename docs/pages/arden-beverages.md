@@ -1,4 +1,4 @@
-Great — here’s the **Beverages category** in Arden:
+**Beverages category**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -10,6 +10,4 @@ Great — here’s the **Beverages category** in Arden:
 | water | **avel** | avela | avelam | avelum | avelel | avel | From “aqua” \+ “veil”; clarity and softness |
 | milk | **lufen** | lufena | lufenam | lufenum | lufenel | lufen | Gentle and nurturing; light-sounding and smooth |
 | beverage | **drasil** | drasila | drasilam | drasilum | drasilel | drasil | General term for drink; inspired by “draught” and “vessel” |
-
-Let me know when you're ready for **Food** or another category\!
 
