@@ -1,4 +1,4 @@
-Here’s the **Body category** in Arden, fully formed with all columns:
+**Body category**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -33,6 +33,3 @@ Here’s the **Body category** in Arden, fully formed with all columns:
 | voice | **virel** | virela | virelam | virelum | virelel | virel | Reused from "movie" and “vision”; may split if necessary |
 | skin | **dureth** | duretha | duretham | durethum | durethel | dureth | From *durable* \+ *breath*; protective outer layer |
 | body | **toran** | torana | toranam | toranum | toranel | toran | Full physical form; solid, simple root |
-
-Let me know if you'd like to continue to **Nature** next\!
-

@@ -1,4 +1,3 @@
-Perfect — now that we’re on the same page, I’ll generate a **curated list of Arden adjectives** that align with your language’s phonology, aesthetic, and grammatical rules. These will follow the correct Arden format:
 
 * **All adjectives end in `-el`**
 
@@ -36,10 +35,4 @@ Perfect — now that we’re on the same page, I’ll generate a **curated list 
 | dry | **selk** | selkel | selkel | selkel | Arid and rough in sound |
 | sick | **morv** | morvel | morvel | morvel | Muted, weary tone |
 | healthy | **valin** | valinel | valinel | valinel | Uplifting, clear form |
-
----
-
-This is the **first third** of your full list (25 curated adjectives). If you like the tone and format, I’ll continue with the rest\!
-
-Would you like to proceed with the next batch?
 

@@ -18,3 +18,10 @@
 * **Minimal Word Stress**: All syllables are pronounced with equal emphasis, making pronunciation consistent and predictable.
 * **Intonation**: Built-in rules for expressive sentence types, including questions, exclamations, and emphatics.
 * **Expandable**: Ardan is designed to be modular and extensible, suitable for storytelling, linguistic experimentation, or practical use.
+
+### Arden Morphological Rules
+
+* **Nouns:** end in a consonant (base form), with *\-a* (nominative), *\-am* (accusative), *\-um* (genitive), *\-ee* (plural)
+* **Verbs:** end in *\-e* (infinitive), with *\-o* (past), *\-bo* (future)
+* **Adjectives:** end in *\-el*, go after nouns, with optional plural *\-ee*, and comparative *\-ar* / superlative *\-estel*
+* **Pronunciation:** will follow the phonetic rules and consonant guidelines from your language spec
