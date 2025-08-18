@@ -1,4 +1,4 @@
 title = "Grimoire Site"
 baseUrl = "/"
-outputDir = "public"
-sourceDir = "docs"
+outputDir = "docs"
+sourceDir = "site"

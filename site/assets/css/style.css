@@ -1,0 +1,81 @@
+/* custom.css — add after Skeleton */
+
+/* Tweak Skeleton’s container a bit for single-column pages */
+.container {
+  max-width: 100%;               /* outer frame */
+  padding-inline: clamp(16px, 4vw, 28px);
+}
+
+/* The readable column */
+.prose {
+  /* keep text line-length comfortable */
+  max-width: clamp(58ch, 75vw, 90ch);
+  margin-inline: auto;
+
+  /* page padding top/bottom */
+  padding-block: clamp(1.25rem, 4vh, 3rem);
+
+  /* base type rhythm */
+  line-height: 1.6;
+  font-size: 1.0625rem;            /* ~17px */
+}
+
+/* Vertical rhythm for common elements (logical properties) */
+.prose > * + * { margin-block-start: 0.9em; }
+.prose h1, .prose h2, .prose h3 {
+  line-height: 1.2;
+  margin-block: 1.6em 0.6em;
+}
+.prose h1 { font-size: clamp(1.8rem, 3.5vw, 2.4rem); }
+.prose h2 { font-size: clamp(1.4rem, 2.8vw, 1.9rem); }
+.prose h3 { font-size: clamp(1.2rem, 2.2vw, 1.5rem); }
+
+/* Lists, quotes, code blocks */
+.prose ul, .prose ol { padding-inline-start: 1.25em; }
+.prose blockquote {
+  border-inline-start: 4px solid #e1e1e1;
+  padding-inline: 1em;
+  margin-inline: 0;
+  color: #555;
+}
+.prose pre, .prose code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+.prose pre {
+  overflow: auto;
+  padding: 0.9rem 1rem;
+  background: #f7f7f7;
+  border-radius: 6px;
+}
+
+/* Images and tables fit the column */
+.prose img, .prose video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-block: 1rem;
+}
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.prose table th,
+.prose table td {
+  padding: 0.5rem 0.75rem;
+  border-top: 1px solid #e1e1e1;
+}
+
+/* Header/Footer spacing */
+.site-header, .site-footer {
+  padding-block: clamp(0.75rem, 2.5vh, 1.5rem);
+}
+.site-title { margin: 0; }
+
+/* Optional: subtle dark-mode adjustments */
+@media (prefers-color-scheme: dark) {
+  body { background: #0f0f10; color: #eaeaea; }
+  .prose blockquote { border-inline-start-color: #3a3a3a; color: #bcbcbc; }
+  .prose pre { background: #1a1a1b; }
+  .prose table th, .prose table td { border-top-color: #2a2a2a; }
+}
+
