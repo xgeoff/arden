@@ -124,4 +124,31 @@ li > p {
     padding-left: 0;
   }
 }
+.layout {
+  display: flex;
+  align-items: flex-start;     /* optional: top‑align content */
+}
+
+/* Sidebar: fixed width on desktop */
+.sidebar {
+  flex: 0 0 200px;              /* or any preferred width */
+  margin-right: 1.5rem;
+}
+
+/* Main content fills the remaining space */
+.prose {
+  flex: 1;
+  margin-inline: 0;             /* remove auto centering */
+}
+
+/* Stack on small screens */
+@media (max-width: 768px) {
+  .layout {
+    flex-direction: column;
+  }
+  .sidebar {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+}
 
