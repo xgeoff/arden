@@ -4,7 +4,7 @@
     <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>Arden</title>
+    <title>{{title}}</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -28,24 +28,10 @@
 
 </head>
 <body>
-<main class="container">
-<h2><strong>✅ Translation Process Overview</strong></h2>
-<h3><strong>1. Categorize by Type</strong></h3>
-<p>You’ve already done this (thank you!), so I’ll keep those groupings and work section by section: nouns → verbs → adjectives → etc.</p>
-<h3><strong>🐾 Category: Animal (Arden translations)</strong></h3>
-<p>| English | Arden (Root) | Nominative | Accusative | Genitive | Notes |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| dog | <strong>kurm</strong> | kurma | kurmam | kurmum | Harsh-sounding, loyal |
-| cat | <strong>nelf</strong> | nelfa | nelfam | nelfum | Soft, agile tone |
-| fish | <strong>visk</strong> | viska | viskam | viskum | Inspired by “viscous” |
-| bird | <strong>tarv</strong> | tarva | tarvam | tarvum | Light and airy but sharp |
-| cow | <strong>grob</strong> | groba | grobam | grobum | Solid, grounded |
-| pig | <strong>snarv</strong> | snarva | snarvam | snarvum | Slightly rough, earthy |
-| mouse | <strong>mifk</strong> | mifka | mifkam | mifkum | Small, quick-sounding |
-| horse | <strong>dravn</strong> | dravna | dravnam | dravnum | Strong and noble |
-| wing | <strong>kailt</strong> | kailta | kailtam | kailtum | Like “kite” + lift |
-| animal | <strong>faarn</strong> | faarna | faarnam | faarnum | General class, smooth and neutral |</p>
-
-</main>
+{{> sidebar}}        {{!-- include sidebar navigation --}}
+{{open "main" class="container"}}
+{{sidebar}}
+{{{content}}}
+{{close "main"}}
 </body>
 </html>

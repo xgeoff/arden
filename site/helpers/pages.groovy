@@ -2,7 +2,7 @@ import com.github.jknack.handlebars.Helper
 import com.github.jknack.handlebars.Options
 
 return { Object context, Options options ->
-    def pagesDir = options.context.model('pagesDir') as File
+    def pagesDir = options.context.get('pagesDir') as File
     if (!pagesDir?.exists() || !pagesDir.directory) {
         return []
     }
@@ -21,7 +21,7 @@ return { Object context, Options options ->
                             children: children
                     ]
                 }
-            } else if (file.name ==~ /(?i).*\.md|\.html?$/) {
+            } else if (file.name ==~ /(?i).*\.(md|html?)$/) {
                 def relativePath = root.toPath().relativize(file.toPath()).toString().replace(File.separator, "/")
                 def name = file.name.replaceFirst(/(?i)\.(md|html?)$/, "")
 
