@@ -78,4 +78,9 @@
   .prose pre { background: #1a1a1b; }
   .prose table th, .prose table td { border-top-color: #2a2a2a; }
 }
+/* Remove extra block spacing inside list items */
+li > p {
+  display: inline;     /* keep paragraph inline with the bullet */
+  margin: 0;           /* strip default margins */
+}
 
