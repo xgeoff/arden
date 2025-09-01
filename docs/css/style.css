@@ -2,25 +2,48 @@
 
 /* Tweak Skeleton’s container a bit for single-column pages */
 .container {
-  max-width: 100%;               /* outer frame */
+  max-width: 100%;
   padding-inline: clamp(16px, 4vw, 28px);
 }
 
-/* The readable column */
-.prose {
-  /* keep text line-length comfortable */
-  max-width: clamp(58ch, 75vw, 90ch);
-  margin-inline: auto;
-
-  /* page padding top/bottom */
-  padding-block: clamp(1.25rem, 4vh, 3rem);
-
-  /* base type rhythm */
-  line-height: 1.6;
-  font-size: 1.0625rem;            /* ~17px */
+/* Flex layout for sidebar + content */
+.layout {
+  display: flex;
+  align-items: flex-start;
 }
 
-/* Vertical rhythm for common elements (logical properties) */
+/* Sidebar styles */
+.sidebar {
+  flex: 0 0 200px;
+  border-right: 1px solid #e1e1e1;
+  padding-right: 1rem;
+  margin-right: 1.5rem;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nav-list li { margin-bottom: 0.5rem; }
+.nav-list a {
+  text-decoration: none;
+  color: #333;
+}
+.nav-list a:hover { color: #0074d9; }
+
+/* Main content column */
+.prose {
+  flex: 1;
+  margin-inline: 0;
+  max-width: clamp(58ch, 75vw, 90ch);
+  padding-block: clamp(1.25rem, 4vh, 3rem);
+  padding-left: 1.5rem;
+  line-height: 1.6;
+  font-size: 1.0625rem;
+}
+
+/* Vertical rhythm for content */
 .prose > * + * { margin-block-start: 0.9em; }
 .prose h1, .prose h2, .prose h3 {
   line-height: 1.2;
@@ -55,10 +78,7 @@
   height: auto;
   margin-block: 1rem;
 }
-.prose table {
-  width: 100%;
-  border-collapse: collapse;
-}
+.prose table { width: 100%; border-collapse: collapse; }
 .prose table th,
 .prose table td {
   padding: 0.5rem 0.75rem;
@@ -71,84 +91,34 @@
 }
 .site-title { margin: 0; }
 
-/* Optional: subtle dark-mode adjustments */
-@media (prefers-color-scheme: dark) {
-  body { background: #0f0f10; color: #eaeaea; }
-  .prose blockquote { border-inline-start-color: #3a3a3a; color: #bcbcbc; }
-  .prose pre { background: #1a1a1b; }
-  .prose table th, .prose table td { border-top-color: #2a2a2a; }
-}
 /* Remove extra block spacing inside list items */
 li > p {
-  display: inline;     /* keep paragraph inline with the bullet */
-  margin: 0;           /* strip default margins */
-}
-/* Sidebar styles */
-.sidebar {
-  border-right: 1px solid #e1e1e1;
-  padding-right: 1rem;
-}
-
-.nav-list {
-  list-style: none;
-  padding: 0;
+  display: inline;
   margin: 0;
 }
-.nav-list li {
-  margin-bottom: 0.5rem;
-}
-.nav-list a {
-  text-decoration: none;
-  color: #333;
-}
-.nav-list a:hover {
-  color: #0074d9; /* Skeleton’s primary blue */
-}
 
-/* Main content */
-.prose {
-  padding-left: 1.5rem;
-  line-height: 1.6;
-  max-width: 100%; /* don’t constrain further, Skeleton already handles width */
-}
-
-/* On mobile: stack nav above content, remove right border */
+/* Responsive: stack nav on small screens */
 @media (max-width: 768px) {
+  .layout { flex-direction: column; }
   .sidebar {
+    flex: none;
     border-right: none;
     border-bottom: 1px solid #e1e1e1;
     padding-right: 0;
-    margin-bottom: 1rem;
-  }
-  .prose {
-    padding-left: 0;
-  }
-}
-.layout {
-  display: flex;
-  align-items: flex-start;     /* optional: top‑align content */
-}
-
-/* Sidebar: fixed width on desktop */
-.sidebar {
-  flex: 0 0 200px;              /* or any preferred width */
-  margin-right: 1.5rem;
-}
-
-/* Main content fills the remaining space */
-.prose {
-  flex: 1;
-  margin-inline: 0;             /* remove auto centering */
-}
-
-/* Stack on small screens */
-@media (max-width: 768px) {
-  .layout {
-    flex-direction: column;
-  }
-  .sidebar {
     margin-right: 0;
     margin-bottom: 1rem;
   }
+  .prose { padding-left: 0; }
 }
 
+/* Optional dark-mode adjustments */
+@media (prefers-color-scheme: dark) {
+  body { background: #0f0f10; color: #eaeaea; }
+  .prose blockquote {
+    border-inline-start-color: #3a3a3a;
+    color: #bcbcbc;
+  }
+  .prose pre { background: #1a1a1b; }
+  .prose table th,
+  .prose table td { border-top-color: #2a2a2a; }
+}
