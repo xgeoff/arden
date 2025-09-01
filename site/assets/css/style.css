@@ -137,3 +137,6 @@ main > div {
   flex: 1;            /* content takes remaining space */
   margin-left: 1rem;  /* gap between sidebar and content */
 }
+.sidebar {
+  padding-block-start: clamp(1.25rem, 4vh, 3rem); /* same as .prose top padding */
+}
