@@ -122,3 +122,18 @@ li > p {
   .prose table th,
   .prose table td { border-top-color: #2a2a2a; }
 }
+main {
+  display: flex;
+  align-items: flex-start; /* keeps nav and content aligned to the top */
+}
+
+main nav {
+  width: 200px;       /* fixed width for the sidebar */
+  flex-shrink: 0;     /* prevents the sidebar from shrinking */
+}
+
+main .prose,          /* or .container / other content wrapper */
+main > div {
+  flex: 1;            /* content takes remaining space */
+  margin-left: 1rem;  /* gap between sidebar and content */
+}
