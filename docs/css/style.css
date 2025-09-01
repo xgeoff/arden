@@ -123,7 +123,7 @@ li > p {
   .prose table td { border-top-color: #2a2a2a; }
 }
 main {
-  display: flex;
+  /* display: flex; */
   align-items: flex-start; /* keeps nav and content aligned to the top */
 }
 
