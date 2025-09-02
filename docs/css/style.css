@@ -41,7 +41,9 @@
   line-height: 1.6;
   font-size: 1.0625rem;
 }
-
+main.prose {
+  margin-inline: auto;
+}
 /* Vertical rhythm for content */
 .prose > * + * { margin-block-start: 0.9em; }
 .prose h1, .prose h2, .prose h3 {
