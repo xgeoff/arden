@@ -34,7 +34,6 @@
 
 /* Main content column */
 .prose {
-  flex: 1;
   margin-inline: 0;
   max-width: clamp(58ch, 75vw, 90ch);
   padding-block: clamp(1.25rem, 4vh, 3rem);
@@ -130,12 +129,6 @@ main {
 main nav {
   width: 200px;       /* fixed width for the sidebar */
   flex-shrink: 0;     /* prevents the sidebar from shrinking */
-}
-
-main .prose,          /* or .container / other content wrapper */
-main > div {
-  margin-left: 1rem;  /* gap between sidebar and content */
-  margin: auto;
 }
 .sidebar {
   padding-block-start: clamp(1.25rem, 4vh, 3rem); /* same as .prose top padding */
