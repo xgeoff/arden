@@ -1,4 +1,6 @@
-
+---
+title = "Adjectives and Adverbs"
+---
 * **All adjectives end in `-el`**
 
 * **Arden words must feel elegant, poetic, or grounded**
