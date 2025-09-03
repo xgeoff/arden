@@ -1,5 +1,6 @@
 import com.github.jknack.handlebars.Helper
 import com.github.jknack.handlebars.Options
+import groovy.util.ConfigSlurper
 
 return { Object context, Options options ->
     def pagesDir = options.context.get('pagesDir') as File
@@ -25,23 +26,28 @@ return { Object context, Options options ->
                 def relativePath = root.toPath().relativize(file.toPath()).toString().replace(File.separator, "/")
                 def name = file.name.replaceFirst(/(?i)\.(md|html?)$/, "")
 
-                // Look for a YAML front matter block and extract the title when present
+
+                // Look for a Groovy front matter block and extract the title when present
                 def title
                 if (file.name.toLowerCase().endsWith(".md")) {
                     def lines = file.readLines()
                     if (lines && lines[0] ==~ /^---\s*$/) {
-                        def yamlLines = []
+
+                        def fmLines = []
+
                         for (int i = 1; i < lines.size(); i++) {
                             def line = lines[i]
                             if (line ==~ /^---\s*$/) {
                                 break
                             }
-                            yamlLines << line
+                            fmLines << line
                         }
-                        yamlLines.each { l ->
-                            def m = l =~ /^\s*title\s*:\s*(.+)\s*$/
-                            if (m) {
-                                title = m[0][1].trim().replaceAll(/^['"]|['"]\$/, '')
+                        if (fmLines) {
+                            try {
+                                def config = new ConfigSlurper().parse(fmLines.join("\n"))
+                                title = config.title?.toString()
+                            } catch (ignored) {
+                                // ignore malformed front matter
                             }
                         }
                     }
