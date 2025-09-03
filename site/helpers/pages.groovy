@@ -26,12 +26,15 @@ return { Object context, Options options ->
                 def relativePath = root.toPath().relativize(file.toPath()).toString().replace(File.separator, "/")
                 def name = file.name.replaceFirst(/(?i)\.(md|html?)$/, "")
 
+
                 // Look for a Groovy front matter block and extract the title when present
                 def title
                 if (file.name.toLowerCase().endsWith(".md")) {
                     def lines = file.readLines()
                     if (lines && lines[0] ==~ /^---\s*$/) {
+
                         def fmLines = []
+
                         for (int i = 1; i < lines.size(); i++) {
                             def line = lines[i]
                             if (line ==~ /^---\s*$/) {
