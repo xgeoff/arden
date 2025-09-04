@@ -59,7 +59,7 @@ return { Object context, Options options ->
                         path: relativePath
                 ]
                 if (title) {
-                    item.title = title
+                    item.name = title
                 }
                 items << item
             }
