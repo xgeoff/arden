@@ -27,36 +27,36 @@ Example 2: Using **seel** (“most”)
 
 * **Arden words must feel elegant, poetic, or grounded**
 
-* Columns: **English**, **Arden Root**, **Nominative**, **Accusative**, **Genitive**, **Notes**
+* Columns: **English**, **Arden Root**, **Singular**, **Plural**, **Notes**
 
 ### **📘 Curated Arden Adjectives – Set 1**
 
-| English | Arden Root | Nominative | Accusative | Genitive | Notes |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| long | **dorel** | dorel | dorel | dorel | Inspired by “duration” \+ Arden suffix |
-| short (vs long) | **brev** | brevel | brevel | brevel | From Latin *brevis* (short) |
-| tall | **toren** | torenel | torenel | torenel | Echoes “tower” |
-| short (vs tall) | **lin** | linel | linel | linel | Rooted in “line” or “slim” |
-| wide | **sparel** | sparel | sparel | sparel | Evokes “spread” |
-| narrow | **stelm** | stelmel | stelmel | stelmel | Sharply consonantal; from “stem” |
-| big/large | **grand** | grandel | grandel | grandel | Established form; evokes grandeur |
-| small/little | **meen** | meenel | meenel | meenel | Soft, gentle-sounding |
-| slow | **molth** | moltel | moltel | moltel | Heavy feel; echoes “molasses” |
-| fast | **rava** | ravael | ravael | ravael | Quick, breathy sound |
-| hot | **sarn** | sarnel | sarnel | sarnel | Sharp, radiant feel |
-| cold | **fris** | frisel | frisel | frisel | Established form; crisp and icy |
-| warm | **cald** | caldel | caldel | caldel | From Latin *calidus* |
-| cool | **solm** | solmel | solmel | solmel | Gentle, smooth form |
-| new | **nuv** | nuvel | nuvel | nuvel | Short, distinct root |
-| old (new) | **thur** | thurel | thurel | thurel | Deep sound, evokes time |
-| young | **junal** | junalel | junalel | junalel | Joyful tone with youth connotation |
-| old (young) | **eldr** | eldrel | eldrel | eldrel | Based on *elder*, ancient |
-| good | **maadd** | maaddel | maaddel | maaddel | Established; rhythmic and strong |
-| bad | **vorn** | vornel | vornel | vornel | Dark tone; harsh |
-| wet | **drool** | droolel | droolel | droolel | Evokes “drool”, liquidity |
-| dry | **selk** | selkel | selkel | selkel | Arid and rough in sound |
-| sick | **morv** | morvel | morvel | morvel | Muted, weary tone |
-| healthy | **valin** | valinel | valinel | valinel | Uplifting, clear form |
+| English | Arden Root | Singular | Plural    | Notes |
+| ----- |-----------|---------|-----------|---------|
+| long | **dor**   | dorel   | dorelee   |  Inspired by “duration” \+ Arden suffix |
+| short (vs long) | **brev**  | brevel  | brevelee  | From Latin *brevis* (short) |
+| tall | **toren** | torenel | torenelee |  Echoes “tower” |
+| short (vs tall) | **lin**   | linel   | linelee   | Rooted in “line” or “slim” |
+| wide | **spar**  | sparel  | sparelee  | Evokes “spread” |
+| narrow | **stelm** | stelmel | stelmelee | Sharply consonantal; from “stem” |
+| big/large | **gran**  | granel  | granelee  | Established form; evokes grandeur |
+| small/little | **meen**  | meenel  | meenelee  | Soft, gentle-sounding |
+| slow | **molt**  | moltel  | moltelee  | Heavy feel; echoes “molasses” |
+| fast | **rav**   | ravel   | ravelee   | Quick, breathy sound |
+| hot | **sarn**  | sarnel  | sarnelee  | Sharp, radiant feel |
+| cold | **fris**  | frisel  | friselee  | Established form; crisp and icy |
+| warm | **cald**  | caldel  | caldelee  | From Latin *calidus* |
+| cool | **solm**  | solmel  | solmelee  | Gentle, smooth form |
+| new | **nuv**   | nuvel   | nuvelee   | Short, distinct root |
+| old (new) | **thur**  | thurel  | thurelee  | Deep sound, evokes time |
+| young | **junal** | junalel | junalelee | Joyful tone with youth connotation |
+| old (young) | **eldur** | eldurel | eldurelee | Based on *elder*, ancient |
+| good | **maad**  | maadel  | maadelee  | Established; rhythmic and strong |
+| bad | **vorn**  | vornel  | vornelee  | Dark tone; harsh |
+| wet | **drool** | droolel | droolelee | Evokes “drool”, liquidity |
+| dry | **selk**  | selkel  | selkelee  | Arid and rough in sound |
+| sick | **morv**  | morvel  | morvelee  | Muted, weary tone |
+| healthy | **valin** | valinel | valinelee | Uplifting, clear form |
 
 
 ### **📘 Arden Adverb Formation Principles**
