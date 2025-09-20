@@ -6,7 +6,7 @@ Here are two examples showing how *mor* and *seel* work in practice:
 
 Example 1: Using **mor** (“more”)
 
-> **English:** The mountain is more tall.
+> **English:** The mountain is taller.
 > **Arden:** *An duran mor torenel.*
 
 * *duran* = mountain
