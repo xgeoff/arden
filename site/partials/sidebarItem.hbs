@@ -10,8 +10,8 @@
     </li>
 {{else if (eq type "file")}}
     {{!--
-      Use the item-provided name (pages.groovy sets name to the frontmatter title when present)
-      and avoid double slashes by not adding an extra "/" after baseUrl.
+      Use a relative link so it works at any base path (local `/` and GitHub Pages `/repo/`).
+      `pages.groovy` sets `name` to the frontmatter title when present.
     --}}
-    <li class="file"><a href="{{urlJoin @root.baseUrl (htmlPath path)}}">{{name}}</a></li>
+    <li class="file"><a href="{{htmlPath path}}">{{name}}</a></li>
 {{/if}}
