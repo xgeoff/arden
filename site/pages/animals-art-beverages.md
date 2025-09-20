@@ -1,3 +1,6 @@
+---
+title = "Animals, Art, and Beverages"
+---
 
 ## **✅ Translation Process Overview**
 
@@ -45,4 +48,6 @@ Here’s the **Art category** in Arden displayed as a table:
 | water | **avel** | avela | avelam | avelum | avelel | avel | From “aqua” \+ “veil”; clarity and softness |
 | milk | **lufen** | lufena | lufenam | lufenum | lufenel | lufen | Gentle and nurturing; light-sounding and smooth |
 | beverage | **drasil** | drasila | drasilam | drasilum | drasilel | drasil | General term for drink; inspired by “draught” and “vessel” |
-
+---
+title = "Animals, Art, and Beverages"
+---

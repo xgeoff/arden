@@ -1,3 +1,7 @@
+---
+title = "Pronouns, Seasons, Society, and Time"
+---
+
 **pronouns**, **prepositions**, and **conjunctions**
 
 ## **🧍‍♂️ Pronouns in Arden**
@@ -174,3 +178,6 @@ Built for flow and tone, these glue ideas together:
 | night | **noveren** | noverena | noverenam | noverenum | noverenel | noveren | From *nova* (dark/new) \+ *end*; time of rest |
 | time | **terval** | tervala | tervalam | tervalum | tervalel | terval | Shared with “season”; from *turn* \+ *value* |
 | clock | **horinel** | horinela | horinelam | horinelum | horinlel | horinel | From *hora* (hour) \+ *inel* (device); timekeeping |
+---
+title = "Pronouns, Seasons, Society, and Time"
+---

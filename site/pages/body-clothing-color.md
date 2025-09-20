@@ -1,3 +1,7 @@
+---
+title = "Body, Clothing, and Color"
+---
+
 **Body category**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
@@ -96,3 +100,6 @@ Since colors are adjectives in Arden, they all follow the **\-el** suffix rule a
 * *duran garnel* \= the red mountain
 * *duranee garnelee* \= the red mountains
 * *solinor celenel* \= today’s light blue sky
+---
+title = "Body, Clothing, and Color"
+---

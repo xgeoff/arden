@@ -1,3 +1,7 @@
+---
+title = "Materials, Measurements, Miscellaneous, and Modal"
+---
+
 **Materials category**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
@@ -114,4 +118,6 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 * **Modal \+ verb** creates tone:  
   “Me **morai** vare.” → “I will definitely go.”  
   “Me **meliv** vare.” → “I might go.”
-
+---
+title = "Materials, Measurements, Miscellaneous, and Modal"
+---

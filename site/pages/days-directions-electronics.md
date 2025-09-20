@@ -1,3 +1,7 @@
+---
+title = "Days, Directions, and Electronics"
+---
+
 **Days of the Week**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
@@ -49,4 +53,6 @@
 | camera | **tramel** | tramela | tramelam | tramelum | tramelel | tramel | From *capture* \+ *frame*; smooth and compact |
 | television | **valdra** | valdrana | valdranam | valdranum | valdrael | valdra | *Vision* \+ *distance*; rooted in “far-seeing” |
 | radio | **sonir** | sonora | soniram | sonirum | sonirel | sonir | From *sonus* \+ *air*; broadcasting concept |
-
+---
+title = "Days, Directions, and Electronics"
+---

@@ -1,3 +1,7 @@
+---
+title = "Phoneme and Orthography"
+---
+
 **Arden Phoneme-to-Orthography Chart**
 
 ## **🧠 Arden Phoneme-to-Orthography Chart**
@@ -58,4 +62,6 @@ So in the Arden word ***longel***, it's:
 | /aʊ/ | **ou** | *house* | Diphthong |
 | /ɔ/ | **au** | *song* | Low-mid back rounded |
 | /ɔɪ/ | **oi** | *boy* | Diphthong |
-
+---
+title = "Phoneme and Orthography"
+---

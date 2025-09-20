@@ -1,3 +1,7 @@
+---
+title = "Food, Home, Jobs, and Location"
+---
+
 **Food**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
@@ -144,3 +148,6 @@
 | area | **sorn** | sorna | sornam | sornum | General space, soft and open |
 | region | **florn** | florna | flornam | flornum | From “flora,” natural area |
 | continent | **landr** | landra | landram | landrum | From “land,” large landmass |
+---
+title = "Food, Home, Jobs, and Location"
+---

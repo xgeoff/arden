@@ -1,3 +1,7 @@
+---
+title = "Months, Nature, Numbers, and People"
+---
+
 **Months category**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
@@ -171,4 +175,6 @@
 | crowd | **mull** | mulla | mullam | mullum | Dense, collective feel |
 | person | **pers** | persa | persam | persum | Generic term, like "individual" |
 | people | **pepl** | pepla | peplam | peplum | Plural form, community feel |
-
+---
+title = "Months, Nature, Numbers, and People"
+---

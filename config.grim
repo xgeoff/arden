@@ -1,4 +1,4 @@
 title = "Arden"
-baseUrl = "/arden"
+baseUrl = "/"
 outputDir = "docs"
 sourceDir = "site"

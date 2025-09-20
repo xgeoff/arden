@@ -1,3 +1,7 @@
+---
+title = "Arden Language Summary"
+---
+
 **Arden Language Summary**
 
 ### **Language Features Overview**
@@ -268,3 +272,6 @@ Examples:
 * Adverbs follow the verb
 
   * *Mila xe gomol* (She goes slowly)
+---
+title = "Arden Language Summary"
+---
