@@ -18,6 +18,10 @@
   border-right: 1px solid #e1e1e1;
   padding-right: 1rem;
   margin-right: 1.5rem;
+  /*margin-top: clamp(1.25rem, 5vh, 3rem);*/ /* same as .prose top padding */
+  /*padding-top:1.5rem;*/
+  position: sticky;
+  top: clamp(1.25rem, 6vh, 3rem) /* distance from top of viewport when sticky */
 }
 
 .nav-list {
@@ -108,6 +112,8 @@ li > p {
     padding-right: 0;
     margin-right: 0;
     margin-bottom: 1rem;
+    position: relative;
+    top: 0;
   }
   .prose { padding-left: 0; }
 }

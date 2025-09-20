@@ -2,8 +2,6 @@
 title = "Arden"
 layout = "summary"
 ---
-
-
 ## Ardan Language
 
 **Ardan** is a constructed, phonetic language designed for clarity, expressiveness, and ease of use. It is built from the ground up with a logical grammar, elegant morphology, and a streamlined writing system that avoids redundancy and ambiguity. Ardan draws inspiration from natural languages but emphasizes simplicity and regularity throughout its structure.

@@ -29,12 +29,10 @@
 </head>
 <body>
 {{open "main" class="container layout"}}
-
-
 {{> sidebar}}        {{!-- include sidebar navigation --}}
-    {{open "div" class="prose"}}
-{{{content}}}
-    {{close "div"}}
+{{open "div" class="prose"}}
+    {{{content}}}
+{{close "div"}}
 {{close "main"}}
 </body>
 </html>
