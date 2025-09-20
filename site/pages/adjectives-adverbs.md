@@ -1,13 +1,33 @@
 ---
 title = "Adjectives and Adverbs"
 ---
-* **All adjectives end in `-el`**
+**Adjectives**: Always end in **-el**, come after the noun, and are fully gender-neutral. Comparative and superlative forms use `-ar` and `-estel`, or the helper words *mor* and *seel*.
+Here are two examples showing how *mor* and *seel* work in practice:
+
+Example 1: Using **mor** (“more”)
+
+> **English:** The mountain is more tall.
+> **Arden:** *An duran mor torenel.*
+
+* *duran* = mountain
+* *torenel* = tall
+* *mor* places emphasis on comparative, instead of *torenar*.
+
+* **Adjectives always follow the noun** they modify
+
+Example 2: Using **seel** (“most”)
+
+> **English:** She is the most beautiful girl.
+> **Arden:** *Mila es an caalin seel lumnel.*
+
+* *mila* = she
+* *caalin* = girl
+* *lumnel* = beautiful (from *lumne*, dream/light)
+* *seel* makes “most beautiful” instead of *lumnelestel*.
 
 * **Arden words must feel elegant, poetic, or grounded**
 
 * Columns: **English**, **Arden Root**, **Nominative**, **Accusative**, **Genitive**, **Notes**
-
-
 
 ### **📘 Curated Arden Adjectives – Set 1**
 
@@ -43,7 +63,7 @@ title = "Adjectives and Adverbs"
 
 In Arden:
 
-* **Adverbs follow the verb** directly (per your adjective/adverb rules)
+* **Adverbs follow the verb** directly
 
 * Many adverbs are formed from:
 

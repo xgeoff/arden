@@ -42,24 +42,24 @@ title = "Materials, Measurements, Miscellaneous, and Modal"
 **Miscellaneous Nouns**
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| map | **naven** | navena | navenam | navenum | navenel | naven | From *navigate* \+ *ven* (path) |
-| dot | **piprel** | piprela | piprelam | piprelum | piprelel | piprel | Small and playful; minimalist |
-| consonant | **kosel** | kosela | koselam | koselum | koselel | kosel | From *konsonant*; structured and firm |
-| vowel | **varel** | varela | varelamm | varelum | varelel | varel | Soft and resonant, echoing openness |
-| light | **luren** | lurena | lurenam | lurenum | lurenel | luren | Gentle and glowing; core metaphorical word |
-| sound | **soneth** | sonetha | sonetham | sonethum | sonethel | soneth | From *sonus* \+ breath |
-| yes | **jaen** | jaena | jaenam | jaenum | jaenel | jaen | Affirmative and bright |
-| no | **nareth** | naretha | naretham | narethum | narethel | nareth | Negative and firm |
-| piece | **fractel** | fractela | fractelam | fractelum | fractelel | fractel | From *fraction* \+ *element* |
-| pain | **dolven** | dolvena | dolvenam | dolvenum | dolvenel | dolven | From *dolor*; evocative of weight and injury |
-| injury | **kraveth** | kravetha | kravetham | kravethum | kravethel | kraveth | Harsh and direct; bodily harm |
-| hole | **nulrin** | nulrina | nulrinam | nulrinum | nulrinel | nulrin | From *null* \+ *ring*; absence or gap |
-| image | **miran** | mirana | miranam | miranum | miranel | miran | From *mirror* and *aura*; visual representation |
-| pattern | **tessan** | tessana | tessanam | tessanum | tessanel | tessan | Ordered structure; from *tessellate* |
-| noun | **namor** | namora | namoram | namorum | namorel | namor | From *name* \+ *form*; grammatical root |
-| verb | **durel** | durela | durelam | durelum | durelel | durel | From *do* \+ *rule*; implies action |
-| adjective | **qualin** | qualina | qualinam | qualinum | qualinel | qualin | From *quality*; descriptive root |
+| ----- |----------|--------|-------|-------|---------------|--------------| ----- |
+| map | **naven** | navena | navenam | navenum | navenel       | naven        | From *navigate* \+ *ven* (path) |
+| dot | **pipur** | pipura | pipuram | pipurum | pipurel       | pipuren      | Small and playful; minimalist |
+| consonant | **kos**  | kosa   | kosam | kosum | kosel         | kosen        | From *konsonant*; structured and firm |
+| vowel | **var**  | vara   | varam | varum | varel         | varen        | Soft and resonant, echoing openness |
+| light | **luren** | lurena | lurenam | lurenum | lurenel       | luren        | Gentle and glowing; core metaphorical word |
+| sound | **soneth** | sonetha | sonetham | sonethum | sonethel      | soneth       | From *sonus* \+ breath |
+| yes | **jaen** | jaena  | jaenam | jaenum | jaenel        | jaen         | Affirmative and bright |
+| no | **nareth** | naretha | naretham | narethum | narethel      | nareth       | Negative and firm |
+| piece | **fract** | fracta | fractam | fractum | fractel       | fracten      | From *fraction* \+ *element* |
+| pain | **dolven** | dolvena | dolvenam | dolvenum | dolvenel      | dolven       | From *dolor*; evocative of weight and injury |
+| injury | **kraveth** | kravetha | kravetham | kravethum | kravethel     | kraveth      | Harsh and direct; bodily harm |
+| hole | **nulrin** | nulrina | nulrinam | nulrinum | nulrinel      | nulrin       | From *null* \+ *ring*; absence or gap |
+| image | **miran** | mirana | miranam | miranum | miranel       | miran        | From *mirror* and *aura*; visual representation |
+| pattern | **tessan** | tessana | tessanam | tessanum | tessanel      | tessan       | Ordered structure; from *tessellate* |
+| noun | **namor** | namora | namoram | namorum | namorel       | namor        | From *name* \+ *form*; grammatical root |
+| verb | **dur**  | dura   | duram | durum | durel         | duren        | From *do* \+ *rule*; implies action |
+| adjective | **qualin** | qualina | qualinam | qualinum | qualinel      | qualin       | From *quality*; descriptive root |
 
 
 ## **🌗 Particles & Modal Words in Arden**
@@ -68,56 +68,54 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 
 ### **🔸 Logical & Emphatic Modals**
 
-| English | Arden | Notes |
-| ----- | ----- | ----- |
-| maybe | **meliv** | From *mel* (middle) \+ *iv* (uncertain) |
-| surely | **sanai** | From *san* (truth) \+ *\-ai* (emphasis) |
-| certainly | **verel** | From *ver* (true) \+ *\-el* |
-| probably | **valinai** | From *valin* (likely/value) \+ modal |
-| possibly | **silvai** | From *silv* (soft) \+ *ai*; a gentler “maybe” |
-| definitely | **morai** | From *morin* (more) \+ *ai*; emphatic confirmation |
-| not | **na** | Already used — universal negator |
+| English | Arden       | Notes |
+| ----- |-------------| ----- |
+| maybe | **meliv**   | From *mel* (middle) \+ *iv* (uncertain) |
+| surely | **sanii**   | From *san* (truth) \+ *\-ai* (emphasis) |
+| certainly | **verel**   | From *ver* (true) \+ *\-el* |
+| probably | **valinii** | From *valin* (likely/value) \+ modal |
+| possibly | **silvii**  | From *silv* (soft) \+ *ai*; a gentler “maybe” |
+| definitely | **morii**   | From *morin* (more) \+ *ai*; emphatic confirmation |
+| not | **na**      | Already used — universal negator |
 
 
 ### **🌀 Emotional Modifiers**
 
-| English | Arden | Notes |
-| ----- | ----- | ----- |
-| unfortunately | **dolvai** | *dolven* (pain) \+ *ai*; "sadly" |
-| thankfully | **selvai** | *selorin* (thanks) root |
-| hopefully | **elvai** | From *el* (hope/light) \+ *ai* |
-| sadly | **narelai** | From *narel* (tears) |
-| happily | **solvai** | From *solin* (daylight) or *solenya* (Friday) |
-| strangely | **varenai** | From *var* (unusual/move) \+ *nai*; used for curiosity or mystery |
-| amazingly | **aurevai** | From *aure* (light/wonder) |
+| English | Arden       | Notes |
+| ----- |-------------| ----- |
+| unfortunately | **dolvii**  | *dolven* (pain) \+ *ai*; "sadly" |
+| thankfully | **selvii**  | *selorin* (thanks) root |
+| hopefully | **elvii**   | From *el* (hope/light) \+ *ai* |
+| sadly | **narelii** | From *narel* (tears) |
+| happily | **solvii**  | From *solin* (daylight) or *solenya* (Friday) |
+| strangely | **varenii** | From *var* (unusual/move) \+ *nai*; used for curiosity or mystery |
+| amazingly | **aurevii** | From *aure* (light/wonder) |
 
 
 ### **🗯️ Discourse & Interaction Particles**
 
-| English | Arden | Notes |
-| ----- | ----- | ----- |
-| yes (affirm) | **jaen** | Already defined |
+| English | Arden      | Notes |
+| ----- |------------| ----- |
+| yes (affirm) | **jaen**   | Already defined |
 | no (negate) | **nareth** | Already defined |
-| okay / all right | **olven** | From *alven* (already) \+ *ol* (balance) |
-| well… | **moren** | A softening or transition word |
-| ah / oh | **ael** | General exclamation, soft |
-| wow | **drae** | Strong exclamation, awe |
-| huh? (confused) | **nal?** | Rising tone; interrogative uncertainty |
-| hmm | **melm** | Thoughtful pause |
-| uh / um | **e...** | Ellipsis or hesitation (often spelled that way) |
+| okay / all right | **olven**  | From *alven* (already) \+ *ol* (balance) |
+| well… | **moren**  | A softening or transition word |
+| ah / oh | **aal**    | General exclamation, soft |
+| wow | **dree**   | Strong exclamation, awe |
+| huh? (confused) | **nal?**   | Rising tone; interrogative uncertainty |
+| hmm | **melm**   | Thoughtful pause |
+| uh / um | **e...**   | Ellipsis or hesitation (often spelled that way) |
 
 
 ### **🛠️ Usage Notes**
 
 * **Particles** can appear:
 
-    * At the start: “**Sanai**, me visae tu.” → “Surely, I see you.”
+    * At the start: “**Sanii**, me visae tu.” → “Surely, I see you.”
 
     * At the end: “Me visae tu, **meliv**.” → “I see you, maybe.”
 
 * **Modal \+ verb** creates tone:  
-  “Me **morai** vare.” → “I will definitely go.”  
+  “Me **morii** vare.” → “I will definitely go.”  
   “Me **meliv** vare.” → “I might go.”
----
-title = "Materials, Measurements, Miscellaneous, and Modal"
----
+

@@ -120,6 +120,4 @@ Here are the **first 40 verbs** with root forms and etymology:
 | sign | **signae** | signae | me signao | me signabo | From *signal*, *signum* |
 | beat | **pulsae** | pulsae | me pulsao | me pulsabo | From *pulse* |
 | lift | **tolrae** | tolrae | me tolrao | me tolrabo | From *tollere*, to raise |
----
-title = "Transportation and Verbs"
----
+

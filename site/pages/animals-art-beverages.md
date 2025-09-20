@@ -2,12 +2,7 @@
 title = "Animals, Art, and Beverages"
 ---
 
-## **✅ Translation Process Overview**
-
-### **1\. Categorize by Type**
-
-You’ve already done this (thank you\!), so I’ll keep those groupings and work section by section: nouns → verbs → adjectives → etc.
-
+**Animals, Art, and Beverages in Arden Language**
 
 ### **🐾 Category: Animal (Arden translations)**
 
@@ -28,13 +23,13 @@ You’ve already done this (thank you\!), so I’ll keep those groupings and wor
 Here’s the **Art category** in Arden displayed as a table:
 
 | English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| band | **klav** | klava | klavam | klavum | klavel | klav | Evokes unity and rhythm; short, punchy consonants for group cohesion |
-| song | **lera** | lerana | leranam | leranum | leranel | lera | Derived from 'lyric' and 'aura'; light and melodic |
-| instrument | **trien** | triena | trienam | trienum | trienel | trien | Rooted in 'tool' and 'tone'; practical and harmonic |
-| music | **sona** | sonara | sonaram | sonarum | sonarel | sona | From Latin 'sonus'; denotes sound and emotional tone |
-| movie | **virel** | virela | virelam | virelum | virelel | virel | Rooted in 'vision' and 'reel'; modern and flowing |
-| art | **aelis** | aelisa | aelisam | aelisum | aelisel | aelis | Evokes elegance and creativity; inspired by 'aether' and 'elis' (grace) |
+| ----- |--------------|------------|------------|----------|-------------------|--------------| ----- |
+| band | **klav**     | klava      | klavam     | klavum   | klavel            | klav         | Evokes unity and rhythm; short, punchy consonants for group cohesion |
+| song | **lera**     | lerana     | leranam    | leranum  | leranel           | lera         | Derived from 'lyric' and 'aura'; light and melodic |
+| instrument | **treen**    | treena     | treenam    | treenum  | treenel           | treen        | Rooted in 'tool' and 'tone'; practical and harmonic |
+| music | **sona**     | sonara     | sonaram    | sonarum  | sonarel           | sona         | From Latin 'sonus'; denotes sound and emotional tone |
+| movie | **vir**      | vira       | viram      | virum    | virel             | viren        | Rooted in 'vision' and 'reel'; modern and flowing |
+| art | **aalis**    | aalisa     | aalisam    | aalisum  | aalisel           | aalis        | Evokes elegance and creativity; inspired by 'aether' and 'elis' (grace) |
 
 **Beverages category**
 
@@ -48,6 +43,4 @@ Here’s the **Art category** in Arden displayed as a table:
 | water | **avel** | avela | avelam | avelum | avelel | avel | From “aqua” \+ “veil”; clarity and softness |
 | milk | **lufen** | lufena | lufenam | lufenum | lufenel | lufen | Gentle and nurturing; light-sounding and smooth |
 | beverage | **drasil** | drasila | drasilam | drasilum | drasilel | drasil | General term for drink; inspired by “draught” and “vessel” |
----
-title = "Animals, Art, and Beverages"
----
+

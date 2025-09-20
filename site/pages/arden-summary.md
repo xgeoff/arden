@@ -133,9 +133,44 @@ title = "Arden Language Summary"
 
 * Avoid apostrophes. Use **de** or **yun**:
 
-  * *caalin de farnum* \= "the girl of the king"
+Examples:
 
-  * *caalin yun farnum* \= same meaning, poetic variant
+1. Everyday vs. Poetic
+
+**English:** The teacher's book.
+
+* Neutral: *Levrana de lertha.*
+* Poetic: *Levrana yun lertha.*
+  (*levran* = book, *lerth* = teacher)
+
+2. Natural imagery
+
+**English:** The river valley.
+
+* Neutral: *Sirenta de selvora.*
+* Poetic: *Sirenta yun selvora.*
+  (*sirent* = river, *selvor* = valley)
+
+3. Celestial reference
+
+**English:** The light of the sun.
+
+* Neutral: *Lurena de solira.*
+* Poetic: *Lurena yun solira.*
+  (*luren* = light, *solir* = sun)
+
+4. Artistic expression
+
+**English:** The bird's song.
+
+* Neutral: *Lerana de tarva.*
+* Poetic: *Lerana yun tarva.*
+  (*lera* = song, *tarv* = bird)
+
+👉 The pattern is consistent:
+
+* **de** = practical, everyday usage (like ownership, location, or simple description).
+* **yun** = elevated, poetic usage (song, art, nature, spirituality).
 
 #### **12\. Word Order**
 
@@ -207,7 +242,7 @@ Examples:
 
   * Singular: *me*, *tu*, *mile/mila/se*
 
-  * Plural: *muid*, *siv*, *siad*
+  * Plural: *mena (we)*, *tuna (you pl.)*, *sena*
 
 * **Possessive**:
 
@@ -272,6 +307,4 @@ Examples:
 * Adverbs follow the verb
 
   * *Mila xe gomol* (She goes slowly)
----
-title = "Arden Language Summary"
----
+  * Adverbs formed by adding **\-ly** in English become **\-el** in Arden

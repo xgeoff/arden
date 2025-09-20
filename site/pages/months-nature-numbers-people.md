@@ -175,6 +175,9 @@ title = "Months, Nature, Numbers, and People"
 | crowd | **mull** | mulla | mullam | mullum | Dense, collective feel |
 | person | **pers** | persa | persam | persum | Generic term, like "individual" |
 | people | **pepl** | pepla | peplam | peplum | Plural form, community feel |
----
-title = "Months, Nature, Numbers, and People"
----
+| citizen | **civarn** | civarna | civarnam | civarnum | From *civis* (Latin for citizen) |
+| worker | **labarn** | labarna | labarnam | labarnum |
+| leader | **guidar** | guidara | guidaram | guidarum | From *guide* \+ *leader* |
+| teacher | **docarn** | docarna | docarnam | docarnum |
+| student | **lern** | lerna | lernam | lernum | From *learn* |
+
