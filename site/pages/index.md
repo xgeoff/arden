@@ -2,9 +2,9 @@
 title = "Arden"
 layout = "summary"
 ---
-## Ardan Language
+## Arden Language
 
-**Ardan** is a constructed, phonetic language designed for clarity, expressiveness, and ease of use. It is built from the ground up with a logical grammar, elegant morphology, and a streamlined writing system that avoids redundancy and ambiguity. Ardan draws inspiration from natural languages but emphasizes simplicity and regularity throughout its structure.
+**Arden** is a constructed, phonetic language designed for clarity, expressiveness, and ease of use. It is built from the ground up with a logical grammar, elegant morphology, and a streamlined writing system that avoids redundancy and ambiguity. Arden draws inspiration from natural languages but emphasizes simplicity and regularity throughout its structure.
 
 ### ✨ Key Features
 
@@ -20,7 +20,7 @@ layout = "summary"
 * **No Apostrophes**: Possessives are handled using **de** or **yun** (e.g., *book de child* = "the child’s book").
 * **Minimal Word Stress**: All syllables are pronounced with equal emphasis, making pronunciation consistent and predictable.
 * **Intonation**: Built-in rules for expressive sentence types, including questions, exclamations, and emphatics.
-* **Expandable**: Ardan is designed to be modular and extensible, suitable for storytelling, linguistic experimentation, or practical use.
+* **Expandable**: Arden is designed to be modular and extensible, suitable for storytelling, linguistic experimentation, or practical use.
 
 ### Arden Morphological Rules
 

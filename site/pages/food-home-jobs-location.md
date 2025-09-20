@@ -67,7 +67,7 @@ title = "Food, Home, Jobs, and Location"
 | pool | **linor** | linora | linoram | linorum | linorel | linor | Calm, reflective water space |
 | lock | **karnet** | karneta | karnetam | karnetum | karnetel | karnet | Secure device; *kar* (close) \+ *net* (mechanism) |
 | telephone | **vesrel** | vesrela | vesrelam | vesrelum | vesrelel | vesrel | From *voice* \+ *reach* root fusion |
-| garden | **florim** | florima | florimam | florimum | florimel | florim | Flower \+ realm, natural harmony |
+| gArden | **florim** | florima | florimam | florimum | florimel | florim | Flower \+ realm, natural harmony |
 | yard | **jarven** | jarvena | jarvenam | jarvenum | jarvenel | jarven | Open space, shared with “field” tone |
 | needle | **narlis** | narlisa | narlisam | narlisum | narlisel | narlis | Sharp, precise tool |
 | bag | **tufen** | tufena | tufenam | tufenum | tufenel | tufen | Flexible container, rounded form |
