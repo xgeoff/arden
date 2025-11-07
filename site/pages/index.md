@@ -2,7 +2,7 @@
 title = "Arden"
 layout = "summary"
 ---
-## Arden Language
+## Arden - A New Spoken Language Concept
 
 **Arden** is a constructed, phonetic language designed for clarity, expressiveness, and ease of use. It is built from the ground up with a logical grammar, elegant morphology, and a streamlined writing system that avoids redundancy and ambiguity. Arden draws inspiration from natural languages but emphasizes simplicity and regularity throughout its structure.
 
