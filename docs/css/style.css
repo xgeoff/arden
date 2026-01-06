@@ -141,3 +141,26 @@ main nav {
 .sidebar {
   padding-block-start: clamp(1.25rem, 4vh, 3rem); /* same as .prose top padding */
 }
+
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-bottom: 1.25rem;
+}
+.sidebar-logo {
+  width: 70px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: none;
+  background: transparent;
+}
+.sidebar-title {
+  margin: 0;
+  font-weight: 700;
+}
+.sidebar-subtitle {
+  margin: 0.1em 0 0;
+  color: #4b5563;
+  font-size: 0.95rem;
+}
