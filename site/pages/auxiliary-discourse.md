@@ -45,7 +45,7 @@ Orel olven, kaa?
 
 **Examples**
 
-Ke tu mentae?  
+Ke tu mentaa?  
 “What are you thinking?”
 
 Ke mile vare?  
@@ -146,7 +146,7 @@ These particles operate at the sentence or conversational level.
 | selai | no worries |
 | olven | okay / all good |
 | morai | definitely / exactly |
-| jaen | yes |
+| jaan | yes |
 | nareth | no |
 | dolvai | frustrating / annoying |
 
@@ -154,7 +154,7 @@ These particles operate at the sentence or conversational level.
 
 Selai.
 
-Olven, jaen.
+Olven, jaan.
 
 Dolvai.
 

@@ -49,7 +49,7 @@ title = "Materials, Measurements, Miscellaneous, and Modal"
 | vowel | **var**  | vara   | varam | varum | varel         | varen        | Soft and resonant, echoing openness |
 | light | **luren** | lurena | lurenam | lurenum | lurenel       | luren        | Gentle and glowing; core metaphorical word |
 | sound | **soneth** | sonetha | sonetham | sonethum | sonethel      | soneth       | From *sonus* \+ breath |
-| yes | **jaen** | jaena  | jaenam | jaenum | jaenel        | jaen         | Affirmative and bright |
+| yes | **jaan** | jaana  | jaanam | jaanum | jaanel        | jaan         | Affirmative and bright |
 | no | **nareth** | naretha | naretham | narethum | narethel      | nareth       | Negative and firm |
 | piece | **fract** | fracta | fractam | fractum | fractel       | fracten      | From *fraction* \+ *element* |
 | pain | **dolven** | dolvena | dolvenam | dolvenum | dolvenel      | dolven       | From *dolor*; evocative of weight and injury |
@@ -96,7 +96,7 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 
 | English | Arden      | Notes |
 | ----- |------------| ----- |
-| yes (affirm) | **jaen**   | Already defined |
+| yes (affirm) | **jaan**   | Already defined |
 | no (negate) | **nareth** | Already defined |
 | okay / all right | **olven**  | From *alven* (already) \+ *ol* (balance) |
 | well… | **moren**  | A softening or transition word |
@@ -111,9 +111,9 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 
 * **Particles** can appear:
 
-    * At the start: “**Sanii**, me visae tu.” → “Surely, I see you.”
+    * At the start: “**Sanii**, me visaa tu.” → “Surely, I see you.”
 
-    * At the end: “Me visae tu, **meliv**.” → “I see you, maybe.”
+    * At the end: “Me visaa tu, **meliv**.” → “I see you, maybe.”
 
 * **Modal \+ verb** creates tone:  
   “Me **morii** vare.” → “I will definitely go.”  

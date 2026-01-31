@@ -32,7 +32,7 @@ title = "Months, Nature, Numbers, and People"
 | tree | **silvar** | silvara | silvaram | silvarum | silvarel | silvar | Rooted in *silva* (Latin for forest) |
 | sun | **solir** | solira | soliram | solirum | solirel | solir | Inspired by *sol* \+ *fire* |
 | moon | **luven** | luvena | luvenam | luvenum | luvenel | luven | Gentle and celestial; *luna* \+ *even* |
-| world | **oraeth** | oraetha | oraetham | oraethum | oraethel | oraeth | Poetic, encompassing term from *orbis* \+ *aether* |
+| world | **oraath** | oraatha | oraatham | oraathum | oraathel | oraath | Poetic, encompassing term from *orbis* \+ *aether* |
 | earth | **terem** | terema | teremam | teremum | teremel | terem | Grounded, elemental word |
 | forest | **vireth** | viretha | viretham | virethum | virethel | vireth | May conflict with “truth”; can rename if needed |
 | sky | **aevan** | aevana | aevanam | aevanum | aevanel | aevan | Light, airy; derived from *aether* |

@@ -30,7 +30,7 @@ title = "Days, Directions, and Electronics"
 | down | **daren** | darena | darenam | darenum | darenel | daren | From *descend* and *earth* |
 | left | **lavor** | lavora | lavoram | lavorum | lavorel | lavor | Unique directional term; fluid consonants |
 | right | **ravan** | ravana | ravanam | ravanum | ravanel | ravan | Assertive, dominant direction |
-| straight | **traeth** | traetha | traetham | traethum | traethel | traeth | From *track* \+ *path*; direct movement |
+| straight | **traath** | traatha | traatham | traathum | traathel | traath | From *track* \+ *path*; direct movement |
 | north | **nureth** | nuretha | nuretham | nurethum | nurethel | nureth | Cold and clean, directional name |
 | south | **selvar** | selvana | selvaram | selvarum | selvarel | selvar | Shared with "heat" — earthy and deep |
 | east | **aureth** | auretha | auretham | aurethum | aurethel | aureth | From *aurora*; sunrise and dawn |

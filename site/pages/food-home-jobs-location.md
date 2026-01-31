@@ -131,7 +131,7 @@ title = "Food, Home, Jobs, and Location"
 | university | **utarn** | utarna | utarnam | utarnum | Formal education, higher place |
 | club | **klarn** | klarna | klarnam | klarnum | Gathering space |
 | bar | **drunj** | drunja | drunjam | drunjum | Derived from "drink" \+ "lounge" vibe |
-| park | **fael** | faela | faelam | faelum | Open space, soft nature sound |
+| park | **faal** | faala | faalam | faalum | Open space, soft nature sound |
 | camp | **tarnk** | tarnka | tarnkam | tarnkum | Rough, outdoorsy |
 | store/shop | **merk** | merka | merkam | merkum | From “market,” commerce base |
 | theater | **dramm** | dramma | drammam | drammum | Drama-rooted |
@@ -142,7 +142,7 @@ title = "Food, Home, Jobs, and Location"
 | country (nation) | **drenn** | drenna | drennam | drennum | Large-scale identity |
 | building | **strak** | straka | strakam | strakum | Vertical, strong |
 | ground | **terr** | terra | terram | terrum | Earth-rooted (pun intended) |
-| space (outer) | **vaelx** | vaelxa | vaelxam | vaelxum | Vast and alien, "x" gives mystery |
+| space (outer) | **vaalx** | vaalxa | vaalxam | vaalxum | Vast and alien, "x" gives mystery |
 | bank | **gelt** | gelta | geltam | geltum | Money-rooted |
 | location | **punt** | punta | puntam | puntum | From “point” or “place” |
 | area | **sorn** | sorna | sornam | sornum | General space, soft and open |

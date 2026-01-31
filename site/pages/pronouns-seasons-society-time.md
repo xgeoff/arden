@@ -123,7 +123,7 @@ Built for flow and tone, these glue ideas together:
 | English | Arden (Root) | Nominative | Accusative | Genitive | Notes |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | religion | **seraph** | serapha | serapham | seraphum | Celestial, sacred tone |
-| heaven | **valaen** | valaena | valaenam | valaenum | Bright, aspirational |
+| heaven | **valaan** | valaana | valaanam | valaanum | Bright, aspirational |
 | hell | **durrek** | durreka | durrekam | durrekum | Harsh, infernal |
 | death | **marnth** | marntha | marntham | marnthum | Final, solemn |
 | medicine | **medel** | medela | medelam | medelum | Healing knowledge |

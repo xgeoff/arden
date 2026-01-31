@@ -79,13 +79,13 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Are you keen to get together on Saturday?</h4>
-<p><strong>Arden:</strong> Ke tu zelel mirae toravel?</p>
+<p><strong>Arden:</strong> Ke tu zelel miraa toravel?</p>
 <p><strong>Pronunciation:</strong> keh too zeh-LEL MEE-rah toh-RAH-vel</p>
 </div>
 
 <div class="sentence-card">
 <h4>You’re joking?</h4>
-<p><strong>Arden:</strong> Tu solae, kaa?</p>
+<p><strong>Arden:</strong> Tu solaa, kaa?</p>
 <p><strong>Pronunciation:</strong> too SOH-lay kah</p>
 </div>
 
@@ -103,13 +103,13 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Should we grab a bite to eat?</h4>
-<p><strong>Arden:</strong> Shal me comae de darnes?</p>
+<p><strong>Arden:</strong> Shal me comaa de darnes?</p>
 <p><strong>Pronunciation:</strong> shal meh KOH-may deh DAR-nes</p>
 </div>
 
 <div class="sentence-card">
 <h4>Would you like to grab a coffee this afternoon?</h4>
-<p><strong>Arden:</strong> Ke tulun volae kareth surneth?</p>
+<p><strong>Arden:</strong> Ke tulun volaa kareth surneth?</p>
 <p><strong>Pronunciation:</strong> keh TOO-loon voh-LAY kah-RETH SOOR-neth</p>
 </div>
 
@@ -145,7 +145,7 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Should we eat out tonight?</h4>
-<p><strong>Arden:</strong> Shal me comae eskren nareth?</p>
+<p><strong>Arden:</strong> Shal me comaa eskren nareth?</p>
 <p><strong>Pronunciation:</strong> shal meh KOH-may es-KREN NAH-reth</p>
 </div>
 
@@ -169,19 +169,19 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>What are you reading?</h4>
-<p><strong>Arden:</strong> Ke tulun lerae?</p>
+<p><strong>Arden:</strong> Ke tulun leraa?</p>
 <p><strong>Pronunciation:</strong> keh TOO-loon leh-RAY</p>
 </div>
 
 <div class="sentence-card">
 <h4>Are you keen to catch a movie tonight?</h4>
-<p><strong>Arden:</strong> Ke tulun zelel kaprae virel nareth?</p>
+<p><strong>Arden:</strong> Ke tulun zelel kapraa virel nareth?</p>
 <p><strong>Pronunciation:</strong> keh TOO-loon zeh-LEL kah-PRAY vee-rel NAH-reth</p>
 </div>
 
 <div class="sentence-card">
 <h4>What are you thinking about?</h4>
-<p><strong>Arden:</strong> Ke tulun mentae?</p>
+<p><strong>Arden:</strong> Ke tulun mentaa?</p>
 <p><strong>Pronunciation:</strong> keh TOO-loon MEN-tay</p>
 </div>
 
@@ -193,19 +193,19 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>What do you want to do?</h4>
-<p><strong>Arden:</strong> Ke tulun volae var?</p>
+<p><strong>Arden:</strong> Ke tulun volaa var?</p>
 <p><strong>Pronunciation:</strong> keh TOO-loon voh-LAY var</p>
 </div>
 
 <div class="sentence-card">
 <h4>What do you want to eat?</h4>
-<p><strong>Arden:</strong> Ke tulun volae comae?</p>
+<p><strong>Arden:</strong> Ke tulun volaa comaa?</p>
 <p><strong>Pronunciation:</strong> keh TOO-loon voh-LAY KOH-may</p>
 </div>
 
 <div class="sentence-card">
 <h4>Can I make you some coffee?</h4>
-<p><strong>Arden:</strong> Ke me kan ferae tu kareth?</p>
+<p><strong>Arden:</strong> Ke me kan feraa tu kareth?</p>
 <p><strong>Pronunciation:</strong> keh meh kan FEH-ray too kah-RETH</p>
 </div>
 
@@ -229,13 +229,13 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Do you want to meet up next week?</h4>
-<p><strong>Arden:</strong> Ke tulun volae mirae pren vireth?</p>
+<p><strong>Arden:</strong> Ke tulun volaa miraa pren vireth?</p>
 <p><strong>Pronunciation:</strong> keh TOO-loon voh-LAY MEE-rah pren vee-reth</p>
 </div>
 
 <div class="sentence-card">
 <h4>We could do dinner on Wednesday night?</h4>
-<p><strong>Arden:</strong> Me mirae darnes merion nareth, kaa?</p>
+<p><strong>Arden:</strong> Me miraa darnes merion nareth, kaa?</p>
 <p><strong>Pronunciation:</strong> meh MEE-rah DAR-nes MEH-ree-on NAH-reth kah</p>
 </div>
 
@@ -247,7 +247,7 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>What’s eating you?</h4>
-<p><strong>Arden:</strong> Ke tulun irnae?</p>
+<p><strong>Arden:</strong> Ke tulun irnaa?</p>
 <p><strong>Pronunciation:</strong> keh TOO-loon IR-nai</p>
 </div>
 
@@ -289,7 +289,7 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>What time is your flight?</h4>
-<p><strong>Arden:</strong> Ke tembor tulun vaereth es?</p>
+<p><strong>Arden:</strong> Ke tembor tulun vaareth es?</p>
 <p><strong>Pronunciation:</strong> keh TEM-bor TOO-loon vai-RETH ess</p>
 </div>
 
@@ -313,7 +313,7 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Long time no see!</h4>
-<p><strong>Arden:</strong> Solinor dura, me no visae tu.</p>
+<p><strong>Arden:</strong> Solinor dura, me no visaa tu.</p>
 <p><strong>Pronunciation:</strong> soh-LEE-nor DOO-rah meh noh vee-SAI too</p>
 </div>
 
@@ -325,19 +325,19 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Call me when you get home.</h4>
-<p><strong>Arden:</strong> Vokae me loren tu varo toran.</p>
+<p><strong>Arden:</strong> Vokaa me loren tu varo toran.</p>
 <p><strong>Pronunciation:</strong> voh-KAI meh LOH-ren too VAH-roh TOH-ran</p>
 </div>
 
 <div class="sentence-card">
 <h4>Don’t forget to buy milk.</h4>
-<p><strong>Arden:</strong> No morae tu venae lufen.</p>
+<p><strong>Arden:</strong> No moraa tu venaa lufen.</p>
 <p><strong>Pronunciation:</strong> noh MOH-ray too VEH-nay LOO-fen</p>
 </div>
 
 <div class="sentence-card">
 <h4>Call me back when you get a chance.</h4>
-<p><strong>Arden:</strong> Vokae me loren tu varo orven.</p>
+<p><strong>Arden:</strong> Vokaa me loren tu varo orven.</p>
 <p><strong>Pronunciation:</strong> voh-KAI meh LOH-ren too VAH-roh OR-ven</p>
 </div>
 
@@ -367,7 +367,7 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>He’s forever complaining about this country.</h4>
-<p><strong>Arden:</strong> Mile sen irnae drenn.</p>
+<p><strong>Arden:</strong> Mile sen irnaa drenn.</p>
 <p><strong>Pronunciation:</strong> MEE-leh sen IR-nai DREN</p>
 </div>
 
@@ -409,7 +409,7 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>It’s on the tip of my tongue but I can’t remember.</h4>
-<p><strong>Arden:</strong> Glavar melun es ten; me no mentae.</p>
+<p><strong>Arden:</strong> Glavar melun es ten; me no mentaa.</p>
 <p><strong>Pronunciation:</strong> GLAH-var MEH-loon ess ten meh noh MEN-tay</p>
 </div>
 
@@ -421,7 +421,7 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Yes, please!</h4>
-<p><strong>Arden:</strong> Jaen, moren.</p>
+<p><strong>Arden:</strong> Jaan, moren.</p>
 <p><strong>Pronunciation:</strong> jain MOH-ren</p>
 </div>
 
@@ -493,19 +493,19 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Don’t let it bother you too much.</h4>
-<p><strong>Arden:</strong> No irnae tulun mor plurel.</p>
+<p><strong>Arden:</strong> No irnaa tulun mor plurel.</p>
 <p><strong>Pronunciation:</strong> noh IR-nai TOO-loon mor PLOO-rel</p>
 </div>
 
 <div class="sentence-card">
 <h4>All good. Can’t complain.</h4>
-<p><strong>Arden:</strong> Olven. No irnae.</p>
+<p><strong>Arden:</strong> Olven. No irnaa.</p>
 <p><strong>Pronunciation:</strong> OL-ven noh IR-nai</p>
 </div>
 
 <div class="sentence-card">
 <h4>I see where you’re coming from.</h4>
-<p><strong>Arden:</strong> Me visae fen tulun venir.</p>
+<p><strong>Arden:</strong> Me visaa fen tulun venir.</p>
 <p><strong>Pronunciation:</strong> meh vee-SAI fen TOO-loon veh-NEER</p>
 </div>
 
@@ -559,13 +559,13 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>I can’t concentrate.</h4>
-<p><strong>Arden:</strong> Me no mentae.</p>
+<p><strong>Arden:</strong> Me no mentaa.</p>
 <p><strong>Pronunciation:</strong> meh noh MEN-tay</p>
 </div>
 
 <div class="sentence-card">
 <h4>I can’t think straight.</h4>
-<p><strong>Arden:</strong> Me no mentae solinor.</p>
+<p><strong>Arden:</strong> Me no mentaa solinor.</p>
 <p><strong>Pronunciation:</strong> meh noh MEN-tay soh-LEE-nor</p>
 </div>
 
@@ -607,13 +607,13 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>I need to go to the shops today.</h4>
-<p><strong>Arden:</strong> Me nesae re merk solinor.</p>
+<p><strong>Arden:</strong> Me nesaa re merk solinor.</p>
 <p><strong>Pronunciation:</strong> meh neh-SAY reh merk soh-LEE-nor</p>
 </div>
 
 <div class="sentence-card">
 <h4>Let me know if you need anything.</h4>
-<p><strong>Arden:</strong> Loren tulun nesae olreth, me knaethe.</p>
+<p><strong>Arden:</strong> Loren tulun nesaa olreth, me knaathe.</p>
 <p><strong>Pronunciation:</strong> LOH-ren TOO-loon neh-SAY ol-RETH meh KNAH-eth</p>
 </div>
 
@@ -661,7 +661,7 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Let’s do it!</h4>
-<p><strong>Arden:</strong> Me mena ferae.</p>
+<p><strong>Arden:</strong> Me mena feraa.</p>
 <p><strong>Pronunciation:</strong> meh MEH-nah FEH-ray</p>
 </div>
 

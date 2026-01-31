@@ -21,7 +21,7 @@ This page collects every final Phase-1 addition to the conversational vocabulary
 
 | English      | Arden (Root) | Nominative | Accusative | Genitive  | Notes                                       |
 | ------------ | ------------ | ---------- | ---------- | --------- | ------------------------------------------- |
-| mind         | **menthor**  | menthora   | menthoram  | menthorum | Thoughts, attention; distinct from *mentae* |
+| mind         | **menthor**  | menthora   | menthoram  | menthorum | Thoughts, attention; distinct from *mentaa* |
 | way / manner | **varen**    | varena     | varenam    | varenum   | Shares root with *vare* (go)                |
 | plan         | **plaren**   | plarena    | plarenam   | plarenum  | Neutral planning noun                       |
 | anything     | **olreth**   | olretha    | olretham   | olrethum  | Indefinite nominal container                |
@@ -39,7 +39,7 @@ This page collects every final Phase-1 addition to the conversational vocabulary
 | English       | Arden (Root) | Nominative | Accusative | Genitive  | Notes                           |
 | ------------- | ------------ | ---------- | ---------- | --------- | ------------------------------- |
 | pizza         | **pizren**   | pizrena    | pizrenam   | pizrenum  | Modern borrowing (intentional)  |
-| flight        | **vaereth**  | vaeretha   | vaeretham  | vaerethum | Travel schedule noun            |
+| flight        | **vaareth**  | vaaretha   | vaaretham  | vaarethum | Travel schedule noun            |
 | lift (a ride) | **tolven**   | tolvena    | tolvenam   | tolvenum  | British sense: “give me a lift” |
 
 ### 🧠 Category: Social & Abstract Nouns (Remaining Additions)
@@ -56,19 +56,19 @@ This page collects every final Phase-1 addition to the conversational vocabulary
 
 | English                          | Arden (Root) | Verb Form | Notes                                    |
 | -------------------------------- | ------------ | --------- | ---------------------------------------- |
-| want                             | **volae**    | volae     | Extremely high-frequency                 |
+| want                             | **volaa**    | volaa     | Extremely high-frequency                 |
 | feel                             | **senthe**   | senthe    | Emotional / internal state               |
-| need                             | **nesae**    | nesae     | Plans, urgency                           |
-| know                             | **knaethe**  | knaethe   | For “let me know”                        |
-| forget                           | **morae**    | morae     | Non-dramatic forgetting                  |
+| need                             | **nesaa**    | nesaa     | Plans, urgency                           |
+| know                             | **knaathe**  | knaathe   | For “let me know”                        |
+| forget                           | **moraa**    | moraa     | Non-dramatic forgetting                  |
 | stay                             | **stare**    | stare     | Physical or situational                  |
 | happen                           | **ocurre**   | occurre   | Events, updates                          |
-| bother                           | **irnae**    | irnae     | Emotional disturbance                    |
+| bother                           | **irnaa**    | irnaa     | Emotional disturbance                    |
 | let / allow                      | **perme**    | perme     | Enables “let it go”, “let me know”       |
-| read                             | **lerae**    | lerae     | Reading text/books; pairs with *lera*    |
-| meet / get together              | **mirae**    | mirae     | Casual social meeting                    |
-| catch (idiomatic: catch a movie) | **kaprae**   | kaprae    | Attend / take in (not physical catching) |
-| make / prepare                   | **ferae**    | ferae     | Prepare food/drinks; light creation      |
+| read                             | **leraa**    | leraa     | Reading text/books; pairs with *lera*    |
+| meet / get together              | **miraa**    | miraa     | Casual social meeting                    |
+| catch (idiomatic: catch a movie) | **kapraa**   | kapraa    | Attend / take in (not physical catching) |
+| make / prepare                   | **feraa**    | feraa     | Prepare food/drinks; light creation      |
 | jinx                             | **kornaa**   | kornaa    | Superstitious interference               |
 
 ### 🌤️ Category: Adjectives & Quantifiers
