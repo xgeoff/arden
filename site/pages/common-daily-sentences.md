@@ -1,0 +1,668 @@
+---
+title = "Common Daily Sentences"
+layout = "summary"
+---
+
+## Everyday Questions
+
+<style>
+.sentence-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.3rem;
+  margin-top: 1rem;
+}
+.sentence-card {
+  border-radius: 0.8rem;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  padding: 1.1rem;
+  background: #fdfdfd;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.6), 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+.sentence-card h4 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+  text-transform: capitalize;
+}
+.sentence-card p {
+  margin: 0.15rem 0;
+  line-height: 1.4;
+}
+.sentence-card strong {
+  font-weight: 600;
+}
+</style>
+
+<div class="sentence-grid">
+
+<div class="sentence-card">
+<h4>How’s it going?</h4>
+<p><strong>Arden:</strong> Ke orel solinor es?</p>
+<p><strong>Pronunciation:</strong> keh OH-rel soh-LEE-nor ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>What’s for dinner?</h4>
+<p><strong>Arden:</strong> Ke de darnes es?</p>
+<p><strong>Pronunciation:</strong> keh deh DAR-nes ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>What’s happening this weekend?</h4>
+<p><strong>Arden:</strong> Ke occure toravel?</p>
+<p><strong>Pronunciation:</strong> keh oh-KOO-reh toh-RAH-vel</p>
+</div>
+
+<div class="sentence-card">
+<h4>Do you have any plans for today?</h4>
+<p><strong>Arden:</strong> Ke tu plaren solinor es?</p>
+<p><strong>Pronunciation:</strong> keh too plah-REN soh-LEE-nor ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>Are you busy or are you free to chat?</h4>
+<p><strong>Arden:</strong> Ke tu prethel ol tulun lirel charel?</p>
+<p><strong>Pronunciation:</strong> keh too PREH-thel ol TOO-loon LEE-rel CHA-rel</p>
+</div>
+
+<div class="sentence-card">
+<h4>Where are my keys?</h4>
+<p><strong>Arden:</strong> Ke punt melun klornee es?</p>
+<p><strong>Pronunciation:</strong> keh punt MEH-loon klor-NEE ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>What are you getting up to this weekend?</h4>
+<p><strong>Arden:</strong> Ke tu occurre toravel?</p>
+<p><strong>Pronunciation:</strong> keh too oh-KOO-reh toh-RAH-vel</p>
+</div>
+
+<div class="sentence-card">
+<h4>Are you keen to get together on Saturday?</h4>
+<p><strong>Arden:</strong> Ke tu zelel mirae toravel?</p>
+<p><strong>Pronunciation:</strong> keh too zeh-LEL MEE-rah toh-RAH-vel</p>
+</div>
+
+<div class="sentence-card">
+<h4>You’re joking?</h4>
+<p><strong>Arden:</strong> Tu solae, kaa?</p>
+<p><strong>Pronunciation:</strong> too SOH-lay kah</p>
+</div>
+
+<div class="sentence-card">
+<h4>Have you got much going on these days?</h4>
+<p><strong>Arden:</strong> Ke tu prethel sen?</p>
+<p><strong>Pronunciation:</strong> keh too PREH-thel sen</p>
+</div>
+
+<div class="sentence-card">
+<h4>How’s your workday looking?</h4>
+<p><strong>Arden:</strong> Ke tulun labore solinor es?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon lah-BOH-reh soh-LEE-nor ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>Should we grab a bite to eat?</h4>
+<p><strong>Arden:</strong> Shal me comae de darnes?</p>
+<p><strong>Pronunciation:</strong> shal meh KOH-may deh DAR-nes</p>
+</div>
+
+<div class="sentence-card">
+<h4>Would you like to grab a coffee this afternoon?</h4>
+<p><strong>Arden:</strong> Ke tulun volae kareth surneth?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon voh-LAY kah-RETH SOOR-neth</p>
+</div>
+
+<div class="sentence-card">
+<h4>Would you mind helping me quickly?</h4>
+<p><strong>Arden:</strong> Shal tulun helpe me virel?</p>
+<p><strong>Pronunciation:</strong> shal TOO-loon HEL-peh meh vee-rel</p>
+</div>
+
+<div class="sentence-card">
+<h4>What are you up to?</h4>
+<p><strong>Arden:</strong> Ke tu occurre?</p>
+<p><strong>Pronunciation:</strong> keh too oh-KOO-reh</p>
+</div>
+
+<div class="sentence-card">
+<h4>Could you give me a lift?</h4>
+<p><strong>Arden:</strong> Tu kan tolvena me?</p>
+<p><strong>Pronunciation:</strong> too kan tol-VEH-nah meh</p>
+</div>
+
+<div class="sentence-card">
+<h4>Can I help you with anything?</h4>
+<p><strong>Arden:</strong> Ke me kan helpe tulun olreth?</p>
+<p><strong>Pronunciation:</strong> keh meh kan HEL-peh TOO-loon ol-RETH</p>
+</div>
+
+<div class="sentence-card">
+<h4>What time are you getting home today?</h4>
+<p><strong>Arden:</strong> Ke tembor tulun varo toran solinor?</p>
+<p><strong>Pronunciation:</strong> keh TEM-bor TOO-loon VAH-roh TOH-ran soh-LEE-nor</p>
+</div>
+
+<div class="sentence-card">
+<h4>Should we eat out tonight?</h4>
+<p><strong>Arden:</strong> Shal me comae eskren nareth?</p>
+<p><strong>Pronunciation:</strong> shal meh KOH-may es-KREN NAH-reth</p>
+</div>
+
+<div class="sentence-card">
+<h4>How does pizza sound?</h4>
+<p><strong>Arden:</strong> Ke pizren miravel?</p>
+<p><strong>Pronunciation:</strong> keh PEEZ-ren mee-RAH-vel</p>
+</div>
+
+<div class="sentence-card">
+<h4>What do you feel like doing?</h4>
+<p><strong>Arden:</strong> Ke tulun senthe varo?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon SEN-theh VAH-roh</p>
+</div>
+
+<div class="sentence-card">
+<h4>What are you watching?</h4>
+<p><strong>Arden:</strong> Ke tulun obserne?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon ob-ZER-neh</p>
+</div>
+
+<div class="sentence-card">
+<h4>What are you reading?</h4>
+<p><strong>Arden:</strong> Ke tulun lerae?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon leh-RAY</p>
+</div>
+
+<div class="sentence-card">
+<h4>Are you keen to catch a movie tonight?</h4>
+<p><strong>Arden:</strong> Ke tulun zelel kaprae virel nareth?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon zeh-LEL kah-PRAY vee-rel NAH-reth</p>
+</div>
+
+<div class="sentence-card">
+<h4>What are you thinking about?</h4>
+<p><strong>Arden:</strong> Ke tulun mentae?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon MEN-tay</p>
+</div>
+
+<div class="sentence-card">
+<h4>Have you fed the dogs?</h4>
+<p><strong>Arden:</strong> Ke tulun nutrao kurmee?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon noo-TRAH-oh KOOR-mee</p>
+</div>
+
+<div class="sentence-card">
+<h4>What do you want to do?</h4>
+<p><strong>Arden:</strong> Ke tulun volae var?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon voh-LAY var</p>
+</div>
+
+<div class="sentence-card">
+<h4>What do you want to eat?</h4>
+<p><strong>Arden:</strong> Ke tulun volae comae?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon voh-LAY KOH-may</p>
+</div>
+
+<div class="sentence-card">
+<h4>Can I make you some coffee?</h4>
+<p><strong>Arden:</strong> Ke me kan ferae tu kareth?</p>
+<p><strong>Pronunciation:</strong> keh meh kan FEH-ray too kah-RETH</p>
+</div>
+
+<div class="sentence-card">
+<h4>Where are you going?</h4>
+<p><strong>Arden:</strong> Ke punt tu vare?</p>
+<p><strong>Pronunciation:</strong> keh punt too vah-REH</p>
+</div>
+
+<div class="sentence-card">
+<h4>Should I take the dog for a walk?</h4>
+<p><strong>Arden:</strong> Shal me pase kurmee?</p>
+<p><strong>Pronunciation:</strong> shal meh PAH-seh KOOR-mee</p>
+</div>
+
+<div class="sentence-card">
+<h4>How much does it cost?</h4>
+<p><strong>Arden:</strong> Ke kostel es?</p>
+<p><strong>Pronunciation:</strong> keh KOS-tel ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>Do you want to meet up next week?</h4>
+<p><strong>Arden:</strong> Ke tulun volae mirae pren vireth?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon voh-LAY MEE-rah pren vee-reth</p>
+</div>
+
+<div class="sentence-card">
+<h4>We could do dinner on Wednesday night?</h4>
+<p><strong>Arden:</strong> Me mirae darnes merion nareth, kaa?</p>
+<p><strong>Pronunciation:</strong> meh MEE-rah DAR-nes MEH-ree-on NAH-reth kah</p>
+</div>
+
+<div class="sentence-card">
+<h4>What’s on your mind?</h4>
+<p><strong>Arden:</strong> Ke tulun menthor es?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon men-THOR ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>What’s eating you?</h4>
+<p><strong>Arden:</strong> Ke tulun irnae?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon IR-nai</p>
+</div>
+
+<div class="sentence-card">
+<h4>Do you have a minute?</h4>
+<p><strong>Arden:</strong> Ke tulun minel es?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon MIN-el ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>Is everything OK?</h4>
+<p><strong>Arden:</strong> Orel olven, kaa?</p>
+<p><strong>Pronunciation:</strong> OH-rel OL-ven kah</p>
+</div>
+
+<div class="sentence-card">
+<h4>How was your weekend?</h4>
+<p><strong>Arden:</strong> Ke tulun varo toravel?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon VAH-roh toh-RAH-vel</p>
+</div>
+
+<div class="sentence-card">
+<h4>How are you feeling today?</h4>
+<p><strong>Arden:</strong> Ke tulun senthe solinor?</p>
+<p><strong>Pronunciation:</strong> keh TOO-loon SEN-theh soh-LEE-nor</p>
+</div>
+
+<div class="sentence-card">
+<h4>What time did you get up?</h4>
+<p><strong>Arden:</strong> Ke tembor tulun alaro solinor?</p>
+<p><strong>Pronunciation:</strong> keh TEM-bor TOO-loon ah-LAH-roh soh-LEE-nor</p>
+</div>
+
+<div class="sentence-card">
+<h4>What time do we need to be there?</h4>
+<p><strong>Arden:</strong> Ke tembor me mena nesao?</p>
+<p><strong>Pronunciation:</strong> keh TEM-bor meh MEH-nah neh-SOW</p>
+</div>
+
+<div class="sentence-card">
+<h4>What time is your flight?</h4>
+<p><strong>Arden:</strong> Ke tembor tulun vaereth es?</p>
+<p><strong>Pronunciation:</strong> keh TEM-bor TOO-loon vai-RETH ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>You coming?</h4>
+<p><strong>Arden:</strong> Tu vare, kaa?</p>
+<p><strong>Pronunciation:</strong> too vah-REH kah</p>
+</div>
+
+</div>
+
+## Everyday Responses
+
+<div class="sentence-grid">
+
+<div class="sentence-card">
+<h4>No worries.</h4>
+<p><strong>Arden:</strong> Selai.</p>
+<p><strong>Pronunciation:</strong> seh-LAI</p>
+</div>
+
+<div class="sentence-card">
+<h4>Long time no see!</h4>
+<p><strong>Arden:</strong> Solinor dura, me no visae tu.</p>
+<p><strong>Pronunciation:</strong> soh-LEE-nor DOO-rah meh noh vee-SAI too</p>
+</div>
+
+<div class="sentence-card">
+<h4>Drive safe.</h4>
+<p><strong>Arden:</strong> Durne surel.</p>
+<p><strong>Pronunciation:</strong> DOOR-neh soo-REL</p>
+</div>
+
+<div class="sentence-card">
+<h4>Call me when you get home.</h4>
+<p><strong>Arden:</strong> Vokae me loren tu varo toran.</p>
+<p><strong>Pronunciation:</strong> voh-KAI meh LOH-ren too VAH-roh TOH-ran</p>
+</div>
+
+<div class="sentence-card">
+<h4>Don’t forget to buy milk.</h4>
+<p><strong>Arden:</strong> No morae tu venae lufen.</p>
+<p><strong>Pronunciation:</strong> noh MOH-ray too VEH-nay LOO-fen</p>
+</div>
+
+<div class="sentence-card">
+<h4>Call me back when you get a chance.</h4>
+<p><strong>Arden:</strong> Vokae me loren tu varo orven.</p>
+<p><strong>Pronunciation:</strong> voh-KAI meh LOH-ren too VAH-roh OR-ven</p>
+</div>
+
+<div class="sentence-card">
+<h4>That’s so annoying.</h4>
+<p><strong>Arden:</strong> Dolvai.</p>
+<p><strong>Pronunciation:</strong> DOHL-vai</p>
+</div>
+
+<div class="sentence-card">
+<h4>That’s so frustrating.</h4>
+<p><strong>Arden:</strong> Dolvai.</p>
+<p><strong>Pronunciation:</strong> DOHL-vai</p>
+</div>
+
+<div class="sentence-card">
+<h4>That’s so wonderful.</h4>
+<p><strong>Arden:</strong> Miravel.</p>
+<p><strong>Pronunciation:</strong> mee-RAH-vel</p>
+</div>
+
+<div class="sentence-card">
+<h4>That’s so exciting.</h4>
+<p><strong>Arden:</strong> Miravel.</p>
+<p><strong>Pronunciation:</strong> mee-RAH-vel</p>
+</div>
+
+<div class="sentence-card">
+<h4>He’s forever complaining about this country.</h4>
+<p><strong>Arden:</strong> Mile sen irnae drenn.</p>
+<p><strong>Pronunciation:</strong> MEE-leh sen IR-nai DREN</p>
+</div>
+
+<div class="sentence-card">
+<h4>On my way!</h4>
+<p><strong>Arden:</strong> Me vare rin!</p>
+<p><strong>Pronunciation:</strong> meh vah-REH rin</p>
+</div>
+
+<div class="sentence-card">
+<h4>Be right back.</h4>
+<p><strong>Arden:</strong> Me vare, veran soon.</p>
+<p><strong>Pronunciation:</strong> meh vah-REH veh-RAN soon</p>
+</div>
+
+<div class="sentence-card">
+<h4>I’m just popping out quickly.</h4>
+<p><strong>Arden:</strong> Me varo eskren virel.</p>
+<p><strong>Pronunciation:</strong> meh VAH-roh es-KREN vee-rel</p>
+</div>
+
+<div class="sentence-card">
+<h4>I’ll be back in an hour.</h4>
+<p><strong>Arden:</strong> Me veran tarnel.</p>
+<p><strong>Pronunciation:</strong> meh veh-RAN TAR-nel</p>
+</div>
+
+<div class="sentence-card">
+<h4>I’m exhausted today.</h4>
+<p><strong>Arden:</strong> Me dranel solinor.</p>
+<p><strong>Pronunciation:</strong> meh DRAH-nel soh-LEE-nor</p>
+</div>
+
+<div class="sentence-card">
+<h4>How stunning is the weather today!</h4>
+<p><strong>Arden:</strong> Ke miravel solir solinor es!</p>
+<p><strong>Pronunciation:</strong> keh mee-RAH-vel SOH-leer soh-LEE-nor ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>It’s on the tip of my tongue but I can’t remember.</h4>
+<p><strong>Arden:</strong> Glavar melun es ten; me no mentae.</p>
+<p><strong>Pronunciation:</strong> GLAH-var MEH-loon ess ten meh noh MEN-tay</p>
+</div>
+
+<div class="sentence-card">
+<h4>No thanks.</h4>
+<p><strong>Arden:</strong> No, selai.</p>
+<p><strong>Pronunciation:</strong> noh seh-LAI</p>
+</div>
+
+<div class="sentence-card">
+<h4>Yes, please!</h4>
+<p><strong>Arden:</strong> Jaen, moren.</p>
+<p><strong>Pronunciation:</strong> jain MOH-ren</p>
+</div>
+
+<div class="sentence-card">
+<h4>I’ll check if I’m free.</h4>
+<p><strong>Arden:</strong> Me loren, me lirel.</p>
+<p><strong>Pronunciation:</strong> meh LOH-ren meh LEE-rel</p>
+</div>
+
+<div class="sentence-card">
+<h4>It’s been one of those days.</h4>
+<p><strong>Arden:</strong> Solinor es un dranel solinor.</p>
+<p><strong>Pronunciation:</strong> soh-LEE-nor ess oon DRAH-nel soh-LEE-nor</p>
+</div>
+
+<div class="sentence-card">
+<h4>Don’t jinx it!</h4>
+<p><strong>Arden:</strong> No kornaa.</p>
+<p><strong>Pronunciation:</strong> noh kor-NAH</p>
+</div>
+
+<div class="sentence-card">
+<h4>Thanks a million.</h4>
+<p><strong>Arden:</strong> Selai morai.</p>
+<p><strong>Pronunciation:</strong> seh-LAI mor-AI</p>
+</div>
+
+<div class="sentence-card">
+<h4>Don’t worry about it.</h4>
+<p><strong>Arden:</strong> No vireth de ten.</p>
+<p><strong>Pronunciation:</strong> noh vee-reth deh ten</p>
+</div>
+
+<div class="sentence-card">
+<h4>No sweat off my back.</h4>
+<p><strong>Arden:</strong> No tressel me.</p>
+<p><strong>Pronunciation:</strong> noh tress-EL meh</p>
+</div>
+
+<div class="sentence-card">
+<h4>I’d rather stay at home tonight.</h4>
+<p><strong>Arden:</strong> Me mor stare toran nareth.</p>
+<p><strong>Pronunciation:</strong> meh mor stah-RAY TOH-ran NAH-reth</p>
+</div>
+
+<div class="sentence-card">
+<h4>What miserable weather we’re having!</h4>
+<p><strong>Arden:</strong> Grelvel solir solinor!</p>
+<p><strong>Pronunciation:</strong> greh-VEL SOH-leer soh-LEE-nor</p>
+</div>
+
+<div class="sentence-card">
+<h4>Don’t stress.</h4>
+<p><strong>Arden:</strong> No tressel.</p>
+<p><strong>Pronunciation:</strong> noh tress-EL</p>
+</div>
+
+<div class="sentence-card">
+<h4>It doesn’t matter.</h4>
+<p><strong>Arden:</strong> No relen.</p>
+<p><strong>Pronunciation:</strong> noh reh-LEN</p>
+</div>
+
+<div class="sentence-card">
+<h4>It’s not important.</h4>
+<p><strong>Arden:</strong> No relen.</p>
+<p><strong>Pronunciation:</strong> noh reh-LEN</p>
+</div>
+
+<div class="sentence-card">
+<h4>Don’t let it bother you too much.</h4>
+<p><strong>Arden:</strong> No irnae tulun mor plurel.</p>
+<p><strong>Pronunciation:</strong> noh IR-nai TOO-loon mor PLOO-rel</p>
+</div>
+
+<div class="sentence-card">
+<h4>All good. Can’t complain.</h4>
+<p><strong>Arden:</strong> Olven. No irnae.</p>
+<p><strong>Pronunciation:</strong> OL-ven noh IR-nai</p>
+</div>
+
+<div class="sentence-card">
+<h4>I see where you’re coming from.</h4>
+<p><strong>Arden:</strong> Me visae fen tulun venir.</p>
+<p><strong>Pronunciation:</strong> meh vee-SAI fen TOO-loon veh-NEER</p>
+</div>
+
+<div class="sentence-card">
+<h4>I don’t agree.</h4>
+<p><strong>Arden:</strong> Me no agree.</p>
+<p><strong>Pronunciation:</strong> meh noh ah-GREE</p>
+</div>
+
+<div class="sentence-card">
+<h4>100% That’s exactly how I feel.</h4>
+<p><strong>Arden:</strong> Morai, orel me senthe.</p>
+<p><strong>Pronunciation:</strong> mor-AI OH-rel meh SEN-theh</p>
+</div>
+
+<div class="sentence-card">
+<h4>I really hope so.</h4>
+<p><strong>Arden:</strong> Me elvii mor.</p>
+<p><strong>Pronunciation:</strong> meh el-VEE mor</p>
+</div>
+
+<div class="sentence-card">
+<h4>I doubt it.</h4>
+<p><strong>Arden:</strong> Me no valinii.</p>
+<p><strong>Pronunciation:</strong> meh noh vah-LIN-ee</p>
+</div>
+
+<div class="sentence-card">
+<h4>Never better!</h4>
+<p><strong>Arden:</strong> Morai, me no dranel.</p>
+<p><strong>Pronunciation:</strong> mor-AI meh noh DRAH-nel</p>
+</div>
+
+<div class="sentence-card">
+<h4>Let’s get going or we’ll be late.</h4>
+<p><strong>Arden:</strong> Me vare, ol me tarel.</p>
+<p><strong>Pronunciation:</strong> meh vah-REH ol meh TAH-rel</p>
+</div>
+
+<div class="sentence-card">
+<h4>Please be quiet for a second.</h4>
+<p><strong>Arden:</strong> Moren, humel solinor sekren.</p>
+<p><strong>Pronunciation:</strong> MOH-ren HOO-mel soh-LEE-nor SEH-kren</p>
+</div>
+
+<div class="sentence-card">
+<h4>They’re making so much noise!</h4>
+<p><strong>Arden:</strong> Sena fen soneth plurel!</p>
+<p><strong>Pronunciation:</strong> SEH-nah fen SOH-neth PLOO-rel</p>
+</div>
+
+<div class="sentence-card">
+<h4>I can’t concentrate.</h4>
+<p><strong>Arden:</strong> Me no mentae.</p>
+<p><strong>Pronunciation:</strong> meh noh MEN-tay</p>
+</div>
+
+<div class="sentence-card">
+<h4>I can’t think straight.</h4>
+<p><strong>Arden:</strong> Me no mentae solinor.</p>
+<p><strong>Pronunciation:</strong> meh noh MEN-tay soh-LEE-nor</p>
+</div>
+
+<div class="sentence-card">
+<h4>I can’t wait to unwind this weekend.</h4>
+<p><strong>Arden:</strong> Me no kan resce toravel.</p>
+<p><strong>Pronunciation:</strong> meh noh kan res-AY toh-RAH-vel</p>
+</div>
+
+<div class="sentence-card">
+<h4>Things are looking up!</h4>
+<p><strong>Arden:</strong> Ten solinor es melor.</p>
+<p><strong>Pronunciation:</strong> ten soh-LEE-nor ess meh-LOR</p>
+</div>
+
+<div class="sentence-card">
+<h4>Well, at least things couldn’t get worse.</h4>
+<p><strong>Arden:</strong> Olven, malren no pote.</p>
+<p><strong>Pronunciation:</strong> OL-ven MAHL-ren noh POH-teh</p>
+</div>
+
+<div class="sentence-card">
+<h4>So far, so good.</h4>
+<p><strong>Arden:</strong> Solinor, solinor es melor.</p>
+<p><strong>Pronunciation:</strong> soh-LEE-nor soh-LEE-nor ess meh-LOR</p>
+</div>
+
+<div class="sentence-card">
+<h4>It’s all good.</h4>
+<p><strong>Arden:</strong> Olven.</p>
+<p><strong>Pronunciation:</strong> OL-ven</p>
+</div>
+
+<div class="sentence-card">
+<h4>What a waste of time.</h4>
+<p><strong>Arden:</strong> Fornel tembor.</p>
+<p><strong>Pronunciation:</strong> for-NEL TEM-bor</p>
+</div>
+
+<div class="sentence-card">
+<h4>I need to go to the shops today.</h4>
+<p><strong>Arden:</strong> Me nesae re merk solinor.</p>
+<p><strong>Pronunciation:</strong> meh neh-SAY reh merk soh-LEE-nor</p>
+</div>
+
+<div class="sentence-card">
+<h4>Let me know if you need anything.</h4>
+<p><strong>Arden:</strong> Loren tulun nesae olreth, me knaethe.</p>
+<p><strong>Pronunciation:</strong> LOH-ren TOO-loon neh-SAY ol-RETH meh KNAH-eth</p>
+</div>
+
+<div class="sentence-card">
+<h4>I would love to!</h4>
+<p><strong>Arden:</strong> Me mor amarbo.</p>
+<p><strong>Pronunciation:</strong> meh mor ah-MAR-boh</p>
+</div>
+
+<div class="sentence-card">
+<h4>I don’t feel like it.</h4>
+<p><strong>Arden:</strong> Me no senthe.</p>
+<p><strong>Pronunciation:</strong> meh noh SEN-theh</p>
+</div>
+
+<div class="sentence-card">
+<h4>Bless you!</h4>
+<p><strong>Arden:</strong> Silven.</p>
+<p><strong>Pronunciation:</strong> SIL-ven</p>
+</div>
+
+<div class="sentence-card">
+<h4>You’re being ridiculous!</h4>
+<p><strong>Arden:</strong> Tu farrel es.</p>
+<p><strong>Pronunciation:</strong> too FAIR-rel ess</p>
+</div>
+
+<div class="sentence-card">
+<h4>Just let it go.</h4>
+<p><strong>Arden:</strong> Perme de ten.</p>
+<p><strong>Pronunciation:</strong> PER-meh deh ten</p>
+</div>
+
+<div class="sentence-card">
+<h4>It’s OK.</h4>
+<p><strong>Arden:</strong> Olven.</p>
+<p><strong>Pronunciation:</strong> OL-ven</p>
+</div>
+
+<div class="sentence-card">
+<h4>Thank you.</h4>
+<p><strong>Arden:</strong> Selai.</p>
+<p><strong>Pronunciation:</strong> seh-LAI</p>
+</div>
+
+<div class="sentence-card">
+<h4>Let’s do it!</h4>
+<p><strong>Arden:</strong> Me mena ferae.</p>
+<p><strong>Pronunciation:</strong> meh MEH-nah FEH-ray</p>
+</div>
+
+</div>

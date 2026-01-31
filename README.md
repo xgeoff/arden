@@ -5,7 +5,7 @@
 
 ### ✨ Key Features
 
-* **Alphabet & Phonetics**: Uses the standard English alphabet with unambiguous sound-to-letter mappings. No duplicate sounds, diacritics, or special characters.
+* **Alphabet & Phonetics**: Uses the Basic Latin alphabet (ie standard English) with unambiguous sound-to-letter mappings. No duplicate sounds, diacritics, or special characters.
 * **Writing System**: Fully phonetic and visually clean, following standard punctuation and capitalization rules. Unique mechanisms like `?Question?` and `!Exclamation!` mark sentence tone clearly.
 * **Grammar**:
 
