@@ -1,310 +1,135 @@
 ---
 title = "Arden Language Summary"
+layout = "summary"
 ---
 
-**Arden Language Summary**
+## Arden Summary
+
+This page is the compact reference for the **current conversational standard** used across the newer Arden docs.
+
+## What Arden Optimizes For
+
+- phonetic spelling
+- simple spoken syntax
+- minimal inflection in everyday use
+- reusable particles for grammar instead of large conjugation tables
+
+## Sentence Basics
 
-### **Language Features Overview**
-
-* **Writing System**: Standard English alphabet (A-Z). No diacritics. Strictly phonetic spelling with 1:1 sound-letter mapping.
-
-* **Syntax**: Subject-Verb-Object (SVO) word order.
-
-* **Pronouns**: Gender-neutral adjectives; shared root forms for personal and possessive. Pronouns exist for indicating male, female, or unspecified.
-
-* **Word Stress**: Minimal; all syllables are relatively equally emphasized.
-
-* **Intonation**: Defined patterns for statements, questions, exclamations, emphasis, and lists.
-
-* **Noun Declension**: Singular/plural system with three optional cases: nominative, accusative, genitive.
-
-* **Verb Conjugation**: Simple suffix-based system for past and future tense.
-
-
-
-### **Core System**
-
-#### **1\. Alphabet**
-
-* Uses standard English letters A–Z.
-
-#### **2\. Vowels**
-
-* Short vowels: 
-
-  * **o** \= /ɑ/ as in *pot*, *father*
-
-  * **a** \= as in *at*
-
-  * e as in 'echo'
-
-  * u as in 'up’
-
-  * i as in 'it'
-
-* Long vowels:
-
-  * **aa**: /eɪ/ as in *fate*
-
-  * **ee**: /iː/ as in *feet*
-
-  * **ii**: /aɪ/ as in *eye*
-
-  * **oo**: /oʊ/ as in *note*
-
-  * **uu**: /uː/ as in *flute*
-
-#### **3\. Consonants**
-
-* **j** \= /dʒ/ as in *joke*
-
-* **q** \= /tʃ/ as in *church*
-
-* **x** \= /ʃ/ as in *share*
-
-* **zz** \= /ʒ/ as in *azure*
-
-* **dd** \= /θ/ as in *thin*
-
-* **o** \= /ɑ/ as in *pot*, *father*
-
-* **a** \= as in *at*
-
-* B \= as in 'bed'
-
-* c as in ???
-
-* d as in 'deep'  
-* e as in 'echo'  
-* f as in 'frank'  
-* g as in 'good'  
-* h as in 'hell'  
-* i as in 'it'  
-* k as in 'kit'  
-* l as in 'lit'  
-* m as in 'mat'  
-* n as in 'next'  
-* o as in 'lot'  
-* p as in 'pot'  
-* q has the ch sound as in 'church'  
-* r as in 'rot'  
-* s as in 'sit'  
-* t as in 'tin'  
-* u as in 'up’  
-* v as in 'vet'  
-* w as in 'wet'  
-* x has the sh sound as in 'share'  
-* y as in 'yes'  
-* z as in 'zip' 
-
-#### **4\. Diphthongs**
-
-* **oi**: /ɔɪ/ as in *boy*
-
-* **ou**: /aʊ/ as in *house*
-
-* **au**: /ɔ/ as in *song*
-
-#### **5\. Nasalization**
-
-* No nasalized vowels.
-
-#### **6\. Punctuation**
-
-* Standard English punctuation.
-
-#### **7\. Question Mark Indicator**
-
-* Question marks used at both start and end: `?Why are you late?`
-
-#### **8\. Exclamation Mark Indicator**
-
-* Exclamation marks at both start and end: `!You are here!`
-
-#### **9\. Spacing**
-
-* Standard English spacing.
-
-#### **10\. Capitalization**
-
-* Capitalize first word in a sentence and proper nouns.
-
-#### **11\. Apostrophes and Possessive Construction**
-
-* Avoid apostrophes. Use **de** or **yun**:
-
-Examples:
-
-1. Everyday vs. Poetic
-
-**English:** The teacher's book.
-
-* Neutral: *Levrana de lertha.*
-* Poetic: *Levrana yun lertha.*
-  (*levran* = book, *lerth* = teacher)
-
-2. Natural imagery
-
-**English:** The river valley.
-
-* Neutral: *Sirenta de selvora.*
-* Poetic: *Sirenta yun selvora.*
-  (*sirent* = river, *selvor* = valley)
-
-3. Celestial reference
-
-**English:** The light of the sun.
-
-* Neutral: *Lurena de solira.*
-* Poetic: *Lurena yun solira.*
-  (*luren* = light, *solir* = sun)
-
-4. Artistic expression
-
-**English:** The bird's song.
-
-* Neutral: *Lerana de tarva.*
-* Poetic: *Lerana yun tarva.*
-  (*lera* = song, *tarv* = bird)
-
-👉 The pattern is consistent:
-
-* **de** = practical, everyday usage (like ownership, location, or simple description).
-* **yun** = elevated, poetic usage (song, art, nature, spirituality).
-
-#### **12\. Word Order**
-
-* Follows SVO:
-
-  * *The cat catches the mouse* → Subject, Verb, Object
-
----
-
-### **Grammar**
-
-#### **13\. Noun Declensions**
-
-* All nouns end in a **consonant**.
-
-* **Plural**: Add **\-ee**
-
-* **Nominative**: Add **\-a**
-
-* **Accusative**: Add **\-am**
-
-* **Genitive**: Add **\-um**
-
-Examples:
-
-* *caalin* (girl)
-
-  * Plural: *caalinee*
-
-  * Nominative: *caalina*
-
-  * Accusative: *caalinam*
-
-  * Genitive: *caalinum*
-
-#### **14\. Verb Conjugations**
-
-* All verbs end in **\-e**
-
-* **Present**: Root form only (e.g., *amare* \= to love)
-
-* **Past**: Add **\-o** (e.g., *me amaro*)
-
-* **Future**: Add **\-bo** (e.g., *me amarbo*)
-
-Examples:
-
-* *amare* (to love):
-
-  * *me amare*, *tu amaro*, *mila amarbo*
-
-#### **15\. Articles**
-
-* **Definite**:
-
-  * Singular: *an*
-
-  * Plural: *na*
-
-* **Indefinite**:
-
-  * Singular: *te* (default)
-
-  * Plural: *et*
-
-#### **16\. Pronouns**
-
-* **Personal**:
-
-  * Singular: *me*, *tu*, *mile/mila/se*
-
-  * Plural: *mena (we)*, *tuna (you pl.)*, *sena*
-
-* **Possessive**:
-
-  * Singular: *mo*, *doo*, *aaj/aasee*
-
-  * Plural: *ar*, *bhur*, *acu*
-
-#### **17\. Prepositions**
-
-* Examples: *in*, *ad*, *le*, *eks*
-
-  * *in dom* (in the house)
-
-  * *eks ter* (from the land)
-
-#### **18\. Consonant Digraphs**
-
-* **dd** \= /θ/ (*thin*)
-
-* **zz** \= /ʒ/ (*azure*)
-
-#### **20\. Adjectives**
-
-* All adjectives end in **\-el**
-
-* Gender-neutral and invariable by gender
-
-* Follow the noun
-
-Examples:
-
-* *garnel* (red), *santel* (wise), *nimel* (bright)
-
-* *duran garnel* (red mountain)
-
-* *farnum santel* (of the wise king)
-
-**Number Agreement:**
-
-* Plural adjectives: add **\-ee**
-
-  * *garnel → garnelee*, *santel → santelee*
-
-**Comparative**: add **\-ar** → *santelar* (wiser)
-
-**Superlative**: add **\-estel** → *santelestel* (wisest)
-
-**Helper words**: *mor* (more), *seel* (most)
-
-#### **21\. Pronunciation**
-
-* Defined vowel and consonant system with clear orthography
-
-* Equal syllable stress
-
-#### **22\. Intonation**
-
-* Supports patterns for all sentence types
-
-#### **23\. Adverbs**
-
-* Adverbs follow the verb
-
-  * *Mila xe gomol* (She goes slowly)
-  * Adverbs formed by adding **\-ly** in English become **\-el** in Arden
+Arden normally uses **subject-verb-object** order.
+
+| English | Arden |
+| --- | --- |
+| I read the book. | **Me leraa levran.** |
+| We meet later. | **Mena miraa soren.** |
+| You are free? | **Tu lirel, kaa?** |
+
+## Questions and Particles
+
+| Function | Arden | Position | Example |
+| --- | --- | --- | --- |
+| yes / no question | `kaa` | sentence-final | **Tu lirel, kaa?** |
+| open question | `ke` | clause-initial | **Ke tu occurre?** |
+| suggestion prompt | `ken` | clause-initial | **Ken kareth?** |
+| negation | `no` | before predicate | **Me no leraa.** |
+| ongoing aspect | `rin` | after verb | **Me labore rin.** |
+| habitual aspect | `sen` | after verb | **Tu labore sen.** |
+| recent aspect | `jurel` | after verb | **Me leraa jurel.** |
+| imminent aspect | `pren` | after verb | **Me vare pren.** |
+| ability | `kan` | before verb | **Me kan helpe.** |
+| advice | `shal` | before verb | **Tu shal reste.** |
+
+## Zero Copula
+
+Arden often omits an explicit verb for “to be.”
+
+| English | Arden |
+| --- | --- |
+| I am busy today. | **Me prethel solinor.** |
+| Everything is okay. | **Orel olven.** |
+| Miserable night. | **Grelvel nareth.** |
+
+## Pronouns
+
+| English | Arden |
+| --- | --- |
+| I | **me** |
+| you | **tu** |
+| he | **mile** |
+| she | **mila** |
+| they (sing.) | **se** |
+| we | **mena** |
+| you all | **tuna** |
+| they | **sena** |
+
+Possessive forms used in the conversational pages:
+
+| English | Arden |
+| --- | --- |
+| my / mine | **melun** |
+| your | **tulun** |
+| his | **milun** |
+| her | **malun** |
+| their (sing.) | **selun** |
+| our | **menlun** |
+| your (pl.) | **tunlun** |
+| their (pl.) | **senlun** |
+
+## Nouns and Adjectives
+
+Conversational Arden starts with the bare root. Many source tables still include older inflected forms:
+
+| Function | Ending |
+| --- | --- |
+| nominative | `-a` |
+| accusative | `-am` |
+| genitive | `-um` |
+| plural | `-ee` |
+
+Adjectives generally follow the noun and often end in `-el`.
+
+| English | Arden |
+| --- | --- |
+| busy day | **solin prethel** |
+| quiet night | **nareth humel** |
+| safe road | **meren surel** |
+
+Casual comparison is usually analytic:
+
+| English | Arden |
+| --- | --- |
+| more busy | **mor prethel** |
+| most ridiculous | **seel farrel** |
+
+## Possession
+
+Use `de` for ordinary possession and association.
+
+| English | Arden |
+| --- | --- |
+| the teacher's book | **Levrana de lertha.** |
+| the light of the sun | **Lurena de solira.** |
+
+Some older pages also use `yun` for a more elevated or poetic register.
+
+## Sound Highlights
+
+| Spelling | Value |
+| --- | --- |
+| `q` | `ch` |
+| `x` | `sh` |
+| `dd` | voiceless `th` |
+| `aa` | `ay` |
+| `ee` | `ee` |
+| `oo` | `oh` |
+| `ii` | `eye` |
+
+For the complete chart, see [`phoneme-orthography`](phoneme-orthography.html).
+
+## Recommended Reading Order
+
+1. [`index`](index.html)
+2. [`phoneme-orthography`](phoneme-orthography.html)
+3. [`auxiliary-discourse`](auxiliary-discourse.html)
+4. [`conversational-core`](conversational-core.html)
+5. [`common-daily-sentences`](common-daily-sentences.html)

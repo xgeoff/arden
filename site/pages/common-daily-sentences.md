@@ -451,8 +451,8 @@ layout = "summary"
 
 <div class="sentence-card">
 <h4>Don’t worry about it.</h4>
-<p><strong>Arden:</strong> No vireth de ten.</p>
-<p><strong>Pronunciation:</strong> noh vee-reth deh ten</p>
+<p><strong>Arden:</strong> No voren de ten.</p>
+<p><strong>Pronunciation:</strong> noh voh-ren deh ten</p>
 </div>
 
 <div class="sentence-card">

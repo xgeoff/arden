@@ -147,7 +147,7 @@ These particles operate at the sentence or conversational level.
 | olven | okay / all good |
 | morai | definitely / exactly |
 | jaan | yes |
-| nareth | no |
+| no | no |
 | dolvai | frustrating / annoying |
 
 **Examples**

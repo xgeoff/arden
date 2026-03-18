@@ -32,7 +32,7 @@ title = "Days, Directions, and Electronics"
 | right | **ravan** | ravana | ravanam | ravanum | ravanel | ravan | Assertive, dominant direction |
 | straight | **traath** | traatha | traatham | traathum | traathel | traath | From *track* \+ *path*; direct movement |
 | north | **nureth** | nuretha | nuretham | nurethum | nurethel | nureth | Cold and clean, directional name |
-| south | **selvar** | selvana | selvaram | selvarum | selvarel | selvar | Shared with "heat" — earthy and deep |
+| south | **selvar** | selvana | selvaram | selvarum | selvarel | selvar | Southern direction |
 | east | **aureth** | auretha | auretham | aurethum | aurethel | aureth | From *aurora*; sunrise and dawn |
 | west | **velnor** | velnora | velnoram | velnorum | velnorel | velnor | From *veil* \+ *northern* dusk |
 | direction | **naveth** | navetha | navetham | navethum | navethel | naveth | Root of *navigate*; guiding term |
@@ -45,12 +45,11 @@ title = "Days, Directions, and Electronics"
 | lamp | **lureth** | luretha | luretham | lurethum | lurethel | lureth       | Soft light; blends *lumen* and warmth |
 | fan | **wivar** | wivara | wivaram | wivarum | wivarel | wivar        | Air motion device; inspired by *whirl* and *varia* |
 | cell phone | **nekrel** | nekrela | nekrelam | nekrelum | nekrelel | nekrel       | From *net* \+ *reach* \+ *signal* root |
-| network | **silven** | silvena | silvenam | silvenum | silvenel | silven       | From *silver* (connection) \+ weave metaphor |
+| network | **nexil** | nexila | nexilam | nexilum | nexilel | nexil       | Connection-grid root kept distinct from discourse particle *Silven* |
 | computer | **karnex** | karnexa | karnexam | karnexum | karnexel | karnex       | Rooted in *calculate* \+ *nexus* |
 | program | **valith** | valitha | valitham | valithum | valithel | valith       | From *value* \+ *logic* path |
 | laptop | **dornec** | dorneca | dornecam | dornecum | dornecel | dornec       | Portable, compact device; *dorn* (carry) \+ tech |
 | screen | **visel** | visela | viselam | viselum | viselel | visel        | From *vision* \+ filter |
 | camera | **tram** | trama | tramam | tramum | tramel | tramen       | From *capture* \+ *frame*; smooth and compact |
 | television | **valdra** | valdrana | valdranam | valdranum | valdrael | valdra       | *Vision* \+ *distance*; rooted in “far-seeing” |
-| radio | **sonir** | sonora | soniram | sonirum | sonirel | sonir        | From *sonus* \+ *air*; broadcasting concept |
-
+| radio | **raden** | radena | radenam | radenum | radenel | raden        | Broadcast device root kept distinct from *sonir* (loudly) |

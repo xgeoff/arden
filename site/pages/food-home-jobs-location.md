@@ -22,7 +22,7 @@ title = "Food, Home, Jobs, and Location"
 | rice | suren | surena | surenam | surenum | surenel | suren        | Smooth and sustaining |
 | oil | unel | unela | unelam | unelum | unelel | unel         | Slippery phonetics, drawn from “olea” roots |
 | seed | demir | demira | demiram | demirum | demirel | demir        | Rooted in “germ,” connotes beginning |
-| knife | kareth | karetha | karetham | karethum | karethel | kareth       | Same as coffee root — may revise to avoid collision |
+| knife | skaren | skarena | skarenam | skarenum | skarenel | skaren       | Sharp utensil root kept distinct from *kareth* (coffee) |
 | spoon | lomal | lomala | lomalam | lomalum | lomalel | lomal        | Gentle and rounded, like its shape |
 | fork | trisk | triska | triskam | triskum | triskel | trisk        | Sharp, spiky sound mimics its function |
 | plate | vorel | vorela | vorelam | vorelum | vorelel | vorel        | Flat and open-sounding; “vessel” influence |
@@ -42,11 +42,11 @@ title = "Food, Home, Jobs, and Location"
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | table | **vinar** | vinara | vinaram | vinarum | vinarel | vinar | Rooted in *vino* (spread) \+ solid object suffix |
 | chair | **selk** | selka | selkam | selkum | selkel | selk | Compact and sturdy sounding |
-| bed | **nareth** | naretha | naretham | narethum | narethel | nareth | Soft and restful, derived from “nest” |
+| bed | **naren** | narena | narenam | narenum | narenel | naren | Soft and restful, kept distinct from *nareth* (night) |
 | dream | **lumne** | lumnea | lumneam | lumneum | lumnel | lumne | From “lumen” (light) \+ “oneiros” (dream) |
 | window | **valen** | valena | valenam | valenum | valenel | valen | Light-passing opening; from *vale* (open) |
 | door | **droven** | drovena | drovenam | drovenum | drovenel | droven | Related to "threshold"; controlled opening |
-| bedroom | **narsel** | narsela | narselam | narselum | narselal | narsel | Compound of *nareth* (bed) and *sel* (room) |
+| bedroom | **narsel** | narsela | narselam | narselum | narselal | narsel | Compound of *naren* (bed) and *sel* (room) |
 | kitchen | **carnel** | carnela | carnelam | carnelum | carnelal | carnel | From *cook* \+ *chamber* root fusion |
 | bathroom | **lavin** | lavina | lavinam | lavinum | lavinel | lavin | From “lavare” (to wash) \+ enclosed space |
 | pencil | **skiv** | skiva | skivam | skivum | skivel | skiv | Sharpened writing implement, short and pointy |
@@ -79,7 +79,7 @@ title = "Food, Home, Jobs, and Location"
 | home | **toran** | torana | toranam | toranum | toranel | toran | Full physical form; solid, simple root |
 | house | **dromel** | dromela | dromelam | dromelum | dromelel | dromel | From *drum* and *mound*; carries burden |
 | apartment | **selven** | selvena | selvenam | selvenum | selvenel | selven | From *sel* (room) \+ *haven* (home) |
-| room | **narsel** | narsela | narselam | narselum | narselal | narsel | From *nareth* (bed) and *sel* (room) |
+| room | **narsel** | narsela | narselam | narselum | narselal | narsel | From *naren* (bed) and *sel* (room) |
 | space | **floren** | florena | florendam | florenum | florinel | floren | Open area, airy and expansive |
 
 
@@ -148,4 +148,3 @@ title = "Food, Home, Jobs, and Location"
 | area | **sorn** | sorna | sornam | sornum | General space, soft and open |
 | region | **florn** | florna | flornam | flornum | From “flora,” natural area |
 | continent | **landr** | landra | landram | landrum | From “land,” large landmass |
-

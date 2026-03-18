@@ -159,7 +159,7 @@ Optional idiomatic coverage:
 
 | English     | Arden (Root) | Type        | Notes                                 |
 | ----------- | ------------ | ----------- | ------------------------------------- |
-| worry       | **vireth**   | noun / verb | Mild concern                          |
+| worry       | **voren**    | noun / verb | Mild concern                          |
 | jinx (verb) | **kornaa**   | verb        | Oversees superstition and avoidance   |
 
 ### ✅ Canonical Status

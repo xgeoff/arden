@@ -122,54 +122,205 @@
 </nav>
 
     <div class="prose">
-        <h2>Arden - A New Spoken Language Concept</h2>
-<p><strong>Arden</strong> is a constructed, phonetic language designed for clarity, expressiveness, and ease of use. It is built from the ground up with a logical grammar, elegant morphology, and a streamlined writing system that avoids redundancy and ambiguity. Arden draws inspiration from natural languages but emphasizes simplicity and regularity throughout its structure.</p>
-<h3>✨ Key Features</h3>
+        <h2>Learn Arden</h2>
+<p>Arden is a constructed language aimed at clear, phonetic, everyday speech. This page is the starting guide for the <strong>current spoken standard</strong> used by the newer conversational docs in this repository.</p>
+<p>If another page disagrees with this one, follow this order:</p>
+<ol>
+<li><a href="auxiliary-discourse.html"><code>auxiliary-discourse</code></a> for sentence mechanics</li>
+<li><a href="conversational-core.html"><code>conversational-core</code></a> for high-frequency vocabulary</li>
+<li><a href="phoneme-orthography.html"><code>phoneme-orthography</code></a> for sound and spelling</li>
+</ol>
+<p>Older pages still preserve useful vocabulary, but some of them reflect an earlier draft of the language.</p>
+<h2>The Fastest Way In</h2>
+<p>You can start speaking simple Arden with five rules:</p>
+<ol>
+<li>Use normal <strong>subject-verb-object</strong> order.</li>
+<li>Keep verbs <strong>invariant</strong>; add particles for question, aspect, and modality.</li>
+<li>Put adjectives <strong>after</strong> the noun.</li>
+<li>Use <strong>no</strong> for negation.</li>
+<li>Skip a copula when the meaning is already clear.</li>
+</ol>
+<p>Examples:</p>
+<table>
+<thead>
+<tr><th>English</th><th>Arden</th></tr>
+</thead>
+<tbody>
+<tr><td>I am busy today.</td><td><strong>Me prethel solinor.</strong></td></tr>
+<tr><td>You are free this weekend?</td><td><strong>Tu lirel toravel, kaa?</strong></td></tr>
+<tr><td>What are you thinking?</td><td><strong>Ke tu mentaa?</strong></td></tr>
+<tr><td>I am working right now.</td><td><strong>Me labore rin.</strong></td></tr>
+<tr><td>No worries.</td><td><strong>Selai.</strong></td></tr>
+</tbody>
+</table>
+<h2>How Arden Sounds</h2>
+<p>Arden uses the Latin alphabet with a deliberately phonetic spelling system. A few high-value sound rules get you most of the way there:</p>
+<table>
+<thead>
+<tr><th>Spelling</th><th>Sound</th></tr>
+</thead>
+<tbody>
+<tr><td><code>q</code></td><td><code>ch</code> as in <em>chair</em></td></tr>
+<tr><td><code>x</code></td><td><code>sh</code> as in <em>ship</em></td></tr>
+<tr><td><code>j</code></td><td><code>j</code> as in <em>joke</em></td></tr>
+<tr><td><code>dd</code></td><td><code>th</code> as in <em>thin</em></td></tr>
+<tr><td><code>aa</code></td><td><code>ay</code> as in <em>fate</em></td></tr>
+<tr><td><code>ee</code></td><td><code>ee</code> as in <em>feet</em></td></tr>
+<tr><td><code>oo</code></td><td><code>oh</code> as in <em>note</em></td></tr>
+<tr><td><code>ii</code></td><td><code>eye</code></td></tr>
+</tbody>
+</table>
+<p>Read the full inventory on <a href="phoneme-orthography.html"><code>phoneme-orthography</code></a>.</p>
+<h2>Core Sentence Pattern</h2>
+<p>Arden favors simple declarative structure:</p>
+<p><strong>subject + verb + object + optional particles</strong></p>
+<p>Examples:</p>
+<table>
+<thead>
+<tr><th>English</th><th>Arden</th><th>Note</th></tr>
+</thead>
+<tbody>
+<tr><td>I read.</td><td><strong>Me leraa.</strong></td><td>Plain statement</td></tr>
+<tr><td>I am reading.</td><td><strong>Me leraa rin.</strong></td><td><code>rin</code> marks ongoing action</td></tr>
+<tr><td>I just read.</td><td><strong>Me leraa jurel.</strong></td><td><code>jurel</code> marks recent action</td></tr>
+<tr><td>I can read.</td><td><strong>Me kan leraa.</strong></td><td>modal before the verb</td></tr>
+<tr><td>I do not read.</td><td><strong>Me no leraa.</strong></td><td>negation before the verb</td></tr>
+</tbody>
+</table>
+<h3>Questions</h3>
+<p>Arden does not invert word order.</p>
+<table>
+<thead>
+<tr><th>Type</th><th>Pattern</th><th>Example</th></tr>
+</thead>
+<tbody>
+<tr><td>Yes / no</td><td>statement + <code>kaa</code></td><td><strong>Tu lirel, kaa?</strong></td></tr>
+<tr><td>Open question</td><td><code>ke</code> + statement</td><td><strong>Ke tu occurre?</strong></td></tr>
+<tr><td>Soft prompt</td><td><code>ken</code> + topic</td><td><strong>Ken kareth?</strong></td></tr>
+</tbody>
+</table>
+<h3>Zero Copula</h3>
+<p>Arden often omits an explicit verb for “to be.”</p>
+<table>
+<thead>
+<tr><th>English</th><th>Arden</th></tr>
+</thead>
+<tbody>
+<tr><td>Everything is okay.</td><td><strong>Orel olven.</strong></td></tr>
+<tr><td>I am exhausted today.</td><td><strong>Me dranel solinor.</strong></td></tr>
+<tr><td>Miserable night.</td><td><strong>Grelvel nareth.</strong></td></tr>
+</tbody>
+</table>
+<h2>Nouns, Adjectives, and Possession</h2>
+<p>The noun system in the repo preserves richer morphology, but conversational Arden usually starts from the <strong>bare root</strong> and adds only what is needed.</p>
+<h3>Nouns</h3>
+<p>Many noun tables still list these forms:</p>
+<table>
+<thead>
+<tr><th>Function</th><th>Ending</th><th>Example with <code>toravel</code></th></tr>
+</thead>
+<tbody>
+<tr><td>Base root</td><td>none</td><td><strong>toravel</strong></td></tr>
+<tr><td>Nominative</td><td><code>-a</code></td><td><strong>toravela</strong></td></tr>
+<tr><td>Accusative</td><td><code>-am</code></td><td><strong>toravelam</strong></td></tr>
+<tr><td>Genitive</td><td><code>-um</code></td><td><strong>toravelum</strong></td></tr>
+<tr><td>Plural</td><td><code>-ee</code></td><td><strong>toravelee</strong></td></tr>
+</tbody>
+</table>
+<p>For beginner conversation, learn the root first and treat the inflected tables as an expansion layer.</p>
+<h3>Adjectives</h3>
+<p>Adjectives follow the noun and usually end in <code>-el</code>.</p>
+<table>
+<thead>
+<tr><th>English</th><th>Arden</th></tr>
+</thead>
+<tbody>
+<tr><td>busy day</td><td><strong>solin prethel</strong></td></tr>
+<tr><td>quiet night</td><td><strong>nareth humel</strong></td></tr>
+<tr><td>safe road</td><td><strong>meren surel</strong></td></tr>
+</tbody>
+</table>
+<p>Comparison is usually analytic in casual speech:</p>
+<table>
+<thead>
+<tr><th>English</th><th>Arden</th></tr>
+</thead>
+<tbody>
+<tr><td>more busy</td><td><strong>mor prethel</strong></td></tr>
+<tr><td>most ridiculous</td><td><strong>seel farrel</strong></td></tr>
+</tbody>
+</table>
+<h3>Possession</h3>
+<p>Use <code>de</code> for ordinary possession and association.</p>
+<table>
+<thead>
+<tr><th>English</th><th>Arden</th></tr>
+</thead>
+<tbody>
+<tr><td>the teacher's book</td><td><strong>Levrana de lertha.</strong></td></tr>
+<tr><td>the light of the sun</td><td><strong>Lurena de solira.</strong></td></tr>
+</tbody>
+</table>
+<p>Some older pages also use <code>yun</code> for a more poetic register.</p>
+<h2>A First Mini-Conversation</h2>
+<p>This short exchange covers the main beginner patterns:</p>
+<table>
+<thead>
+<tr><th>English</th><th>Arden</th></tr>
+</thead>
+<tbody>
+<tr><td>Are you free this weekend?</td><td><strong>Tu lirel toravel, kaa?</strong></td></tr>
+<tr><td>What are you doing?</td><td><strong>Ke tu occurre?</strong></td></tr>
+<tr><td>I am working now.</td><td><strong>Me labore rin.</strong></td></tr>
+<tr><td>No worries. We can meet later.</td><td><strong>Selai. Me kan miraa soren.</strong></td></tr>
+<tr><td>How about coffee?</td><td><strong>Ken kareth?</strong></td></tr>
+</tbody>
+</table>
+<h2>Recommended Learning Path</h2>
+<p>Read the docs in this order:</p>
+<ol>
+<li><a href="phoneme-orthography.html"><code>phoneme-orthography</code></a>: learn the sound system</li>
+<li><a href="auxiliary-discourse.html"><code>auxiliary-discourse</code></a>: learn questions, negation, aspect, and conversational flow</li>
+<li><a href="conversational-core.html"><code>conversational-core</code></a>: learn the highest-frequency words</li>
+<li><a href="common-daily-sentences.html"><code>common-daily-sentences</code></a>: practice full phrases</li>
+<li>The thematic vocabulary pages: expand nouns, adjectives, and domains</li>
+</ol>
+<h2>Vocabulary Sections</h2>
+<p>Once you know the core grammar, use the themed pages as a vocabulary map:</p>
+<table>
+<thead>
+<tr><th>Topic</th><th>Page</th></tr>
+</thead>
+<tbody>
+<tr><td>body, clothing, and colors</td><td><a href="body-clothing-color.html"><code>body-clothing-color</code></a></td></tr>
+<tr><td>food, home, jobs, and location</td><td><a href="food-home-jobs-location.html"><code>food-home-jobs-location</code></a></td></tr>
+<tr><td>animals, art, and beverages</td><td><a href="animals-art-beverages.html"><code>animals-art-beverages</code></a></td></tr>
+<tr><td>months, nature, numbers, and people</td><td><a href="months-nature-numbers-people.html"><code>months-nature-numbers-people</code></a></td></tr>
+<tr><td>days, directions, and electronics</td><td><a href="days-directions-electronics.html"><code>days-directions-electronics</code></a></td></tr>
+<tr><td>transportation and verbs</td><td><a href="transportation-verbs.html"><code>transportation-verbs</code></a></td></tr>
+<tr><td>materials, measurements, misc. nouns, and modal words</td><td><a href="materials-measurements-misc-modal.html"><code>materials-measurements-misc-modal</code></a></td></tr>
+<tr><td>pronouns, seasons, society, and time</td><td><a href="pronouns-seasons-society-time.html"><code>pronouns-seasons-society-time</code></a></td></tr>
+<tr><td>adjectives and adverbs</td><td><a href="adjectives-adverbs.html"><code>adjectives-adverbs</code></a></td></tr>
+</tbody>
+</table>
+<p>If you are looking for a specific kind of word, the fastest route is usually:</p>
+<ol>
+<li>people, body parts, clothes, and colors: <a href="body-clothing-color.html"><code>body-clothing-color</code></a></li>
+<li>home life, meals, rooms, objects, jobs, and places: <a href="food-home-jobs-location.html"><code>food-home-jobs-location</code></a></li>
+<li>animals, drinks, movies, music, and art terms: <a href="animals-art-beverages.html"><code>animals-art-beverages</code></a></li>
+<li>calendar, weather, landscape, and number systems: <a href="months-nature-numbers-people.html"><code>months-nature-numbers-people</code></a></li>
+<li>weekdays, directions, and device words: <a href="days-directions-electronics.html"><code>days-directions-electronics</code></a></li>
+<li>travel words and older verb tables: <a href="transportation-verbs.html"><code>transportation-verbs</code></a></li>
+<li>materials, units, abstract misc. terms, and modal particles: <a href="materials-measurements-misc-modal.html"><code>materials-measurements-misc-modal</code></a></li>
+<li>pronouns, prepositions, conjunctions, seasons, society, and time: <a href="pronouns-seasons-society-time.html"><code>pronouns-seasons-society-time</code></a></li>
+</ol>
+<h2>Documentation Status</h2>
+<p>This repository currently mixes at least two versions of Arden:</p>
 <ul>
-<li>
-<p><strong>Alphabet &amp; Phonetics</strong>: Uses the Basic Latin alphabet (ie standard English alphabet) with unambiguous sound-to-letter mappings. No duplicate sounds, diacritics, or special characters.</p>
-</li>
-<li>
-<p><strong>Writing System</strong>: Fully phonetic and visually clean, following standard punctuation and capitalization rules. Unique mechanisms like <code>?Question?</code> and <code>!Exclamation!</code> mark sentence tone clearly.</p>
-</li>
-<li>
-<p><strong>Grammar</strong>:</p>
-</li>
-<li>
-<p>Subject-Verb-Object (SVO) word order.</p>
-</li>
-<li>
-<p>Noun cases: nominative (-a), accusative (-am), genitive (-um); plurals end in <strong>-ee</strong>.</p>
-</li>
-<li>
-<p>Verb tenses: present (root), past (-o), future (-bo); verbs are not conjugated by gender or number.</p>
-</li>
-<li>
-<p>Pronouns are gender-neutral and consistent across personal and possessive forms.</p>
-</li>
-<li>
-<p><strong>Adjectives</strong>: Always end in <strong>-el</strong>, come after the noun, and are fully gender-neutral. Comparative and superlative forms use <code>-ar</code> and <code>-estel</code>, or the helper words <em>mor</em> and <em>seel</em>.</p>
-</li>
-<li>
-<p><strong>No Apostrophes</strong>: Possessives are handled using <strong>de</strong> or <strong>yun</strong> (e.g., <em>book de child</em> = "the child’s book").</p>
-</li>
-<li>
-<p><strong>Minimal Word Stress</strong>: All syllables are pronounced with equal emphasis, making pronunciation consistent and predictable.</p>
-</li>
-<li>
-<p><strong>Intonation</strong>: Built-in rules for expressive sentence types, including questions, exclamations, and emphatics.</p>
-</li>
-<li>
-<p><strong>Expandable</strong>: Arden is designed to be modular and extensible, suitable for storytelling, linguistic experimentation, or practical use.</p>
-</li>
+<li>an older morphology-heavy draft built around tense suffixes and larger declension tables</li>
+<li>a newer conversational draft built around invariant verbs and particles</li>
 </ul>
-<h3>Arden Morphological Rules</h3>
-<ul>
-<li><strong>Nouns:</strong> end in a consonant (base form), with <em>-a</em> (nominative), <em>-am</em> (accusative), <em>-um</em> (genitive), <em>-ee</em> (plural)</li>
-<li><strong>Verbs:</strong> end in <em>-e</em> (infinitive), with <em>-o</em> (past), <em>-bo</em> (future)</li>
-<li><strong>Adjectives:</strong> end in <em>-el</em>, go after nouns, with optional plural <em>-ee</em>, and comparative <em>-ar</em> / superlative <em>-estel</em></li>
-<li><strong>Pronunciation:</strong> will follow the phonetic rules and consonant guidelines from your language spec</li>
-</ul>
+<p>This guide uses the newer conversational draft because it is the most coherent path for a learner and it matches the most recent “canonical” pages in the repo.</p>
 
     </div>
 </main>

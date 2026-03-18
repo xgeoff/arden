@@ -49,7 +49,7 @@ Here are the **first 40 verbs** with root forms and etymology:
 | die | **fene** | fene | me feno | me fenbo | Soft and fading; from *final* |
 | smile | **mirse** | mirse | me mirso | me mirsbo | From *mirror* and *softness* |
 | laugh | **solaa** | solaa | me solao | me solabo | Bright and open |
-| cry | **narele** | narele | me narelo | me narelbo | From *tears* (narel \= nose/cry) |
+| cry | **sorine** | sorine | me sorino | me sorinbo | From *sorin* (tear) |
 | buy | **venaa** | venaa | me venao | me venabo | From *vendor* |
 | pay | **pagaa** | pagaa | me pagao | me pagabo | From *payment* |
 | sell | **marce** | marce | me marco | me marcbo | From *market* |
@@ -120,4 +120,3 @@ Here are the **first 40 verbs** with root forms and etymology:
 | sign | **signaa** | signaa | me signao | me signabo | From *signal*, *signum* |
 | beat | **pulsaa** | pulsaa | me pulsao | me pulsabo | From *pulse* |
 | lift | **tolraa** | tolraa | me tolrao | me tolrabo | From *tollere*, to raise |
-

@@ -39,8 +39,7 @@ Here’s the **Art category** in Arden displayed as a table:
 | tea | **siln** | silna | silnam | silnum | silnel | siln | Soft and herbal; simple and smooth |
 | wine | **vemor** | vemora | vemoram | vemorum | vemorel | vemor | Romantic and rich; inspired by “vinum” with a melodic twist |
 | beer | **trogg** | trogga | troggam | troggum | troggel | trogg | Hearty, rustic sound with thick consonants |
-| juice | **narel** | narela | narelam | narelum | narelel | narel | Derived from “natural” and “elixir” |
+| juice | **juvel** | juvela | juvelam | juvelum | juvelel | juvel | Bright drink root kept distinct from *narel* (nose) |
 | water | **avel** | avela | avelam | avelum | avelel | avel | From “aqua” \+ “veil”; clarity and softness |
 | milk | **lufen** | lufena | lufenam | lufenum | lufenel | lufen | Gentle and nurturing; light-sounding and smooth |
 | beverage | **drasil** | drasila | drasilam | drasilum | drasilel | drasil | General term for drink; inspired by “draught” and “vessel” |
-

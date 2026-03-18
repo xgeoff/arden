@@ -1,27 +1,37 @@
+# Arden
 
-## Ardan Language
+This repository contains the source for the Arden language site.
 
-**Ardan** is a constructed, phonetic language designed for clarity, expressiveness, and ease of use. It is built from the ground up with a logical grammar, elegant morphology, and a streamlined writing system that avoids redundancy and ambiguity. Ardan draws inspiration from natural languages but emphasizes simplicity and regularity throughout its structure.
+## Current documentation standard
 
-### ✨ Key Features
+The repo historically mixed two different versions of Arden:
 
-* **Alphabet & Phonetics**: Uses the Basic Latin alphabet (ie standard English) with unambiguous sound-to-letter mappings. No duplicate sounds, diacritics, or special characters.
-* **Writing System**: Fully phonetic and visually clean, following standard punctuation and capitalization rules. Unique mechanisms like `?Question?` and `!Exclamation!` mark sentence tone clearly.
-* **Grammar**:
+1. an older morphology-heavy draft with tense suffixes
+2. a newer conversational draft with invariant verbs and particles
 
-  * Subject-Verb-Object (SVO) word order.
-  * Noun cases: nominative (-a), accusative (-am), genitive (-um); plurals end in **-ee**.
-  * Verb tenses: present (root), past (-o), future (-bo); verbs are not conjugated by gender or number.
-  * Pronouns are gender-neutral and consistent across personal and possessive forms.
-* **Adjectives**: Always end in **-el**, come after the noun, and are fully gender-neutral. Comparative and superlative forms use `-ar` and `-estel`, or the helper words *mor* and *seel*.
-* **No Apostrophes**: Possessives are handled using **de** or **yun** (e.g., *book de child* = "the child’s book").
-* **Minimal Word Stress**: All syllables are pronounced with equal emphasis, making pronunciation consistent and predictable.
-* **Intonation**: Built-in rules for expressive sentence types, including questions, exclamations, and emphatics.
-* **Expandable**: Ardan is designed to be modular and extensible, suitable for storytelling, linguistic experimentation, or practical use.
+The source pages are now being normalized around the **conversational draft** because it is the clearest path for learners and it matches the newer grammar pages.
 
-### Arden Morphological Rules
+## Core ideas
 
-* **Nouns:** end in a consonant (base form), with *\-a* (nominative), *\-am* (accusative), *\-um* (genitive), *\-ee* (plural)
-* **Verbs:** end in *\-e* (infinitive), with *\-o* (past), *\-bo* (future)
-* **Adjectives:** end in *\-el*, go after nouns, with optional plural *\-ee*, and comparative *\-ar* / superlative *\-estel*
-* **Pronunciation:** will follow the phonetic rules and consonant guidelines from your language spec
+- Arden is phonetic and uses the Latin alphabet.
+- Default clause order is **subject-verb-object**.
+- Verbs are typically **invariant** in conversational use.
+- Questions, aspect, and modality are handled with particles such as `kaa`, `ke`, `rin`, `sen`, `pren`, `kan`, and `shal`.
+- Arden often uses a **zero copula** for simple states.
+- Adjectives usually follow the noun and commonly end in `-el`.
+- Many vocabulary tables preserve older case forms like `-a`, `-am`, `-um`, and plural `-ee`; treat those as an expansion layer, not the first thing a learner needs.
+
+## Best entry points
+
+- `site/pages/index.md`
+- `site/pages/auxiliary-discourse.md`
+- `site/pages/conversational-core.md`
+- `site/pages/phoneme-orthography.md`
+
+## Build
+
+Generate the site with:
+
+```bash
+./gradlew grim
+```

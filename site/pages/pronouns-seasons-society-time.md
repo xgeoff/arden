@@ -1,181 +1,171 @@
 ---
 title = "Pronouns, Seasons, Society, and Time"
+layout = "summary"
 ---
 
-**pronouns**, **prepositions**, and **conjunctions**
+## Pronouns, Connectors, and Core Time Words
 
-## **🧍‍♂️ Pronouns in Arden**
+This page keeps the high-frequency function words aligned with the conversational Arden standard used by the homepage, auxiliary system, and sentence examples.
 
-These follow a clean, gender-aware but neutral-friendly structure. Personal pronouns are already partially defined — we’ll now expand to include **possessives**, **reflexives**, and **demonstratives**.
+## Pronouns
 
-### **1\. Personal Pronouns**
+### Personal
 
 | Person | Arden | Notes |
-| ----- | ----- | ----- |
-| I | **me** | First person singular |
-| You | **tu** | Second person singular |
-| He | **mile** | Third person masculine |
-| She | **mila** | Third person feminine |
-| They (sing.) | **se** | Neutral 3rd person singular |
-| We | **mena** | First person plural |
-| You (pl.) | **tuna** | Second person plural |
-| They | **sena** | Third person plural |
+| --- | --- | --- |
+| I | **me** | first person singular |
+| you | **tu** | second person singular |
+| he | **mile** | third person masculine |
+| she | **mila** | third person feminine |
+| they (sing.) | **se** | neutral singular |
+| we | **mena** | first person plural |
+| you (pl.) | **tuna** | second person plural |
+| they | **sena** | third person plural |
 
+### Possessive
 
-### **2\. Possessive Pronouns**
+| English | Arden |
+| --- | --- |
+| my / mine | **melun** |
+| your | **tulun** |
+| his | **milun** |
+| her | **malun** |
+| their (sing.) | **selun** |
+| our | **menlun** |
+| your (pl.) | **tunlun** |
+| their (pl.) | **senlun** |
 
-| English | Arden | Notes |
-| ----- | ----- | ----- |
-| my/mine | **melun** | From *me* \+ *\-lun* (of) |
-| your (sing.) | **tulun** | — |
-| his | **milun** | — |
-| her | **malun** | — |
-| their (sing.) | **selun** | — |
-| our | **menlun** | — |
-| your (pl.) | **tunlun** | — |
-| their (pl.) | **senlun** | — |
+### Reflexive
 
+| English | Arden |
+| --- | --- |
+| myself | **mesel** |
+| yourself | **tusel** |
+| himself | **milesel** |
+| herself | **milasel** |
+| themself | **sesel** |
+| ourselves | **menasel** |
+| yourselves | **tunasel** |
+| themselves | **senasel** |
 
-### **3\. Reflexive Pronouns**
+### Demonstrative
 
-| English | Arden | Notes |
-| ----- | ----- | ----- |
-| myself | **mesel** | *me-self* |
-| yourself | **tusel** | — |
-| himself | **milesel** | — |
-| herself | **milasel** | — |
-| themself | **sesel** | — |
-| ourselves | **menasel** | — |
-| yourselves | **tunasel** | — |
-| themselves | **senasel** | — |
+| English | Arden |
+| --- | --- |
+| this | **ten** |
+| that | **dal** |
+| these | **tenee** |
+| those | **dalee** |
 
-
-### **4\. Demonstratives**
-
-| English | Arden | Notes |
-| ----- | ----- | ----- |
-| this | **ten** | Close object |
-| that | **dal** | Distant object |
-| these | **tenee** | Plural |
-| those | **dalee** | Plural |
-
-
-## **📍 Prepositions in Arden**
-
-Designed to be short, evocative, and phonetically distinct:
+## Prepositions
 
 | English | Arden | Notes |
-| ----- | ----- | ----- |
-| in | **vi** | Interior; soft, close |
-| on | **ta** | Touching or resting atop |
-| under | **dor** | Below or beneath |
-| above | **sol** | Toward the sun/light |
-| near | **nel** | Proximity |
-| far | **vas** | Distance |
-| with | **ka** | Together |
-| without | **kales** | *ka* \+ *less* |
-| to | **re** | Direction toward |
-| from | **fen** | Direction away |
-| into | **viri** | *vi* (in) \+ *motion* |
-| out of | **dori** | *dor* \+ *motion* |
-| between | **melan** | Middle, balance |
-| around | **ovrel** | Circling root |
-| through | **theren** | Across, penetrating |
-| before | **pren** | Earlier |
-| after | **soren** | Later |
-| during | **venel** | While, within time |
-| about | **vanel** | Concerning |
-| like (sim.) | **simel** | Similarity |
+| --- | --- | --- |
+| in | **vi** | interior |
+| on | **ta** | touching or resting on |
+| under | **dor** | below |
+| above | **sol** | above or over |
+| near | **nel** | nearby |
+| far | **vas** | far away |
+| with | **ka** | together with |
+| without | **kales** | lacking / without |
+| to | **re** | toward |
+| from | **fen** | away from |
+| into | **viri** | motion inward |
+| out of | **dori** | motion outward |
+| between | **melan** | in the middle of |
+| around | **ovrel** | around / surrounding |
+| through | **theren** | through or across |
+| before | **pren** | before in time |
+| after | **soren** | after / later |
+| during | **venel** | while, during |
+| about | **vanel** | concerning |
+| like | **simel** | similarity |
 
+## Conjunctions
 
-## **🔗 Conjunctions in Arden**
+| English | Arden |
+| --- | --- |
+| and | **na** |
+| or | **ol** |
+| but | **vel** |
+| because | **resan** |
+| so | **thus** |
+| if | **mir** |
+| although | **halen** |
+| while | **theran** |
+| when | **loren** |
+| that | **del** |
 
-Built for flow and tone, these glue ideas together:
+## Seasons
 
-| English | Arden | Notes |
-| ----- | ----- | ----- |
-| and | **na** | Simple connector |
-| or | **ol** | Choice, optionality |
-| but | **vel** | Contrast |
-| because | **resan** | From *reason* |
-| so | **thus** | Result, consequence |
-| if | **mir** | Conditional, light |
-| although | **halen** | Conceding, poetic |
-| while | **theran** | Simultaneous action |
-| when | **loren** | Temporal connector |
-| that (conj.) | **del** | Subordinate clause |
+| English | Arden (Root) | Nominative | Accusative | Genitive | Adjective |
+| --- | --- | --- | --- | --- | --- |
+| summer | **solen** | solena | solenam | solenum | solenel |
+| spring | **florven** | florvena | florvenam | florvenum | florvenel |
+| winter | **harneth** | harnetha | harnetham | harnethum | harnethel |
+| autumn | **umbril** | umbrila | umbrilam | umbrilum | umbrilel |
+| season | **terval** | tervala | tervalam | tervalum | tervalel |
 
-**Seasons category**
+## Society
 
-| English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| summer | **solen** | solena | solenam | solenum | solenel | solen | Bright and radiant; from *sol* (sun) |
-| spring | **florven** | florvena | florvenam | florvenum | florvenel | florven | Lively, from *flor* (flower) \+ *renew* |
-| winter | **harneth** | harnetha | harnetham | harnethum | harnethel | harneth | Harsh and cold; from *hard* \+ *breath* |
-| autumn | **umbril** | umbrila | umbrilam | umbrilum | umbrilel | umbril | From *umbra* (shadow); fading season |
-| season | **terval** | tervala | tervalam | tervalum | tervalel | terval | Root from *turn* \+ *cycle*; rotation of the year |
+| English | Arden (Root) | Nominative | Accusative | Genitive |
+| --- | --- | --- | --- | --- |
+| religion | **seraph** | serapha | serapham | seraphum |
+| heaven | **valaan** | valaana | valaanam | valaanum |
+| hell | **durrek** | durreka | durrekam | durrekum |
+| death | **marnth** | marntha | marntham | marnthum |
+| medicine | **medel** | medela | medelam | medelum |
+| money | **gelt** | gelta | geltam | geltum |
+| dollar | **doln** | dolna | dolnam | dolnum |
+| bill | **trest** | tresta | trestam | trestum |
+| marriage | **vinal** | vinala | vinalam | vinalum |
+| wedding | **venor** | venora | venoram | venorum |
+| team | **klav** | klava | klavam | klavum |
+| relationship | **bindr** | bindra | bindram | bindrum |
+| race (ethnicity) | **genar** | genara | genaram | genarum |
+| sex (the act) | **terev** | tereva | terevam | terevum |
+| sex (gender) | **darnet** | darneta | darnetam | darnetum |
+| murder | **kravl** | kravla | kravlam | kravlum |
+| prison | **karrn** | karrna | karrnam | karrnum |
+| technology | **tekla** | teklaa | teklaam | teklaum |
+| energy | **vitan** | vitana | vitanam | vitanum |
+| war | **dran** | drana | dranam | dranum |
+| peace | **selor** | selora | seloram | selorum |
+| attack | **skarv** | skarva | skarvam | skarvum |
+| election | **selarn** | selarna | selarnam | selarnum |
+| magazine | **folin** | folina | folinam | folinum |
+| newspaper | **gazel** | gazela | gazelam | gazelum |
+| poison | **velm** | velma | velmam | velmum |
+| gun | **blask** | blaska | blaskam | blaskum |
+| sport | **trel** | trela | trelam | trelum |
+| race (sport) | **harl** | harla | harlam | harlum |
+| exercise | **korv** | korva | korvam | korvum |
+| ball | **glom** | gloma | glomam | glomum |
+| game | **garn** | garna | garnam | garnum |
+| price | **trevn** | trevna | trevnam | trevnum |
+| contract | **bindn** | bindna | bindnam | bindnum |
+| drug | **droth** | drotha | drotham | drothum |
+| sign | **merk** | merka | merkam | merkum |
+| science | **logen** | logena | logenam | logenum |
+| God | **Ilun** | Iluna | Ilunam | Ilunum |
 
-**🏛 Society**
+## Time
 
+These forms are aligned with the conversational pages. In particular, `solin` = day, `nareth` = night, and `vireth` = week.
 
-### **🏛 Category: Society (Arden translations)**
-
-| English | Arden (Root) | Nominative | Accusative | Genitive | Notes |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| religion | **seraph** | serapha | serapham | seraphum | Celestial, sacred tone |
-| heaven | **valaan** | valaana | valaanam | valaanum | Bright, aspirational |
-| hell | **durrek** | durreka | durrekam | durrekum | Harsh, infernal |
-| death | **marnth** | marntha | marntham | marnthum | Final, solemn |
-| medicine | **medel** | medela | medelam | medelum | Healing knowledge |
-| money | **gelt** | gelta | geltam | geltum | Rooted in earlier *bank* word |
-| dollar | **doln** | dolna | dolnam | dolnum | Specific unit, international flavor |
-| bill | **trest** | tresta | trestam | trestum | Transactional tone |
-| marriage | **vinal** | vinala | vinalam | vinalum | Binding, romantic root |
-| wedding | **venor** | venora | venoram | venorum | Event-focused version of *vinal* |
-| team | **klav** | klava | klavam | klavum | Unit, action-ready feel |
-| relationship | **bindr** | bindra | bindram | bindrum | From "bind", emotional/social tie |
-| race (ethnicity) | **genar** | genara | genaram | genarum | From “gene,” lineage feel |
-| sex (the act) | **terev** | tereva | terevam | terevum | Intimate, private tone |
-| sex (gender) | **darnet** | darneta | darnetam | darnetum | Differentiated from action-based term |
-| murder | **kravl** | kravla | kravlam | kravlum | Sharp, aggressive |
-| prison | **karrn** | karrna | karrnam | karrnum | Closed and cold |
-| technology | **tekla** | teklaa | teklaam | teklaum | Modern and mechanical |
-| energy | **vitan** | vitana | vitanam | vitanum | From vita (life) \+ motion |
-| war | **dran** | drana | dranam | dranum | Rooted in *dramn* (army) |
-| peace | **solin** | solina | solinam | solinum | Calm, sunny word |
-| attack | **skarv** | skarva | skarvam | skarvum | Aggressive, action-heavy |
-| election | **selarn** | selarna | selarnam | selarnum | From “select” root |
-| magazine | **folin** | folina | folinam | folinum | From *folio*, organized pages |
-| newspaper | **gazel** | gazela | gazelam | gazelum | Derived from “gazette” |
-| poison | **velm** | velma | velmam | velmum | Dangerous, subtle sound |
-| gun | **blask** | blaska | blaskam | blaskum | Hard and loud |
-| sport | **trel** | trela | trelam | trelum | Energetic, competitive |
-| race (sport) | **harl** | harla | harlam | harlum | Running-based, swift |
-| exercise | **korv** | korva | korvam | korvum | Physical motion and discipline |
-| ball | **glom** | gloma | glomam | glomum | Round, playful |
-| game | **garn** | garna | garnam | garnum | Fun, contest-oriented |
-| price | **trevn** | trevna | trevnam | trevnum | Related to value |
-| contract | **bindn** | bindna | bindnam | bindnum | Legal agreement (formal version of *bindr*) |
-| drug | **droth** | drotha | drotham | drothum | Altering substance |
-| sign | **merk** | merka | merkam | merkum | Symbol or signal |
-| science | **logen** | logena | logenam | logenum | From “logos,” knowledge |
-| God | **Ilun** | Iluna | Ilunam | Ilunum | Core divine being, capitalized always |
-
-**Time category**
-
-| English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
-| ----- |----------|--------|--------|-------|---------------|--------------| ----- |
-| year | **avelor** | avelora | aveloram | avelorum | avelorel      | avelor       | From *avel* (water, flow) \+ *lore*; cycle of time |
-| month | **lun**  | luna   | lunam  | lunum | lunel         | lunen        | Rooted in *luna*; tied to celestial cycles |
-| week | **vireth** | viretha | viretham | virethum | virethel      | vireth       | Flowing period of 7 days; rhythmic feel |
-| day | **solin** | solina | solinam | solinum | solinel       | solin        | From *sol* (sun); primary light period |
-| hour | **tarnel** | tarnela | tarnelam | tarnelum | tarnelel      | tarnel       | Slice of a day; from *turn* |
-| minute | **minor** | minora | minoram | minorum | minorel       | minor        | From *minute* (small) \+ *or* (order) |
-| second | **sir**  | sira   | siram  | sirum | sirel         | siren        | From *sirius* \+ *pulse*; precise flicker |
-| morning | **evarin** | evarina | evarinam | evarinum | evarinel      | evarin       | From *eva* (dawn) \+ *rin* (rise) |
-| afternoon | **surneth** | surnetha | surnetham | surnethum | surnethel     | surneth      | From *sun* \+ *earth*; mid-light period |
-| evening | **umbelir** | umbelira | umbeliram | umbelirum | umbelirel     | umbelir      | From *umbra* (shadow) \+ *lumen*; fading light |
-| night | **noveren** | noverena | noverenam | noverenum | noverenel     | noveren      | From *nova* (dark/new) \+ *end*; time of rest |
-| time | **terval** | tervala | tervalam | tervalum | tervalel      | terval       | Shared with “season”; from *turn* \+ *value* |
-| clock | **horin** | horina | horinam | horinum | horinlel      | horinel      | From *hora* (hour) \+ *inel* (device); timekeeping |
-
+| English | Arden (Root) | Nominative | Accusative | Genitive | Adjective |
+| --- | --- | --- | --- | --- | --- |
+| year | **avelor** | avelora | aveloram | avelorum | avelorel |
+| month | **lun** | luna | lunam | lunum | lunel |
+| week | **vireth** | viretha | viretham | virethum | virethel |
+| day | **solin** | solina | solinam | solinum | solinel |
+| hour | **tarnel** | tarnela | tarnelam | tarnelum | tarnelel |
+| minute | **minel** | minela | minelam | minelum | minelel |
+| second | **sekren** | sekrena | sekrenam | sekrenum | sekrenel |
+| morning | **evarin** | evarina | evarinam | evarinum | evarinel |
+| afternoon | **surneth** | surnetha | surnetham | surnethum | surnethel |
+| evening | **umbelir** | umbelira | umbeliram | umbelirum | umbelirel |
+| night | **nareth** | naretha | naretham | narethum | narethel |
+| time | **terval** | tervala | tervalam | tervalum | tervalel |
+| clock | **tembor** | tembora | temboram | temborum | temborel |

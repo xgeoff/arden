@@ -34,7 +34,7 @@ title = "Months, Nature, Numbers, and People"
 | moon | **luven** | luvena | luvenam | luvenum | luvenel | luven | Gentle and celestial; *luna* \+ *even* |
 | world | **oraath** | oraatha | oraatham | oraathum | oraathel | oraath | Poetic, encompassing term from *orbis* \+ *aether* |
 | earth | **terem** | terema | teremam | teremum | teremel | terem | Grounded, elemental word |
-| forest | **vireth** | viretha | viretham | virethum | virethel | vireth | May conflict with “truth”; can rename if needed |
+| forest | **silveth** | silvetha | silvetham | silvethum | silvethel | silveth | Built from the tree root family and kept distinct from week |
 | sky | **aevan** | aevana | aevanam | aevanum | aevanel | aevan | Light, airy; derived from *aether* |
 | plant | **gareth** | garetha | garetham | garethum | garethel | gareth | Growth \+ groundedness |
 | wind | **venir** | venira | veniram | venirum | venirel | venir | Movement, swift and clean |
@@ -42,7 +42,7 @@ title = "Months, Nature, Numbers, and People"
 | flower | **flarin** | flarina | flarinam | flarinum | flarinel | flarin | Delicate, blooming sound |
 | valley | **selvor** | selvora | selvoram | selvorum | selvorel | selvor | From *slope* \+ *low* root fusion |
 | root | **dregan** | dregana | dreganam | dreganum | dreganel | dregan | Hard consonants, primal base |
-| lake | **miren** | mirena | mirenam | mirenum | mirenel | miren | Calm and reflective; shared with “photograph” (can revise) |
+| lake | **lakven** | lakvena | lakvenam | lakvenum | lakvenel | lakven | Calm and reflective water root kept distinct from *miren* (photograph) |
 | star | **stelar** | stelara | stelarum | stelarum | stelarel | stelar | Celestial tone; from *stella* |
 | grass | **venil** | venila | venilam | venilum | venilel | venil | Soft, widespread ground cover |
 | leaf | **larel** | larela | larelam | larelum | larelel | larel | Fragile and seasonal tone |
@@ -50,14 +50,14 @@ title = "Months, Nature, Numbers, and People"
 | sand | **sarnel** | sarnela | sarnelam | sarnelum | sarnelel | sarnel | Coarse, granular root |
 | beach | **toral** | torala | toralam | toralum | toralel | toral | Flat and stretching; from *terra* \+ *shore* |
 | wave | **vayen** | vayena | vayenam | vayenum | vayenel | vayen | Rolling and dynamic motion |
-| fire | **kareth** | karetha | karetham | karethum | karethel | kareth | May conflict with other uses (head, knife); needs distinct version |
+| fire | **fyren** | fyrena | fyrenam | fyrenum | fyrenel | fyren | Flame root kept distinct from *kareth* (coffee) |
 | ice | **glavik** | glavika | glavikam | glavikum | glavikel | glavik | Sharp and brittle sound |
 | island | **silorn** | silorna | silornam | silornum | silornel | silorn | Alone yet peaceful; from *isle* \+ *silent* |
 | hill | **tarven** | tarvena | tarvenam | tarvenum | tarvenel | tarven | Small mountain; smoother tone |
-| heat | **selvar** | selvana | selvam | selvum | selvarel | selvar | Radiating warmth; from *sear* |
+| heat | **sorath** | soratha | soratham | sorathum | sorathel | sorath | Warmth root kept distinct from *selvar* (south) |
 | nature | **veril** | verila | verilam | verilum | verilel | veril | Vital, whole; from *vita* \+ *real* |
 | animal | **dralen** | dralena | dralenam | dralenum | dranel | dralen | From *drama* \+ *animal*; lively and dynamic |
-| insect | **narel** | narela | narelam | narelum | narelel | narel | Small, buzzing; shared with “inch” (can revise) |
+| insect | **zirel** | zirela | zirelam | zirelum | zirelel | zirel | Small, quick, buzzing root kept distinct from *narel* (nose) |
 | nature | **veril** | verila | verilam | verilum | verilel | veril | Vital, whole; from *vita* \+ *real* |
 
 **Compact Guide to Number Formation in Arden**
@@ -180,4 +180,3 @@ title = "Months, Nature, Numbers, and People"
 | leader | **guidar** | guidara | guidaram | guidarum | From *guide* \+ *leader* |
 | teacher | **docarn** | docarna | docarnam | docarnum |
 | student | **lern** | lerna | lernam | lernum | From *learn* |
-

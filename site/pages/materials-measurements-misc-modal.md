@@ -9,7 +9,7 @@ title = "Materials, Measurements, Miscellaneous, and Modal"
 | glass | **verin** | verina | verinam | verinum | verinel | verin | From *veritas* (clarity) \+ *in*; transparency and fragility |
 | metal | **darnak** | darnaka | darnakam | darnakum | darnakel | darnak | Heavy and strong; echoes “dark” and “hammer” |
 | plastic | **flexin** | flexina | flexinam | flexinum | flexinel | flexin | Modern and malleable root from *flexible* |
-| wood | **sarnel** | sarnela | sarnelam | sarnelum | sarnelel | sarnel | Shared with “sand” earlier; may revise to avoid overlap |
+| wood | **timren** | timrena | timrenam | timrenum | timrenel | timren | Timber root kept distinct from *sarnel* (sand) |
 | stone | **gralen** | gralena | gralenam | gralenum | gralenel | gralen | Solid, rough; inspired by *gravel* and *granite* |
 | diamond | **drathen** | drathena | drathenam | drathenum | drathenel | drathen | Hardest gem; blend of *dragon* \+ *aether* for beauty and strength |
 | clay | **molven** | molvena | molvenam | molvenum | molvenel | molven | Moldable, earthy tone; from *malleable* and *oven* |
@@ -26,7 +26,7 @@ title = "Materials, Measurements, Miscellaneous, and Modal"
 | meter | **valin** | valina | valinam | valinum | valinel | valin | Base unit; from *value* \+ *line* |
 | centimeter | **valinel** | valinela | valinelam | valinelum | valinelel | valinel | Diminutive of *valin*; small measure |
 | kilogram | **duranel** | duranela | duranelam | duranelum | duranelel | duranel | From *duran* (heavy, mountain) \+ *unit* |
-| inch | **narel** | narela | narelam | narelum | narelel | narel | Compact length; light and old-world tone |
+| inch | **inkel** | inkela | inkelam | inkelum | inkelel | inkel | Compact length root kept distinct from *narel* (nose) |
 | foot | **maren** | marena | marenam | marenum | marenel | maren | Already used for "foot" in body; reused here with contextual overlap |
 | pound | **gravin** | gravina | gravinam | gravinum | gravinel | gravin | From *gravity*; weight root |
 | half | **diven** | divina | divenam | divenum | divenel | diven | From *divide* \+ *even*; balanced partition |
@@ -50,7 +50,7 @@ title = "Materials, Measurements, Miscellaneous, and Modal"
 | light | **luren** | lurena | lurenam | lurenum | lurenel       | luren        | Gentle and glowing; core metaphorical word |
 | sound | **soneth** | sonetha | sonetham | sonethum | sonethel      | soneth       | From *sonus* \+ breath |
 | yes | **jaan** | jaana  | jaanam | jaanum | jaanel        | jaan         | Affirmative and bright |
-| no | **nareth** | naretha | naretham | narethum | narethel      | nareth       | Negative and firm |
+| no | **no** | no | no | no | no | no | Conversational negative particle and standalone refusal |
 | piece | **fract** | fracta | fractam | fractum | fractel       | fracten      | From *fraction* \+ *element* |
 | pain | **dolven** | dolvena | dolvenam | dolvenum | dolvenel      | dolven       | From *dolor*; evocative of weight and injury |
 | injury | **kraveth** | kravetha | kravetham | kravethum | kravethel     | kraveth      | Harsh and direct; bodily harm |
@@ -76,7 +76,7 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 | probably | **valinii** | From *valin* (likely/value) \+ modal |
 | possibly | **silvii**  | From *silv* (soft) \+ *ai*; a gentler “maybe” |
 | definitely | **morii**   | From *morin* (more) \+ *ai*; emphatic confirmation |
-| not | **na**      | Already used — universal negator |
+| not | **no**      | Conversational negator used across the grammar pages |
 
 
 ### **🌀 Emotional Modifiers**
@@ -86,7 +86,7 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 | unfortunately | **dolvii**  | *dolven* (pain) \+ *ai*; "sadly" |
 | thankfully | **selvii**  | *selorin* (thanks) root |
 | hopefully | **elvii**   | From *el* (hope/light) \+ *ai* |
-| sadly | **narelii** | From *narel* (tears) |
+| sadly | **sorinii** | From *sorin* (tear) |
 | happily | **solvii**  | From *solin* (daylight) or *solenya* (Friday) |
 | strangely | **varenii** | From *var* (unusual/move) \+ *nai*; used for curiosity or mystery |
 | amazingly | **aurevii** | From *aure* (light/wonder) |
@@ -97,7 +97,7 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 | English | Arden      | Notes |
 | ----- |------------| ----- |
 | yes (affirm) | **jaan**   | Already defined |
-| no (negate) | **nareth** | Already defined |
+| no (negate) | **no** | Already defined |
 | okay / all right | **olven**  | From *alven* (already) \+ *ol* (balance) |
 | well… | **moren**  | A softening or transition word |
 | ah / oh | **aal**    | General exclamation, soft |
@@ -118,4 +118,3 @@ These don't necessarily follow noun or verb morphology — they’re often **inv
 * **Modal \+ verb** creates tone:  
   “Me **morii** vare.” → “I will definitely go.”  
   “Me **meliv** vare.” → “I might go.”
-
