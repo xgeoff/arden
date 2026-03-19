@@ -177,11 +177,13 @@ Adjectives normally follow the noun and commonly end in `-el`.
 
 ## Possession
 
-Use `de` for ordinary possession and association.
+Both `de` and `yun` are proper canonical possessive markers.
+
+`de` is the everyday neutral form. `yun` is equally proper and often carries a more poetic or elevated tone.
 
 | English | Arden |
 | --- | --- |
 | the teacher's book | **Levrana de lertha.** |
 | the light of the sun | **Lurena de solira.** |
-
-`yun` may still be used as a poetic or elevated alternative.
+| the teacher's book | **Levrana yun lertha.** |
+| the light of the sun | **Lurena yun solira.** |

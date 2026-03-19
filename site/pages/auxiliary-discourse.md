@@ -11,7 +11,7 @@ layout = "summary"
 
 1. Arden uses suffix tense on verbs and particles for question, modality, aspect, and discourse.
 2. Declarative word order is preserved in all constructions.
-3. There is no mandatory copula (“to be”).
+3. The copula is optional in short descriptive clauses, but Arden also has an explicit copula: `es`.
 4. Modal and discourse particles are invariant and optional.
 5. The system is optimized for spoken, everyday language.
 

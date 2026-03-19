@@ -44,14 +44,14 @@ sidebar {
 
 Arden is a constructed language aimed at clear, phonetic, everyday speech. This page is the starting guide for the **canonical presentation** used across this documentation set.
 
-If another page disagrees with this one, follow this order:
+Use these pages as the main entry points into the language:
 
 1. [`canonical-grammar`](canonical-grammar.html) for the full grammar spec
 2. [`auxiliary-discourse`](auxiliary-discourse.html) for questions, negation, aspect, and discourse use
 3. [`conversational-core`](conversational-core.html) for high-frequency vocabulary
 4. [`phoneme-orthography`](phoneme-orthography.html) for sound and spelling
 
-Some pages still preserve useful vocabulary but use older wording or less polished explanations. When pages differ, treat this page and the linked grammar pages above as the canonical guide.
+Together, these pages provide the core grammar, pronunciation, and high-frequency vocabulary needed to start using Arden confidently.
 
 ## The Fastest Way In
 
@@ -165,14 +165,16 @@ Comparison is usually analytic in casual speech:
 
 ### Possession
 
-Use `de` for ordinary possession and association.
+Both `de` and `yun` are proper canonical possessive markers.
+
+`de` is the everyday neutral form. `yun` is also fully proper, but often carries a slightly more poetic or elevated tone.
 
 | English | Arden |
 | --- | --- |
 | the teacher's book | **Levrana de lertha.** |
 | the light of the sun | **Lurena de solira.** |
-
-Some older pages also use `yun` for a more poetic register.
+| the teacher's book | **Levrana yun lertha.** |
+| the light of the sun | **Lurena yun solira.** |
 
 ## A First Mini-Conversation
 
@@ -226,6 +228,6 @@ If you are looking for a specific kind of word, the fastest route is usually:
 
 ## Documentation Status
 
-This repository documents one language, Arden, but some source pages were written at different times and were not fully aligned with each other.
+This repository documents one language, Arden, with one canonical grammar and learner path.
 
-This guide is the canonical entry point, and the linked grammar pages above should be treated as the authoritative explanation when wording elsewhere is looser, older, or less consistent.
+The homepage, grammar reference, core vocabulary, and example pages are aligned so readers can move between them without switching systems or terminology.

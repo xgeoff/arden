@@ -115,14 +115,16 @@ Casual comparison is usually analytic:
 
 ## Possession
 
-Use `de` for ordinary possession and association.
+Both `de` and `yun` are proper canonical possessive markers.
+
+`de` is the everyday neutral form. `yun` is equally proper and often feels more poetic or elevated.
 
 | English | Arden |
 | --- | --- |
 | the teacher's book | **Levrana de lertha.** |
 | the light of the sun | **Lurena de solira.** |
-
-Some older pages also use `yun` for a more elevated or poetic register.
+| the teacher's book | **Levrana yun lertha.** |
+| the light of the sun | **Lurena yun solira.** |
 
 ## Sound Highlights
 

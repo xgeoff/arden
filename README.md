@@ -4,9 +4,9 @@ This repository contains the source for the Arden language site.
 
 ## Documentation standard
 
-This repository documents one language, Arden. Some source pages were written at different times and ended up using inconsistent explanations or terminology.
+This repository documents one language, Arden, with one canonical presentation across the source pages.
 
-The source pages are being normalized around one canonical presentation so learners get a single, coherent description of the language.
+The site is organized so learners can move from the homepage to the grammar reference, pronunciation guide, vocabulary pages, and sentence examples without switching terminology or grammar rules.
 
 ## Core ideas
 
