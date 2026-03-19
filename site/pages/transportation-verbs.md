@@ -23,13 +23,18 @@ title = "Transportation and Verbs"
 
 **Verbs category**
 
-**Infinitive ends in \-e**  
-**Past tense: \-o**, **Future: \-bo**  
-Pronouns (me, tu, mile, etc.) precede the verb root directly.
+This page follows the canonical Arden verb system:
+
+* present uses the listed root form
+* past adds **\-o**
+* future adds **\-bo**
+* verbs do not agree with person or number
+
+Pronouns (me, tu, mile, etc.) precede the verb directly.
 
 Here are the **first 40 verbs** with root forms and etymology:
 
-| English | Arden (Root) | Infinitive | Past Tense (1st) | Future Tense (1st) | Notes / Etymology |
+| English | Arden (Root) | Present | Past Tense (1st) | Future Tense (1st) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | work | **labore** | labore | me laboro | me laborbo | From *labor*, universal action verb |
 | play | **velaa** | velaa | me velao | me velabo | Light and free root, like wind |
@@ -76,7 +81,7 @@ Here are the **first 40 verbs** with root forms and etymology:
 
 ### **🔧 Remaining Verbs in Arden**
 
-| English | Arden (Root) | Infinitive | Past Tense (1st) | Future Tense (1st) | Notes / Etymology |
+| English | Arden (Root) | Present | Past Tense (1st) | Future Tense (1st) | Notes / Etymology |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | pass by | **trave** | trave | me travo | me travbo | From *traverse* or *travel* |
 | cut | **scarne** | scarne | me scarno | me scarnbo | Sharp and final; from *scar* |

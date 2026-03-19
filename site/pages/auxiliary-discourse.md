@@ -9,10 +9,10 @@ layout = "summary"
 
 ### 1. Design Principles
 
-1. Arden uses particles, not auxiliary verb conjugation.
+1. Arden uses suffix tense on verbs and particles for question, modality, aspect, and discourse.
 2. Declarative word order is preserved in all constructions.
 3. There is no mandatory copula (“to be”).
-4. All auxiliaries are invariant and optional, enabling natural ellipsis.
+4. Modal and discourse particles are invariant and optional.
 5. The system is optimized for spoken, everyday language.
 
 ### 2. Interrogatives (Questions)
@@ -68,7 +68,7 @@ Ken kareth?
 
 ### 3. Aspect Markers
 
-Aspect markers follow the verb and are optional.
+Aspect markers follow the tense-marked verb and are optional.
 
 | Particle | Meaning |
 | --- | --- |
@@ -127,7 +127,7 @@ Tu no vare solinor.
 
 ### 6. Copula Strategy (Zero Copula)
 
-Arden does not require a copula verb. States and identities are expressed directly with adjectives, nouns, or discourse particles.
+Arden allows zero copula, but it also has an explicit copula: **es**. Use `es` when you want a clear linking verb; omit it freely in short, obvious descriptive clauses.
 
 **Examples**
 
@@ -136,6 +136,9 @@ Me morv solinor.
 
 Orel olven.  
 “Everything is okay.”
+
+Melun namor es Kareth.  
+“My name is Kareth.”
 
 ### 7. Discourse & Social Particles
 
@@ -177,7 +180,7 @@ Vare rin!
 
 Rather than inventing literal calques, Arden translates **the intended meaning** of English idioms while keeping the sound and syntax consistent with the auxiliary/discourse system.
 
-* Default: render idioms with existing particles, verbs, and aspect markers (e.g., `Selai.` for “No worries,” `Olven.` for “All good,” `Me vare rin!` for “On my way!”).
+* Default: render idioms with existing particles, tense-marked verbs, and aspect markers (e.g., `Selai.` for “No worries,” `Olven.` for “All good,” `Me vare rin!` for “On my way!”).
 * Only canonize a new idiom if it becomes a stable Arden phrase used across conversations (like `Selai`, `Olven`, `Morai`).
 * Use modal/auxiliary particles plus suggested verbs to express English idiomatic actions (e.g., “Be right back” → `Me vare, veran soon.` using `veran` = return/soon, `Me` + `vare` + aspect marker).
 * When an idiom relies on a specific discourse tone (surprise, frustration, encouragement), prefer the closest existing discourse particle (`Dolvai`, `Selai`, etc.) instead of molding new vocabulary.
@@ -194,4 +197,4 @@ With a small, phonologically consistent set of particles, Arden supports:
 * Negation without auxiliary verbs  
 * Natural ellipsis and conversational flow
 
-This system avoids English-style inversion, preserves Arden’s sound aesthetics, and scales cleanly from casual speech to formal prose.
+These particles work alongside Arden's tense-marked verbs and optional copula, preserving simple clause order while keeping the language expressive.

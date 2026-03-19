@@ -38,6 +38,21 @@ title = "Body, Clothing, and Color"
 | skin | **dureth** | duretha | duretham | durethum | durethel | dureth | From *durable* \+ *breath*; protective outer layer |
 | body | **toran** | torana | toranam | toranum | toranel | toran | Full physical form; solid, simple root |
 
+**Clothing category**
+
+| English | Arden (Root) | Nominative | Accusative | Genitive | Arden (Adjective) | Arden (Noun) | Notes / Etymology |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| shirt | **camir** | camira | camiram | camirum | camirel | camir | Simple everyday garment root |
+| coat | **draven** | dravena | dravenam | dravenum | dravenel | draven | Outerwear root with a heavier sound |
+| dress | **velora** | veloraa | veloraam | veloraum | velorael | velora | Flowing garment root |
+| shoe | **sorem** | sorema | soremam | soremum | soremel | sorem | Durable footwear root |
+| hat | **talen** | talena | talenam | talenum | talenel | talen | Light, rounded headwear root |
+| glove | **kalvor** | kalvora | kalvoram | kalvorum | kalvorel | kalvor | Hand-covering root built from the hand family |
+| belt | **terkan** | terkana | terkanam | terkanum | terkanel | terkan | Binding, fastening root |
+| pocket | **minor** | minora | minoram | minorum | minorel | minor | Small holding-space root |
+| cloth | **lineth** | linetha | linetham | linethum | linethel | lineth | General fabric root |
+| button | **dorin** | dorina | dorinam | dorinum | dorinel | dorin | Small fastening root |
+
 ### **🎨 Color**
 
 Since colors are adjectives in Arden, they all follow the **\-el** suffix rule and come **after the noun**. I'll also include **plural (-ee)** forms for use with plural nouns.
@@ -55,7 +70,7 @@ Since colors are adjectives in Arden, they all follow the **\-el** suffix rule a
 | black | **vark** | varkel | varkelee | Dark, sharp consonants |
 | white | **albr** | albrel | albrelee | Bright, airy — echoes *albus* |
 | gray | **shern** | shernel | shernelee | Muted and smooth |
-| color (noun) | **tinv** | tinva | tinvam | tinvum |
+| color (noun) | **tinv** | tinva | tinvam | tinvum | General noun root |
 
 ---
 

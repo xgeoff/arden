@@ -52,7 +52,7 @@ This page collects every final Phase-1 addition to the conversational vocabulary
 
 ### 🔧 Category: Core Verbs
 
-> **Note:** Verbs are invariant; tense/aspect is expressed via particles (`rin`, `jurel`, `sen`, `pren`).
+> **Note:** Verbs follow the canonical suffix-tense system. Use the listed forms as present roots; add `-o` for past and `-bo` for future. Aspect particles such as `rin`, `jurel`, `sen`, and `pren` remain optional refinements.
 
 | English                          | Arden (Root) | Verb Form | Notes                                    |
 | -------------------------------- | ------------ | --------- | ---------------------------------------- |

@@ -1,35 +1,73 @@
 ---
 title = "Arden"
 layout = "summary"
+
+sidebar {
+  title = "Learn Arden"
+  subtitle = "Canonical learner path"
+  sections = [
+    [
+      title: "Start Here",
+      links: [
+        [label: "Canonical Grammar", href: "canonical-grammar.html"],
+        [label: "Phoneme & Orthography", href: "phoneme-orthography.html"],
+        [label: "Conversational Core", href: "conversational-core.html"],
+        [label: "Common Daily Sentences", href: "common-daily-sentences.html"]
+      ]
+    ],
+    [
+      title: "Core Grammar",
+      links: [
+        [label: "Auxiliary & Discourse", href: "auxiliary-discourse.html"],
+        [label: "Transportation & Verbs", href: "transportation-verbs.html"],
+        [label: "Adjectives & Adverbs", href: "adjectives-adverbs.html"],
+        [label: "Quick Summary", href: "arden-summary.html"]
+      ]
+    ],
+    [
+      title: "Vocabulary",
+      links: [
+        [label: "Body, Clothing, Color", href: "body-clothing-color.html"],
+        [label: "Food, Home, Jobs, Location", href: "food-home-jobs-location.html"],
+        [label: "Animals, Art, Beverages", href: "animals-art-beverages.html"],
+        [label: "Months, Nature, Numbers, People", href: "months-nature-numbers-people.html"],
+        [label: "Days, Directions, Electronics", href: "days-directions-electronics.html"],
+        [label: "Materials, Measurements, Modal", href: "materials-measurements-misc-modal.html"],
+        [label: "Pronouns, Seasons, Society, Time", href: "pronouns-seasons-society-time.html"]
+      ]
+    ]
+  ]
+}
 ---
 
 ## Learn Arden
 
-Arden is a constructed language aimed at clear, phonetic, everyday speech. This page is the starting guide for the **current spoken standard** used by the newer conversational docs in this repository.
+Arden is a constructed language aimed at clear, phonetic, everyday speech. This page is the starting guide for the **canonical presentation** used across this documentation set.
 
 If another page disagrees with this one, follow this order:
 
-1. [`auxiliary-discourse`](auxiliary-discourse.html) for sentence mechanics
-2. [`conversational-core`](conversational-core.html) for high-frequency vocabulary
-3. [`phoneme-orthography`](phoneme-orthography.html) for sound and spelling
+1. [`canonical-grammar`](canonical-grammar.html) for the full grammar spec
+2. [`auxiliary-discourse`](auxiliary-discourse.html) for questions, negation, aspect, and discourse use
+3. [`conversational-core`](conversational-core.html) for high-frequency vocabulary
+4. [`phoneme-orthography`](phoneme-orthography.html) for sound and spelling
 
-Older pages still preserve useful vocabulary, but some of them reflect an earlier draft of the language.
+Some pages still preserve useful vocabulary but use older wording or less polished explanations. When pages differ, treat this page and the linked grammar pages above as the canonical guide.
 
 ## The Fastest Way In
 
 You can start speaking simple Arden with five rules:
 
 1. Use normal **subject-verb-object** order.
-2. Keep verbs **invariant**; add particles for question, aspect, and modality.
+2. Mark tense on the verb with **present root / past `-o` / future `-bo`**.
 3. Put adjectives **after** the noun.
 4. Use **no** for negation.
-5. Skip a copula when the meaning is already clear.
+5. Use **es** as the copula when you want an explicit linker; zero copula is also valid when the meaning is clear.
 
 Examples:
 
 | English | Arden |
 | --- | --- |
-| I am busy today. | **Me prethel solinor.** |
+| I am busy today. | **Me es prethel solinor.** |
 | You are free this weekend? | **Tu lirel toravel, kaa?** |
 | What are you thinking? | **Ke tu mentaa?** |
 | I am working right now. | **Me labore rin.** |
@@ -62,9 +100,10 @@ Examples:
 
 | English | Arden | Note |
 | --- | --- | --- |
-| I read. | **Me leraa.** | Plain statement |
-| I am reading. | **Me leraa rin.** | `rin` marks ongoing action |
-| I just read. | **Me leraa jurel.** | `jurel` marks recent action |
+| I read. | **Me leraa.** | Plain present statement |
+| I read earlier. | **Me lerao.** | past suffix |
+| I will read. | **Me leraabo.** | future suffix |
+| I am reading. | **Me leraa rin.** | optional aspect |
 | I can read. | **Me kan leraa.** | modal before the verb |
 | I do not read. | **Me no leraa.** | negation before the verb |
 
@@ -80,12 +119,13 @@ Arden does not invert word order.
 
 ### Zero Copula
 
-Arden often omits an explicit verb for “to be.”
+Arden has an explicit copula, **`es`**, but it can also omit it in short descriptive clauses.
 
 | English | Arden |
 | --- | --- |
+| Everything is okay. | **Orel es olven.** |
+| I am exhausted today. | **Me es dranel solinor.** |
 | Everything is okay. | **Orel olven.** |
-| I am exhausted today. | **Me dranel solinor.** |
 | Miserable night. | **Grelvel nareth.** |
 
 ## Nouns, Adjectives, and Possession
@@ -150,11 +190,12 @@ This short exchange covers the main beginner patterns:
 
 Read the docs in this order:
 
-1. [`phoneme-orthography`](phoneme-orthography.html): learn the sound system
-2. [`auxiliary-discourse`](auxiliary-discourse.html): learn questions, negation, aspect, and conversational flow
-3. [`conversational-core`](conversational-core.html): learn the highest-frequency words
-4. [`common-daily-sentences`](common-daily-sentences.html): practice full phrases
-5. The thematic vocabulary pages: expand nouns, adjectives, and domains
+1. [`canonical-grammar`](canonical-grammar.html): learn the full grammar system
+2. [`phoneme-orthography`](phoneme-orthography.html): learn the sound system
+3. [`auxiliary-discourse`](auxiliary-discourse.html): learn questions, negation, aspect, and discourse flow
+4. [`conversational-core`](conversational-core.html): learn the highest-frequency words
+5. [`common-daily-sentences`](common-daily-sentences.html): practice full phrases
+6. The thematic vocabulary pages: expand nouns, adjectives, and domains
 
 ## Vocabulary Sections
 
@@ -179,15 +220,12 @@ If you are looking for a specific kind of word, the fastest route is usually:
 3. animals, drinks, movies, music, and art terms: [`animals-art-beverages`](animals-art-beverages.html)
 4. calendar, weather, landscape, and number systems: [`months-nature-numbers-people`](months-nature-numbers-people.html)
 5. weekdays, directions, and device words: [`days-directions-electronics`](days-directions-electronics.html)
-6. travel words and older verb tables: [`transportation-verbs`](transportation-verbs.html)
+6. travel words and verb tables: [`transportation-verbs`](transportation-verbs.html)
 7. materials, units, abstract misc. terms, and modal particles: [`materials-measurements-misc-modal`](materials-measurements-misc-modal.html)
 8. pronouns, prepositions, conjunctions, seasons, society, and time: [`pronouns-seasons-society-time`](pronouns-seasons-society-time.html)
 
 ## Documentation Status
 
-This repository currently mixes at least two versions of Arden:
+This repository documents one language, Arden, but some source pages were written at different times and were not fully aligned with each other.
 
-* an older morphology-heavy draft built around tense suffixes and larger declension tables
-* a newer conversational draft built around invariant verbs and particles
-
-This guide uses the newer conversational draft because it is the most coherent path for a learner and it matches the most recent “canonical” pages in the repo.
+This guide is the canonical entry point, and the linked grammar pages above should be treated as the authoritative explanation when wording elsewhere is looser, older, or less consistent.

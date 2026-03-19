@@ -5,14 +5,14 @@ layout = "summary"
 
 ## Arden Summary
 
-This page is the compact reference for the **current conversational standard** used across the newer Arden docs.
+This page is the compact reference for the canonical Arden presentation used across the guide.
 
 ## What Arden Optimizes For
 
 - phonetic spelling
 - simple spoken syntax
-- minimal inflection in everyday use
-- reusable particles for grammar instead of large conjugation tables
+- explicit tense marking on verbs
+- reusable particles for question, modality, aspect, and discourse
 
 ## Sentence Basics
 
@@ -21,8 +21,19 @@ Arden normally uses **subject-verb-object** order.
 | English | Arden |
 | --- | --- |
 | I read the book. | **Me leraa levran.** |
-| We meet later. | **Mena miraa soren.** |
+| I read the book earlier. | **Me lerao levran.** |
+| We will meet later. | **Mena miraabo soren.** |
 | You are free? | **Tu lirel, kaa?** |
+
+## Verb Tense
+
+| Tense | Form | Example |
+| --- | --- | --- |
+| present | root form | **me vare** |
+| past | `-o` | **me varo** |
+| future | `-bo` | **me varbo** |
+
+Arden verbs do not agree with person or number.
 
 ## Questions and Particles
 
@@ -32,21 +43,22 @@ Arden normally uses **subject-verb-object** order.
 | open question | `ke` | clause-initial | **Ke tu occurre?** |
 | suggestion prompt | `ken` | clause-initial | **Ken kareth?** |
 | negation | `no` | before predicate | **Me no leraa.** |
-| ongoing aspect | `rin` | after verb | **Me labore rin.** |
+| ongoing aspect | `rin` | after verb | **Me vare rin.** |
 | habitual aspect | `sen` | after verb | **Tu labore sen.** |
-| recent aspect | `jurel` | after verb | **Me leraa jurel.** |
+| recent aspect | `jurel` | after verb | **Me varo jurel.** |
 | imminent aspect | `pren` | after verb | **Me vare pren.** |
 | ability | `kan` | before verb | **Me kan helpe.** |
 | advice | `shal` | before verb | **Tu shal reste.** |
 
-## Zero Copula
+## Copula And Zero Copula
 
-Arden often omits an explicit verb for “to be.”
+Arden has an explicit copula, **`es`**, and also allows zero copula in short descriptive clauses.
 
 | English | Arden |
 | --- | --- |
+| I am busy today. | **Me es prethel solinor.** |
+| Everything is okay. | **Orel es olven.** |
 | I am busy today. | **Me prethel solinor.** |
-| Everything is okay. | **Orel olven.** |
 | Miserable night. | **Grelvel nareth.** |
 
 ## Pronouns
@@ -129,7 +141,8 @@ For the complete chart, see [`phoneme-orthography`](phoneme-orthography.html).
 ## Recommended Reading Order
 
 1. [`index`](index.html)
-2. [`phoneme-orthography`](phoneme-orthography.html)
-3. [`auxiliary-discourse`](auxiliary-discourse.html)
-4. [`conversational-core`](conversational-core.html)
-5. [`common-daily-sentences`](common-daily-sentences.html)
+2. [`canonical-grammar`](canonical-grammar.html)
+3. [`phoneme-orthography`](phoneme-orthography.html)
+4. [`auxiliary-discourse`](auxiliary-discourse.html)
+5. [`conversational-core`](conversational-core.html)
+6. [`common-daily-sentences`](common-daily-sentences.html)

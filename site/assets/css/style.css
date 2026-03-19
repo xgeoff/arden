@@ -146,7 +146,7 @@ main nav {
   display: flex;
   align-items: center;
   gap: 0.65rem;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.6rem;
 }
 .sidebar-logo {
   width: 70px;
@@ -162,5 +162,20 @@ main nav {
 .sidebar-subtitle {
   margin: 0.1em 0 0;
   color: #4b5563;
+  font-size: 0.95rem;
+}
+.sidebar-section + .sidebar-section {
+  margin-top: 1rem;
+}
+.sidebar-section-title {
+  margin: 0 0 0.15rem;
+  font-weight: 700;
+}
+.sidebar .nav-list {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+.sidebar .nav-list li {
+  margin-bottom: 0.3rem;
   font-size: 0.95rem;
 }

@@ -55,7 +55,6 @@ title = "Months, Nature, Numbers, and People"
 | island | **silorn** | silorna | silornam | silornum | silornel | silorn | Alone yet peaceful; from *isle* \+ *silent* |
 | hill | **tarven** | tarvena | tarvenam | tarvenum | tarvenel | tarven | Small mountain; smoother tone |
 | heat | **sorath** | soratha | soratham | sorathum | sorathel | sorath | Warmth root kept distinct from *selvar* (south) |
-| nature | **veril** | verila | verilam | verilum | verilel | veril | Vital, whole; from *vita* \+ *real* |
 | animal | **dralen** | dralena | dralenam | dralenum | dranel | dralen | From *drama* \+ *animal*; lively and dynamic |
 | insect | **zirel** | zirela | zirelam | zirelum | zirelel | zirel | Small, quick, buzzing root kept distinct from *narel* (nose) |
 | nature | **veril** | verila | verilam | verilum | verilel | veril | Vital, whole; from *vita* \+ *real* |
